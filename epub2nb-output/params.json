@@ -1,0 +1,1741 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Ratajský les",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Aleš Palán",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-04-13T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "ratajsky_les_001.md",
+            "xhtml": "ratajsky_les_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_002.md",
+            "xhtml": "ratajsky_les_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_003.md",
+            "xhtml": "ratajsky_les_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_004.md",
+            "xhtml": "ratajsky_les_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_005.md",
+            "xhtml": "ratajsky_les_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_006.md",
+            "xhtml": "ratajsky_les_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_007.md",
+            "xhtml": "ratajsky_les_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_008.md",
+            "xhtml": "ratajsky_les_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_009.md",
+            "xhtml": "ratajsky_les_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_010.md",
+            "xhtml": "ratajsky_les_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_011.md",
+            "xhtml": "ratajsky_les_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_012.md",
+            "xhtml": "ratajsky_les_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_013.md",
+            "xhtml": "ratajsky_les_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_014.md",
+            "xhtml": "ratajsky_les_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_015.md",
+            "xhtml": "ratajsky_les_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_016.md",
+            "xhtml": "ratajsky_les_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_017.md",
+            "xhtml": "ratajsky_les_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_018.md",
+            "xhtml": "ratajsky_les_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_019.md",
+            "xhtml": "ratajsky_les_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_020.md",
+            "xhtml": "ratajsky_les_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_021.md",
+            "xhtml": "ratajsky_les_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_022.md",
+            "xhtml": "ratajsky_les_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_023.md",
+            "xhtml": "ratajsky_les_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_024.md",
+            "xhtml": "ratajsky_les_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_025.md",
+            "xhtml": "ratajsky_les_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_026.md",
+            "xhtml": "ratajsky_les_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_027.md",
+            "xhtml": "ratajsky_les_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_028.md",
+            "xhtml": "ratajsky_les_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_029.md",
+            "xhtml": "ratajsky_les_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_030.md",
+            "xhtml": "ratajsky_les_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_031.md",
+            "xhtml": "ratajsky_les_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_032.md",
+            "xhtml": "ratajsky_les_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_033.md",
+            "xhtml": "ratajsky_les_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_034.md",
+            "xhtml": "ratajsky_les_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_035.md",
+            "xhtml": "ratajsky_les_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_036.md",
+            "xhtml": "ratajsky_les_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_037.md",
+            "xhtml": "ratajsky_les_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_038.md",
+            "xhtml": "ratajsky_les_038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_039.md",
+            "xhtml": "ratajsky_les_039.xhtml",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_040.md",
+            "xhtml": "ratajsky_les_040.xhtml",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_041.md",
+            "xhtml": "ratajsky_les_041.xhtml",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_042.md",
+            "xhtml": "ratajsky_les_042.xhtml",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_043.md",
+            "xhtml": "ratajsky_les_043.xhtml",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_044.md",
+            "xhtml": "ratajsky_les_044.xhtml",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_045.md",
+            "xhtml": "ratajsky_les_045.xhtml",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_046.md",
+            "xhtml": "ratajsky_les_046.xhtml",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_047.md",
+            "xhtml": "ratajsky_les_047.xhtml",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_048.md",
+            "xhtml": "ratajsky_les_048.xhtml",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_049.md",
+            "xhtml": "ratajsky_les_049.xhtml",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_050.md",
+            "xhtml": "ratajsky_les_050.xhtml",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_051.md",
+            "xhtml": "ratajsky_les_051.xhtml",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_052.md",
+            "xhtml": "ratajsky_les_052.xhtml",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_053.md",
+            "xhtml": "ratajsky_les_053.xhtml",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_054.md",
+            "xhtml": "ratajsky_les_054.xhtml",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_055.md",
+            "xhtml": "ratajsky_les_055.xhtml",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_056.md",
+            "xhtml": "ratajsky_les_056.xhtml",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_057.md",
+            "xhtml": "ratajsky_les_057.xhtml",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_058.md",
+            "xhtml": "ratajsky_les_058.xhtml",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_059.md",
+            "xhtml": "ratajsky_les_059.xhtml",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_060.md",
+            "xhtml": "ratajsky_les_060.xhtml",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_061.md",
+            "xhtml": "ratajsky_les_061.xhtml",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_062.md",
+            "xhtml": "ratajsky_les_062.xhtml",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_063.md",
+            "xhtml": "ratajsky_les_063.xhtml",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_064.md",
+            "xhtml": "ratajsky_les_064.xhtml",
+            "id": 63,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_065.md",
+            "xhtml": "ratajsky_les_065.xhtml",
+            "id": 64,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_066.md",
+            "xhtml": "ratajsky_les_066.xhtml",
+            "id": 65,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_067.md",
+            "xhtml": "ratajsky_les_067.xhtml",
+            "id": 66,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_068.md",
+            "xhtml": "ratajsky_les_068.xhtml",
+            "id": 67,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_069.md",
+            "xhtml": "ratajsky_les_069.xhtml",
+            "id": 68,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_070.md",
+            "xhtml": "ratajsky_les_070.xhtml",
+            "id": 69,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_071.md",
+            "xhtml": "ratajsky_les_071.xhtml",
+            "id": 70,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_072.md",
+            "xhtml": "ratajsky_les_072.xhtml",
+            "id": 71,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_073.md",
+            "xhtml": "ratajsky_les_073.xhtml",
+            "id": 72,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_074.md",
+            "xhtml": "ratajsky_les_074.xhtml",
+            "id": 73,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_075.md",
+            "xhtml": "ratajsky_les_075.xhtml",
+            "id": 74,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_076.md",
+            "xhtml": "ratajsky_les_076.xhtml",
+            "id": 75,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_077.md",
+            "xhtml": "ratajsky_les_077.xhtml",
+            "id": 76,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_078.md",
+            "xhtml": "ratajsky_les_078.xhtml",
+            "id": 77,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_079.md",
+            "xhtml": "ratajsky_les_079.xhtml",
+            "id": 78,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_080.md",
+            "xhtml": "ratajsky_les_080.xhtml",
+            "id": 79,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_081.md",
+            "xhtml": "ratajsky_les_081.xhtml",
+            "id": 80,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_082.md",
+            "xhtml": "ratajsky_les_082.xhtml",
+            "id": 81,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_083.md",
+            "xhtml": "ratajsky_les_083.xhtml",
+            "id": 82,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_084.md",
+            "xhtml": "ratajsky_les_084.xhtml",
+            "id": 83,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_085.md",
+            "xhtml": "ratajsky_les_085.xhtml",
+            "id": 84,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_086.md",
+            "xhtml": "ratajsky_les_086.xhtml",
+            "id": 85,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_087.md",
+            "xhtml": "ratajsky_les_087.xhtml",
+            "id": 86,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_088.md",
+            "xhtml": "ratajsky_les_088.xhtml",
+            "id": 87,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_089.md",
+            "xhtml": "ratajsky_les_089.xhtml",
+            "id": 88,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_090.md",
+            "xhtml": "ratajsky_les_090.xhtml",
+            "id": 89,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_091.md",
+            "xhtml": "ratajsky_les_091.xhtml",
+            "id": 90,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_092.md",
+            "xhtml": "ratajsky_les_092.xhtml",
+            "id": 91,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_093.md",
+            "xhtml": "ratajsky_les_093.xhtml",
+            "id": 92,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_094.md",
+            "xhtml": "ratajsky_les_094.xhtml",
+            "id": 93,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ratajsky_les_095.md",
+            "xhtml": "ratajsky_les_095.xhtml",
+            "id": 94,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Ratajský les",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Aleš Palán",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-04-13T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_001.md",
+        "xhtml": "ratajsky_les_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_002.md",
+        "xhtml": "ratajsky_les_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_003.md",
+        "xhtml": "ratajsky_les_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_004.md",
+        "xhtml": "ratajsky_les_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_005.md",
+        "xhtml": "ratajsky_les_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_006.md",
+        "xhtml": "ratajsky_les_006.xhtml"
+      },
+      {
+        "titleSuggest": "ODDÍL I",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_007.md",
+        "xhtml": "ratajsky_les_007.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_008.md",
+        "xhtml": "ratajsky_les_008.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_009.md",
+        "xhtml": "ratajsky_les_009.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_010.md",
+        "xhtml": "ratajsky_les_010.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_011.md",
+        "xhtml": "ratajsky_les_011.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_012.md",
+        "xhtml": "ratajsky_les_012.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_013.md",
+        "xhtml": "ratajsky_les_013.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_014.md",
+        "xhtml": "ratajsky_les_014.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_015.md",
+        "xhtml": "ratajsky_les_015.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_016.md",
+        "xhtml": "ratajsky_les_016.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_017.md",
+        "xhtml": "ratajsky_les_017.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_018.md",
+        "xhtml": "ratajsky_les_018.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_019.md",
+        "xhtml": "ratajsky_les_019.xhtml"
+      },
+      {
+        "titleSuggest": "ODDÍL II",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_020.md",
+        "xhtml": "ratajsky_les_020.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_021.md",
+        "xhtml": "ratajsky_les_021.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_022.md",
+        "xhtml": "ratajsky_les_022.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_023.md",
+        "xhtml": "ratajsky_les_023.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_024.md",
+        "xhtml": "ratajsky_les_024.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_025.md",
+        "xhtml": "ratajsky_les_025.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_026.md",
+        "xhtml": "ratajsky_les_026.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_027.md",
+        "xhtml": "ratajsky_les_027.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_028.md",
+        "xhtml": "ratajsky_les_028.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_029.md",
+        "xhtml": "ratajsky_les_029.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_030.md",
+        "xhtml": "ratajsky_les_030.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_031.md",
+        "xhtml": "ratajsky_les_031.xhtml"
+      },
+      {
+        "titleSuggest": "ODDÍL III",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_032.md",
+        "xhtml": "ratajsky_les_032.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_033.md",
+        "xhtml": "ratajsky_les_033.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_034.md",
+        "xhtml": "ratajsky_les_034.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_035.md",
+        "xhtml": "ratajsky_les_035.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_036.md",
+        "xhtml": "ratajsky_les_036.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_037.md",
+        "xhtml": "ratajsky_les_037.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_038.md",
+        "xhtml": "ratajsky_les_038.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_039.md",
+        "xhtml": "ratajsky_les_039.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_040.md",
+        "xhtml": "ratajsky_les_040.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_041.md",
+        "xhtml": "ratajsky_les_041.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_042.md",
+        "xhtml": "ratajsky_les_042.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_043.md",
+        "xhtml": "ratajsky_les_043.xhtml"
+      },
+      {
+        "titleSuggest": "ODDÍL IV",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_044.md",
+        "xhtml": "ratajsky_les_044.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_045.md",
+        "xhtml": "ratajsky_les_045.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_046.md",
+        "xhtml": "ratajsky_les_046.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_047.md",
+        "xhtml": "ratajsky_les_047.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_048.md",
+        "xhtml": "ratajsky_les_048.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_049.md",
+        "xhtml": "ratajsky_les_049.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_050.md",
+        "xhtml": "ratajsky_les_050.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_051.md",
+        "xhtml": "ratajsky_les_051.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_052.md",
+        "xhtml": "ratajsky_les_052.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_053.md",
+        "xhtml": "ratajsky_les_053.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_054.md",
+        "xhtml": "ratajsky_les_054.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_055.md",
+        "xhtml": "ratajsky_les_055.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_056.md",
+        "xhtml": "ratajsky_les_056.xhtml"
+      },
+      {
+        "titleSuggest": "ODDÍL V",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_057.md",
+        "xhtml": "ratajsky_les_057.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_058.md",
+        "xhtml": "ratajsky_les_058.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_059.md",
+        "xhtml": "ratajsky_les_059.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_060.md",
+        "xhtml": "ratajsky_les_060.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_061.md",
+        "xhtml": "ratajsky_les_061.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_062.md",
+        "xhtml": "ratajsky_les_062.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_063.md",
+        "xhtml": "ratajsky_les_063.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_064.md",
+        "xhtml": "ratajsky_les_064.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_065.md",
+        "xhtml": "ratajsky_les_065.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_066.md",
+        "xhtml": "ratajsky_les_066.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_067.md",
+        "xhtml": "ratajsky_les_067.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_068.md",
+        "xhtml": "ratajsky_les_068.xhtml"
+      },
+      {
+        "titleSuggest": "ODDÍL VI",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_069.md",
+        "xhtml": "ratajsky_les_069.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_070.md",
+        "xhtml": "ratajsky_les_070.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_071.md",
+        "xhtml": "ratajsky_les_071.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_072.md",
+        "xhtml": "ratajsky_les_072.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_073.md",
+        "xhtml": "ratajsky_les_073.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_074.md",
+        "xhtml": "ratajsky_les_074.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_075.md",
+        "xhtml": "ratajsky_les_075.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_076.md",
+        "xhtml": "ratajsky_les_076.xhtml"
+      },
+      {
+        "titleSuggest": "1952 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_077.md",
+        "xhtml": "ratajsky_les_077.xhtml"
+      },
+      {
+        "titleSuggest": "1958 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_078.md",
+        "xhtml": "ratajsky_les_078.xhtml"
+      },
+      {
+        "titleSuggest": "2014 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_079.md",
+        "xhtml": "ratajsky_les_079.xhtml"
+      },
+      {
+        "titleSuggest": "ODDÍL VII",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_080.md",
+        "xhtml": "ratajsky_les_080.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (1)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_081.md",
+        "xhtml": "ratajsky_les_081.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (2)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_082.md",
+        "xhtml": "ratajsky_les_082.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (3)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_083.md",
+        "xhtml": "ratajsky_les_083.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (4)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_084.md",
+        "xhtml": "ratajsky_les_084.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (5)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_085.md",
+        "xhtml": "ratajsky_les_085.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (6)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_086.md",
+        "xhtml": "ratajsky_les_086.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (7)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_087.md",
+        "xhtml": "ratajsky_les_087.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (8)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_088.md",
+        "xhtml": "ratajsky_les_088.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (9)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_089.md",
+        "xhtml": "ratajsky_les_089.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (10)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_090.md",
+        "xhtml": "ratajsky_les_090.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (11)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_091.md",
+        "xhtml": "ratajsky_les_091.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (12)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_092.md",
+        "xhtml": "ratajsky_les_092.xhtml"
+      },
+      {
+        "titleSuggest": "2015 (13)",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_093.md",
+        "xhtml": "ratajsky_les_093.xhtml"
+      },
+      {
+        "titleSuggest": "Ediční poznámka",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_094.md",
+        "xhtml": "ratajsky_les_094.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ratajsky_les_095.md",
+        "xhtml": "ratajsky_les_095.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_ratajsky_les2.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "CharOverride-3",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_pozn_pod_carou",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-I-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-I-",
+      "MLP_text_uprostred",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven1_cast",
+      "MLP_uroven1_zvlastni_pripady",
+      "MLP_uroven2_kapitola",
+      "MLP_venovani",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_kurziva_9b",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1",
+      "_idGenParaOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "palan-ratajsky-les"
+    },
+    "generatedAt": 1652420681854
+  }
+}

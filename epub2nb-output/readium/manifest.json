@@ -1,0 +1,793 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Ratajský les",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Aleš Palán",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-04-13T00:00:00.000Z",
+    "published": "2021-04-09T11:16:08.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_085.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_086.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_087.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_088.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_089.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_090.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_091.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_092.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_093.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_094.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ratajsky_les_095.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_ratajsky_les2.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "ODDÍL I",
+      "children": [
+        {
+          "title": "1958 (1)",
+          "href": "OEBPS/Text/ratajsky_les_008.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "2014 (1)",
+          "href": "OEBPS/Text/ratajsky_les_009.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "1952 (1)",
+          "href": "OEBPS/Text/ratajsky_les_010.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "1958 (2)",
+          "href": "OEBPS/Text/ratajsky_les_011.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "2014 (2)",
+          "href": "OEBPS/Text/ratajsky_les_012.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "1952 (2)",
+          "href": "OEBPS/Text/ratajsky_les_013.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "1958 (3)",
+          "href": "OEBPS/Text/ratajsky_les_014.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "2014 (3)",
+          "href": "OEBPS/Text/ratajsky_les_015.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "1952 (3)",
+          "href": "OEBPS/Text/ratajsky_les_016.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "1958 (4)",
+          "href": "OEBPS/Text/ratajsky_les_017.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "2014 (4)",
+          "href": "OEBPS/Text/ratajsky_les_018.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "1952 (4)",
+          "href": "OEBPS/Text/ratajsky_les_019.xhtml#_idParaDest-13"
+        }
+      ],
+      "href": "OEBPS/Text/ratajsky_les_007.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "ODDÍL II",
+      "children": [
+        {
+          "title": "1952 (1)",
+          "href": "OEBPS/Text/ratajsky_les_021.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "1958 (1)",
+          "href": "OEBPS/Text/ratajsky_les_022.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "2014 (1)",
+          "href": "OEBPS/Text/ratajsky_les_023.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "1952 (2)",
+          "href": "OEBPS/Text/ratajsky_les_024.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "1958 (2)",
+          "href": "OEBPS/Text/ratajsky_les_025.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "2014 (2)",
+          "href": "OEBPS/Text/ratajsky_les_026.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "1952 (3)",
+          "href": "OEBPS/Text/ratajsky_les_027.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "1958 (3)",
+          "href": "OEBPS/Text/ratajsky_les_028.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "2014 (3)",
+          "href": "OEBPS/Text/ratajsky_les_029.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "1952 (4)",
+          "href": "OEBPS/Text/ratajsky_les_030.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "1958 (4)",
+          "href": "OEBPS/Text/ratajsky_les_031.xhtml#_idParaDest-25"
+        }
+      ],
+      "href": "OEBPS/Text/ratajsky_les_020.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "ODDÍL III",
+      "children": [
+        {
+          "title": "2014 (1)",
+          "href": "OEBPS/Text/ratajsky_les_033.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "1952 (1)",
+          "href": "OEBPS/Text/ratajsky_les_034.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "1958 (1)",
+          "href": "OEBPS/Text/ratajsky_les_035.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "2014 (2)",
+          "href": "OEBPS/Text/ratajsky_les_036.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "1952 (2)",
+          "href": "OEBPS/Text/ratajsky_les_037.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "1958 (2)",
+          "href": "OEBPS/Text/ratajsky_les_038.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "2014 (3)",
+          "href": "OEBPS/Text/ratajsky_les_039.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "1952 (3)",
+          "href": "OEBPS/Text/ratajsky_les_040.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "1958 (3)",
+          "href": "OEBPS/Text/ratajsky_les_041.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "2014 (4)",
+          "href": "OEBPS/Text/ratajsky_les_042.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "1952 (4)",
+          "href": "OEBPS/Text/ratajsky_les_043.xhtml#_idParaDest-37"
+        }
+      ],
+      "href": "OEBPS/Text/ratajsky_les_032.xhtml#_idParaDest-26"
+    },
+    {
+      "title": "ODDÍL IV",
+      "children": [
+        {
+          "title": "1958 (1)",
+          "href": "OEBPS/Text/ratajsky_les_045.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "2014 (1)",
+          "href": "OEBPS/Text/ratajsky_les_046.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "1952 (1)",
+          "href": "OEBPS/Text/ratajsky_les_047.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "1958 (2)",
+          "href": "OEBPS/Text/ratajsky_les_048.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "2014 (2)",
+          "href": "OEBPS/Text/ratajsky_les_049.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "1952 (2)",
+          "href": "OEBPS/Text/ratajsky_les_050.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "1958 (3)",
+          "href": "OEBPS/Text/ratajsky_les_051.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "2014 (3)",
+          "href": "OEBPS/Text/ratajsky_les_052.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "1952 (3)",
+          "href": "OEBPS/Text/ratajsky_les_053.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "1958 (4)",
+          "href": "OEBPS/Text/ratajsky_les_054.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "2014 (4)",
+          "href": "OEBPS/Text/ratajsky_les_055.xhtml#_idParaDest-49"
+        },
+        {
+          "title": "1952 (4)",
+          "href": "OEBPS/Text/ratajsky_les_056.xhtml#_idParaDest-50"
+        }
+      ],
+      "href": "OEBPS/Text/ratajsky_les_044.xhtml#_idParaDest-38"
+    },
+    {
+      "title": "ODDÍL V",
+      "children": [
+        {
+          "title": "2014 (1)",
+          "href": "OEBPS/Text/ratajsky_les_058.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "1952 (1)",
+          "href": "OEBPS/Text/ratajsky_les_059.xhtml#_idParaDest-53"
+        },
+        {
+          "title": "1958 (1)",
+          "href": "OEBPS/Text/ratajsky_les_060.xhtml#_idParaDest-54"
+        },
+        {
+          "title": "2014 (2)",
+          "href": "OEBPS/Text/ratajsky_les_061.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "1952 (2)",
+          "href": "OEBPS/Text/ratajsky_les_062.xhtml#_idParaDest-56"
+        },
+        {
+          "title": "1958 (2)",
+          "href": "OEBPS/Text/ratajsky_les_063.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "2014 (3)",
+          "href": "OEBPS/Text/ratajsky_les_064.xhtml#_idParaDest-58"
+        },
+        {
+          "title": "1952 (3)",
+          "href": "OEBPS/Text/ratajsky_les_065.xhtml#_idParaDest-59"
+        },
+        {
+          "title": "1958 (3)",
+          "href": "OEBPS/Text/ratajsky_les_066.xhtml#_idParaDest-60"
+        },
+        {
+          "title": "2014 (4)",
+          "href": "OEBPS/Text/ratajsky_les_067.xhtml#_idParaDest-61"
+        },
+        {
+          "title": "1952 (4)",
+          "href": "OEBPS/Text/ratajsky_les_068.xhtml#_idParaDest-62"
+        }
+      ],
+      "href": "OEBPS/Text/ratajsky_les_057.xhtml#_idParaDest-51"
+    },
+    {
+      "title": "ODDÍL VI",
+      "children": [
+        {
+          "title": "2014 (1)",
+          "href": "OEBPS/Text/ratajsky_les_070.xhtml#_idParaDest-64"
+        },
+        {
+          "title": "1952 (1)",
+          "href": "OEBPS/Text/ratajsky_les_071.xhtml#_idParaDest-65"
+        },
+        {
+          "title": "1958 (1)",
+          "href": "OEBPS/Text/ratajsky_les_072.xhtml#_idParaDest-66"
+        },
+        {
+          "title": "2014 (2)",
+          "href": "OEBPS/Text/ratajsky_les_073.xhtml#_idParaDest-67"
+        },
+        {
+          "title": "1952 (2)",
+          "href": "OEBPS/Text/ratajsky_les_074.xhtml#_idParaDest-68"
+        },
+        {
+          "title": "1958 (2)",
+          "href": "OEBPS/Text/ratajsky_les_075.xhtml#_idParaDest-69"
+        },
+        {
+          "title": "2014 (3)",
+          "href": "OEBPS/Text/ratajsky_les_076.xhtml#_idParaDest-70"
+        },
+        {
+          "title": "1952 (3)",
+          "href": "OEBPS/Text/ratajsky_les_077.xhtml#_idParaDest-71"
+        },
+        {
+          "title": "1958 (3)",
+          "href": "OEBPS/Text/ratajsky_les_078.xhtml#_idParaDest-72"
+        },
+        {
+          "title": "2014 (4)",
+          "href": "OEBPS/Text/ratajsky_les_079.xhtml#_idParaDest-73"
+        }
+      ],
+      "href": "OEBPS/Text/ratajsky_les_069.xhtml#_idParaDest-63"
+    },
+    {
+      "title": "ODDÍL VII",
+      "children": [
+        {
+          "title": "2015 (1)",
+          "href": "OEBPS/Text/ratajsky_les_081.xhtml#_idParaDest-75"
+        },
+        {
+          "title": "2015 (2)",
+          "href": "OEBPS/Text/ratajsky_les_082.xhtml#_idParaDest-76"
+        },
+        {
+          "title": "2015 (3)",
+          "href": "OEBPS/Text/ratajsky_les_083.xhtml#_idParaDest-77"
+        },
+        {
+          "title": "2015 (4)",
+          "href": "OEBPS/Text/ratajsky_les_084.xhtml#_idParaDest-78"
+        },
+        {
+          "title": "2015 (5)",
+          "href": "OEBPS/Text/ratajsky_les_085.xhtml#_idParaDest-79"
+        },
+        {
+          "title": "2015 (6)",
+          "href": "OEBPS/Text/ratajsky_les_086.xhtml#_idParaDest-80"
+        },
+        {
+          "title": "2015 (7)",
+          "href": "OEBPS/Text/ratajsky_les_087.xhtml#_idParaDest-81"
+        },
+        {
+          "title": "2015 (8)",
+          "href": "OEBPS/Text/ratajsky_les_088.xhtml#_idParaDest-82"
+        },
+        {
+          "title": "2015 (9)",
+          "href": "OEBPS/Text/ratajsky_les_089.xhtml#_idParaDest-83"
+        },
+        {
+          "title": "2015 (10)",
+          "href": "OEBPS/Text/ratajsky_les_090.xhtml#_idParaDest-84"
+        },
+        {
+          "title": "2015 (11)",
+          "href": "OEBPS/Text/ratajsky_les_091.xhtml#_idParaDest-85"
+        },
+        {
+          "title": "2015 (12)",
+          "href": "OEBPS/Text/ratajsky_les_092.xhtml#_idParaDest-86"
+        },
+        {
+          "title": "2015 (13)",
+          "href": "OEBPS/Text/ratajsky_les_093.xhtml#_idParaDest-87"
+        }
+      ],
+      "href": "OEBPS/Text/ratajsky_les_080.xhtml#_idParaDest-74"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/ratajsky_les_094.xhtml#_idParaDest-88"
+    }
+  ]
+}
