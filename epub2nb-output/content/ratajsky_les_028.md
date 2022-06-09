@@ -3,8 +3,6 @@ title: 1958 (3)
 contentType: prose
 ---
 
-  
-
 Občanku máš tentokrát připravenou. Nepočkáš ani na vyzvání a rovnou ji vsuneš do průzoru pod sklem kukaně. Průkaz tam už leží, ale vrátnej stejně udělá to gesto jako prve. Ukáže prstem: sem s tím. Počká okamžik, jako by ti nechával čas průkazku položit tam, kde už je, a teprve pak ji čapne. Do knihy návštěv opíše tvoje údaje a konečně se na tebe podívá. Pokusíš se o úsměv: Už jsem tu byl, nedávno jste si mě zapisoval. Je mu to úplně jedno, neusměje se, nezaškaredí, neodpoví. Třeba je hluchej, napadne tě, ale hned si uvědomíš, co je to za pitomost. Tihle lidi slyší velmi dobře.
 
 Řekneš muži na vrátnici, že neseš nové informace. Takhle s ním mluvíš, ale přitom je to naopak: dneska se chceš něco dozvědět ty, jdeš na Bezpečnost proto, aby ses moh ptát ty jich. Je v tom kus drzosti, to jistě, snad budou shovívaví. Chtěl bych mluvit s těmi soudruhy, co minule, řekneš nahlas.

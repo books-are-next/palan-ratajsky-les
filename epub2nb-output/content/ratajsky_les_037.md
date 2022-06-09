@@ -3,8 +3,6 @@ title: 1952 (2)
 contentType: prose
 ---
 
-  
-
 Ves si oddechla. Žádná utržená fuchtle už nebude lidi rozeštvávat, ničit a popouzet. Místní hrozba je pryč, na druhou stranu se přiblížilo něco děsivějšího. A že vzdálenějšího? Co znamená dálka pro neštěstí, které má opravdu přijít?
 
 Barák po Felbabové zůstal prázdný, Helenku někam odvezli, prý do prominentního internátu v Poděbradech, snad do Prahy, mají tam, říká se, Felbabovi nějakou přízeň. Párkrát se kolem baráku, a taky v něm, ochomejtaly uniformy. Těch bez uniforem bylo ještě víc, měřili, zapisovali, fotografovali. Víc asi čmuchali v Ratajským lese, o tom se ale mezi lidma neví. Tam teď nezajde nikdo. Co by tam kdo hledal?

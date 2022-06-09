@@ -3,8 +3,6 @@ title: 1952 (3)
 contentType: prose
 ---
 
-  
-
 Ptáte-li se takto, musím odpovědět: Ano, byla to vražda a vy jste ten, kdo zabil. Stalo se to a nelze to odestát. Nic z minulosti se nezmění. Změníme jedině přítomnost a jedině sebe. A musíme o tu změnu prosit. To Bůh mění naše srdce, někdy je to, jako by se člověk během života narodil ještě jednou a jinak. K tomu je potřeba o prožitém poctivě přemýšlet, existovat navzdory vlastní vině. Myslím, že je to těžší, než zmáčknout spoušť. V Ratajském lese jste se rozhodl ve vteřině, jak říkáte. Teď se budete muset rozhodovat každý den znovu: Kým dnes jsem? hovořil kněz nad hromádkou bramborových slupek.
 
 Chránil jsem tehdy druhého, podotkl Antonín Salvetr, v ruce nahnilý brambor. Odkrojil ze všech stran plesnivinu a zůstalo sotva jedno větší sousto.

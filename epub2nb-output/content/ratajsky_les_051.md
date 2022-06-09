@@ -3,8 +3,6 @@ title: 1958 (3)
 contentType: prose
 ---
 
-  
-
 Na nádraží to ještě ušlo. Jeden zašel k trafice – jistě že už touhle dobou zavřené, druhý bokem kouřil, další se tisknul ke zdi protějšího domu, aby stál stranou větru a stranou lidí. Spočítal bys je na prstech, tolik tvých sousedů zajelo dnes do Hory na divadlo. Ráno se dopravili různě, brzo, nebo později, teď se vracejí najednou.
 
 Většina byla v publiku, jako ty. Snad dva svědčili před veřej­ností v ohrádce, pokoušeli se toho říct tak akorát, aby to prošlo teď před soudem i potom doma před sousedy. To nebyla široká lávka, po který se snažili přejít. Na autobus čeká i jeden z Kašparovejch kamarádů, co ti toho vedle sebe vypili, povídá se, že i za ženskýma chodili spolu. Možná chtěl Kašpara ještě naposledy vidět. Tys chtěl víc, zašklebit se na něj zblízka a povědět mu o Majce, že s tebou už byla a že s tebou taky zůstane. Semlelo se to ale jinak, neměl jsi tu možnost, ani jsi to nakonec nezkoušel, jen o tom snil, když se vedly před soudem nudné řeči. Hned po verdiktu odvedli Kašpara spolu s ostatníma, nepotkal se pohledem snad ani s Majkou, o tobě vůbec nevěděl. O ničem neví, a odejde s tím do hrobu, škoda. Ale ty to víš, to je, oč se tahle hra hrála.

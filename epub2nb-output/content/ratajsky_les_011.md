@@ -3,8 +3,6 @@ title: 1958 (2)
 contentType: prose
 ---
 
-  
-
 Stejnej barák, ale asi jiná kancelář, je už to let, cos tu byl poprvý, to si nemůžeš pamatovat. Kanceláře jsou všude jedna jako druhá, na výboře, při zemědělský komisi i tady. Každopádně tu dnes jsou jiní soudruzi a docela jinej přístup.
 
 Spousta lidí, i těch, co pochopili dobu a stojí ve správným šiku, by se sem bála vejít. Natož aby se sem hnali dobrovolně. Poserové. Vono ale nestačí na správný straně stát, jednou se tam postavit a myslet, že máš pro život vystaráno. Houby, je třeba se tam stavět s vytrvalostí, dokola, do zblbnutí, jako by všechno pokaždý začínalo znovu. Odbejt si to každý ráno jako nějakej divošskej rituál, probudit se, vychcat a správně se zařadit. No, každej den je možná zbytečně často, aspoň na vsi, tam je všechno pomalejší, ale občas se to zopakovat musí. A ty vycítíš, kdy to občas přijde. Včera v noci přišlo.

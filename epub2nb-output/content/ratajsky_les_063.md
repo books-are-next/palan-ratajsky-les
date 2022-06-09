@@ -3,8 +3,6 @@ title: 1958 (2)
 contentType: prose
 ---
 
-  
-
 Později nebudeš na těchhle pár měsíců vzpomínat rád, z paměti je skoro vyždímáš. Hodně věcí šlo až nezaslouženě dobře, kdybys věřil na osud, moh bys to brát jako jeho dílo. Ale nebylo v tom uspokojení, dostával jsi mnohé, ale to, cos skutečně potřeboval, ne, to ti nikdo dát nemoh. V komunismu bude každej mít podle svejch potřeb, učili tě na politickým kurzu. Zvládnuls ho za pár večerů, byla to podmínka, abys moh nastoupit na vedoucí práci. Říkal sis někdy, kdyžs cestou domů ze Zruče túroval pragovku pětistovku (tu sis pořídil z několika prvních vejplat), že zažíváš takovej komunismus naruby – máš všechno, co ani nechceš, bereš hrstma, ale stejně…
 
 Konečně jsi přestal dělat poskoka v dílně na podrážky, povýšils. Dílovedoucí je důležitej post, ale tobě nevyhovoval, pořád někde shánět materiál, dohadovat se s dělníkama, vysvětlovat, že musej na noční za pár korun, když hoří plán… S chlapama to ještě šlo, ale ženský? A kdo mi bude hlídat doma parchanty, vy, soudruhu? řekla ti taková klidně a tys byl namydlenej. Nebyla to žádná výhra, sám jsi cítil, že se pro to nehodíš, i soudruzi vejš to viděli.

@@ -3,8 +3,6 @@ title: 1958 (2)
 contentType: prose
 ---
 
-  
-
 Tatraplán stosedmička. A hned za ní druhá. Dvě auta naráz do Onomyšle nepřijela ještě nikdy, byla by to událost už sama o sobě. To, proč přijely, bylo ale podstatnější. Dnešek je jako začátek novýho letopočtu, i po letech se bude říkat: Bylo to před tim, nebo po tom? Kdyby ještě někdo vedl obecní kroniku, co by do ní o dnešku napsal? Co by si troufl, aby příště nezatkli i jeho?
 
 První vůz zastavil před Radostovejma, druhej před hospodou. Sotva dobrzdili, vyskákali soudruzi z vozu, jeden – ten měl dokonce samopal – se postavil na náves a stál tam jako socha svatýho patrona po celou dobu konání zásahu. Bděl nad akcí, žehnal tomu dění železnou hlavní, rozhlížel se a hlídal, kdyby chtěl někdo ze zoufalství vzít bič nebo brokovnici. Nikdo se ale nezmoh na víc než na pláč, nebo marnej vztek.

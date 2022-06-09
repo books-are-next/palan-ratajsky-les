@@ -3,8 +3,6 @@ title: 1952 (1)
 contentType: prose
 ---
 
-  
-
 Tys toho Ptáka znal, viď?
 
 Ta věta zajela do Kašpara jako břit. To jméno: Pták! A ten minulej čas! Kolega, co za ním stojí frontu v závodní kantýně, vypadá bezelstně. Opravdu neví, co právě řek? Je to promyšlená provokace, nebo prázdnej tlach? Kašpar je obezřetnej, nasadí univerzální a neselhávající odpověď: Proč?

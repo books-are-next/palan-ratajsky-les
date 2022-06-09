@@ -3,8 +3,6 @@ title: 2014 (3)
 contentType: prose
 ---
 
-  
-
 Pěkně se v tom bez Barbuchy plácáme. Měli jsme si domluvit mrtvou schránku, nebo něco podobnýho, osvědčenýho a starodávnýho. Než Karabas vykoumá, jak se bezpečně bavit, může bejt totálně pozdě a my se rozpadnem na sto tisíc odstředivejch atomů. Tydle věci jsme měli mít vyřešený dávno. Jsme totální amatéři. Na kluky dělám borce, je to možná povzbudí, ale co já? Sama v posteli (jsem fakt tak hnusná?), bez školy a bez práce (obojí mi neuvěřitelně leze krkem, není v tom žádnej smysl, jen degradace), bez prachů, teď už vlastně i bez skupiny. Jo, je to jednodušší na koordinaci. To je ale jediný.
 
 Ještě že mám ty svině. Co bych dělala, kdyby jich nebylo? Měla bych si je víc hejčkat, aby mi nějakou dobu vydržely… Pomalu mi táhne na třicet, ani se nemůžu náležitě vymlouvat, že to oni mi posrali život. Nebo jo? Posírám si ho úspěšně sama. Co ale rozhodně ještě dokážu, je posrat ho i jim.

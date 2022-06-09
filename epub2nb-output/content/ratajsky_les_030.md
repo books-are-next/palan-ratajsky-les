@@ -3,8 +3,6 @@ title: 1952 (4)
 contentType: prose
 ---
 
-  
-
 Tak to je v kýblu, Salvetra asi chytli! Je něco, co z něj nedostali? Pomohlo by Ptákovi, kdyby se rovnou přiznal? Těžko, stejně by mu nevěřili, že chtěl Felbabovou nechat jen ostříhat, že to nebyl útok, ale obrana, zoufalá obrana, když nepomáhaly ústupky ani sliby. Únos členky strany, který skončil její smrtí, by estébáci vzali jako protistátní spiknutí. Pták nesmí říct ani slovo. Do spisu ho nahlídnout asi nenechaj, ty papíry na jeho klíně budou jen vábnička, proč to ale nezkusit? Můžu se podívat? zeptal se Jan Pták.
 
 Bylo by pro tebe lepší, kdybys mluvil a ne si čet, vysvětlil mu vyšetřovatel. Ty víš, co chceme slyšet. Složku mu vytrh z ruky a položil ji k remingtonce. Popelník Ptákovi nechal.

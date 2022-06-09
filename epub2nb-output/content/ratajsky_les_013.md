@@ -3,8 +3,6 @@ title: 1952 (2)
 contentType: prose
 ---
 
-  
-
 Mapa už není třeba, jsou na místě. Situaci ve vsi maj nastudovanou, tentokrát zatočí doleva, za zájezkem ještě jednou vlevo a přímo před sebou uvidí dvoukřídlá zelená vrata. Jsou pootevřená. Psa soudružka nemá.
 
 Mohli by se otočit tady, ale řidič raději předjede přímo před okna a začne couvat na úzké cestě. Felbabová není řidička, nedojde jí, jak je to nelogické. V oknech se svítí, zpoza závěsu jsou jistě pozorovaní. Právě tak to zamýšlejí, dát o sobě vědět. Spolujezdec popadne diplomatku, takovou, v jaké se dnes tahají lejstra na schůze. Aktovka a rádiovka – dva nejpodstatnější atributy stranické důvěryhodnosti, jemu teď stačí jeden. Když bude držet kabelu v podpaží, nebude navíc muset řešit otázku, co s rukama. Není dobrej herec a ví, že dřevěnýho ochotníka neprozradí ani tolik hlas, jako ruce. Podobně jako špatnýho malíře: ksicht umí nakreslit kdekdo, ale dlaň a prsty? Dürer to uměl. A kdo po něm?

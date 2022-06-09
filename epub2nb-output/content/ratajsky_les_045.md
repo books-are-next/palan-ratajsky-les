@@ -3,8 +3,6 @@ title: 1958 (1)
 contentType: prose
 ---
 
-  
-
 Tady se ta básnička nějak zadrhla… A tak pěkně to zatím vypadalo! Jeden po druhým předstupovali před porotu a přiznávali se k myšlení i skutkům. Nezapírali, poznali, když na ně všechno prasklo. Někteří volali po slitování, po takovém, co sami neměli, jiní si odpustili i to. Už sis lebedil, jak soud vyslechne posledního, poradí se, odsoudí po právu celou bandu, a ty ještě stihneš odpolední autobus. Teď to ale vypadá, že se domů dostaneš kdoví jestli poslední noční linkou.
 
 Co ten chlap zdržuje? Hraje si na hrdinu, nebo se jenom rád poslouchá? Soud mu vidí až do žaludku, i ty nahoře na balkóně cejtíš, jak se ten had kroutí. Vypovídá úplně jinak, než všichni před ním. Když mu to obžaloba připomene, vede si stejně svou.

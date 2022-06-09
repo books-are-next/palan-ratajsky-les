@@ -3,8 +3,6 @@ title: 1958 (1)
 contentType: prose
 ---
 
-  
-
 Podcenils to. Měl ses líp připravit, předjednat si návštěvu s někým nahoře a nečekat, že se ti v cizím městě všechny dveře samy otevřou. Tyhle dveře se ti naopak přirazily rovnou před nosem. Krávy jedny nemocniční! Co si o sobě myslej? Prej, žádnou průkazkou nám tady mávat nebudete, nejsou návštěvní hodiny a vůbec: Vy jste nějaká přízeň, nebo co?
 
 Ano, jsem otec, pověděls vrchní sestře, ale zaváhal jsi s tou řečí a ona se tvé odmlky chytla. Tak to vyprávějte někomu důvěřivýmu v Horažďovicích na nádraží. Rodička uvedla jako otce dítěte svého zemřelého manžela a vy, pokud můžu soudit, ještě vypadáte docela živej.

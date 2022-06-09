@@ -3,8 +3,6 @@ title: 1958 (2)
 contentType: prose
 ---
 
-  
-
 Už to nezvořeš. Stačilo pár hodin, vyspat se mezi tím, a ráno zavolat na správné místo, brnknul tam kolega ze skladu – poddůstojník. Budou se už k tobě chovat jinak než včera, bude tě očekávat sám ředitel špitálu. Měl jsi sto chutí nechat ho chvilku čekat, ne dlouho, jen pár minut, aby poznal, že včerejší incident není odpuštěn, že po tý drzý sestře ještě pudeš, ale pak sis řek, co je ti do chlapa, co je ti do baby, jde přece o Majku, čím dřív tě k ní pustí, tím líp. Stepovals přede dveřma ředitelovy kanceláře deset minut před druhou a po šesti a půl minutách jsi to stejně nevydržel a zaklepals.
 
 Soudruh ředitel na vás čeká, tudy, prosím. Sekretářka ví, jak se chovat, dokonce i kávu ti nabídla. Odmítl jsi, nechceš se tu zdržovat, vezmeš ředitele pod pazuchu a alou na poporodní oddělení.

@@ -3,60 +3,60 @@ title: 1958 (2)
 contentType: prose
 ---
 
-Dne 27. března 1958 po závěrečné poradě vyhlásil předseda senátu rozsudek, jímž se
+_Dne 27. března 1958 po závěrečné poradě vyhlásil předseda senátu rozsudek, jímž se_
 
-obžalovaní Antonín Salvetr, Jan Pták, Josef Kašpar, Anna Kubelková, Josef Koupil uznávají vinnými trestným činem vraždy podle §§ 6, 216, odst. 1, 2, písm. c) tr. zák.,
+_obžalovaní Antonín Salvetr, Jan Pták, Josef Kašpar, Anna Kubelková, Josef Koupil uznávají vinnými trestným činem vraždy podle §§ 6, 216, odst. 1, 2, písm. c) tr. zák.,_
 
-obžalovaní Antonín Salvetr, Jan Pták, Josef Kašpar, Anna Kubelková, Josef Koupil a Jaroslav Ledašil trestným činem velezrady podle § 78, odst. 2, písm. a) tr. zák.,
+_obžalovaní Antonín Salvetr, Jan Pták, Josef Kašpar, Anna Kubelková, Josef Koupil a Jaroslav Ledašil trestným činem velezrady podle § 78, odst. 2, písm. a) tr. zák.,_
 
-obžalovaní Marie Nová d Jiří Horných trestným činem pomoci trestnému činu velezrady podle § 7, odst. 2, § 78, odst. 2, písm. a) tr. zák.,
+_obžalovaní Marie Nová d Jiří Horných trestným činem pomoci trestnému činu velezrady podle § 7, odst. 2, § 78, odst. 2, písm. a) tr. zák.,_
 
-obžalovaní Jindřich Šedivý a Miloslav Hojer trestným činem ne­oznámení trestného Činu podle § 165, odst. 1 tr. zák.,
+_obžalovaní Jindřich Šedivý a Miloslav Hojer trestným činem ne­oznámení trestného Činu podle § 165, odst. 1 tr. zák.,_
 
-obžalovaní Jindřich Šedivý o Miloslav Hojer trestným činem podvracení republiky podle § 79a, odst. 4 tr. zák.,
+_obžalovaní Jindřich Šedivý o Miloslav Hojer trestným činem podvracení republiky podle § 79a, odst. 4 tr. zák.,_
 
-a odsuzují se k těmto trestům
+_a odsuzují se k těmto trestům_
 
-obž. Antonín Salvetr k trestu smrti,
+_obž. Antonín Salvetr k trestu smrti,_
 
-obž. Josef Kašpar k trestu smrti,
+_obž. Josef Kašpar k trestu smrti,_
 
-obž. Jan Pták k trestu smrti,
+_obž. Jan Pták k trestu smrti,_
 
-obž. Marie Kubelková k trestu odnětí svobody na 25 let,
+_obž. Marie Kubelková k trestu odnětí svobody na 25 let,_
 
-obž. Josef Koupil k trestu odnětí svobody na 25 let,
+_obž. Josef Koupil k trestu odnětí svobody na 25 let,_
 
-obž. Jaroslav Ledašil k trestu odnětí svobody na 15 let,
+_obž. Jaroslav Ledašil k trestu odnětí svobody na 15 let,_
 
-obž. Marie Nová k trestu odnětí svobody na 15 let,
+_obž. Marie Nová k trestu odnětí svobody na 15 let,_
 
-obž. Jiří Horných k trestu odnětí svobody na 11 let,
+_obž. Jiří Horných k trestu odnětí svobody na 11 let,_
 
-obž. Jindřich Šedivý k trestu odnětí svobody na 5 let,
+_obž. Jindřich Šedivý k trestu odnětí svobody na 5 let,_
 
-obž. Miloslav Hojer k trestu odnětí svobody na 4 roky.
+_obž. Miloslav Hojer k trestu odnětí svobody na 4 roky._
 
-Podle § 43 tr. zák. ztrácí všichni obžalovaní čestná práva občanská. Podle § 47 tr. zák. propadá celé jmění všech obžalovaných ve prospěch státu.
+_Podle § 43 tr. zák. ztrácí všichni obžalovaní čestná práva občanská. Podle § 47 tr. zák. propadá celé jmění všech obžalovaných ve prospěch státu._
 
-Po vysvětlení významu rozsudku a poučení o odvolání odsouzení uvedli:
+_Po vysvětlení významu rozsudku a poučení o odvolání odsouzení uvedli:_
 
-obž. Miloslav Hojer: trest přijímám,
+_obž. Miloslav Hojer: trest přijímám,_
 
-obž. Jindřich Šedivý: trest přijímám,
+_obž. Jindřich Šedivý: trest přijímám,_
 
-obž. Jiří Horných: opravných prostředků se nevzdávám,
+_obž. Jiří Horných: opravných prostředků se nevzdávám,_
 
-obž. Marie Nová: opravných prostředků se nevzdávám,
+_obž. Marie Nová: opravných prostředků se nevzdávám,_
 
-obž. Jaroslav Ledašil: opravných prostředků se nevzdávám,
+_obž. Jaroslav Ledašil: opravných prostředků se nevzdávám,_
 
-obž. Josef Koupil: podávám odvolání,
+_obž. Josef Koupil: podávám odvolání,_
 
-obž. Marie Kubelková: podávám odvolání,
+_obž. Marie Kubelková: podávám odvolání,_
 
-obž. Jan Pták: podávám odvolání,
+_obž. Jan Pták: podávám odvolání,_
 
-obž. Josef Kašpar: podávám odvolání,
+_obž. Josef Kašpar: podávám odvolání,_
 
-obž. Antonín Salvetr: trest přijímám.
+_obž. Antonín Salvetr: trest přijímám._

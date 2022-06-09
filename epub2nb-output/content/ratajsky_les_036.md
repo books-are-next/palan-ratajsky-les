@@ -3,8 +3,6 @@ title: 2014 (2)
 contentType: prose
 ---
 
-  
-
 Z komína se nekouří, i okenice jsou zarýgrovaný. Ložený znamení, že José se potlouká někde po Klatovech a jeho chata je tu celá jenom pro mě. Nevěřím na Boha, snad jen na ducha pomsty, a ten mi dneska přeje. Můžu to omrknout zblízka a beze spěchu. Nezdá se, že by plot byl děravěj, mezi plaňkama se neprotáhnu ani já, ale je tak nízkej, že to nehraje velkou roli. Kde bych mohla přelízt? Třeba tady? Tyčky jsou dost pevný, unesou mě, nejsem těžká. Košík pověsím na plot, z druhý strany si pak pro něj šáhnu, aby tu nestrašil, kdyby šel kolem nějakej opravdovej houbař. Nohu dám sem…
 
 Dobrý den.

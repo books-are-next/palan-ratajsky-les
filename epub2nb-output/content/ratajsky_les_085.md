@@ -3,8 +3,6 @@ title: 2015 (5)
 contentType: prose
 ---
 
-  
-
 Po tom přepadení nevidíš správně. Musíš znovu zaostřovat na každou vzdálenost, kam se podíváš, často se ti to ani nepodaří. Tvoje oči ochably, ale ne tolik, jako ostatní svaly, ty jsou zatím úplně v loji. Vidíš a slyšíš. A to je pomalu celé, můžeš ještě mrknout víčky a s velikým úsilím pohnout prsty na jedné ruce. Není to spánek, ve kterém tu ležíš, není to ani bdění. Rozhodně to není smrt.
 
 Na pokoji jsi sám, položili tě sem buď ze soucitu, nebo z nějaké známosti. Samota ti vyhovuje, zvykl sis a nechceš teď svou bezmoc vystavovat na odiv kdejakýmu hejhulovi na vedlejší posteli. Kdybys potřeboval, máš v dlani pípák. Na protější stěně visí placatá televize, zvuku většinou nerozumíš, jen ti hučí do hlavy a duní tam dlouho poté, co ji večer konečně vypnou. Obraz, jak se rychle mění, nejde vůbec zaostřit. Bylo to včera, nebo už dřív? Nemáš přehled o dnech. Zavolal jsi alarmem sestru, přišla, ale nedokázals jí povědět, že potřebuješ ten krám vypnout. Mluvit nesvedeš (určitě se to zlepší, vždycky ses ze všeho vyhrabal) a tvůj pohled nepochopila. Když jsi pípák zmáčknul znovu a několikrát, sebrala ti ho. Vrátila ho až večer. Už sis netroufl znovu ji volat. Přečkáš to nějak i s tou bednou.

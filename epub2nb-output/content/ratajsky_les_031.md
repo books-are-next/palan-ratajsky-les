@@ -3,8 +3,6 @@ title: 1958 (4)
 contentType: prose
 ---
 
-  
-
 Nečekals, že bude doma tak šupem, tys přijel z Hory odpoledním autobusem, ona večerním. Nezaregistrovals, jak prošla kolem baráku, ale když se před jejím srotili sousedi, dva tři Kašparovi kumpáni, bylo tobě i celý vsi jasný, že Majka je zpátky. Na oslavy ale ani pomyšlení: ten její hnije za mřížema a pár dalších chlapů ze vsi jakbysmet.
 
 Jestlipak Majka ví, kdo jí pomoh, komu může bejt vděčná? Řekli jí to soudruzi? Chtěli jsme si tě tady nechat, hnát tě před soud jako toho tvýho, za podílnictví, neoznámení, ale dohodli jsme se s jedním od vás a ten se za tebe zaručil. Teď sypej domů a buď na něj hodná.

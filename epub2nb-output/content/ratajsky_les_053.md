@@ -3,8 +3,6 @@ title: 1952 (3)
 contentType: prose
 ---
 
-  
-
 Někdy se člověku celá budoucnost otevře najednou, v jediné chvíli. Jan Pták zažil takové prozření, když poznal jednoho z těch tří, co vystoupili před hospodou z auta. Jako by to byl pošták, co mu nese zprávu, ale adresát přitom ten dopis už četl. Přesně ví, co se teď stane, ne slovo od slova co řeknou, ale dopad toho všeho. Snad by se dalo těm řečem i předejít, ale asi ne, tohle se musí odehrát, je to příběh pro publikum, pro našlapanou hospodu, která si svůj dopis musí teprve přečíst. Kdyby mu teď byli schopni věnovat pozornost, moh by Pták sousedy uklidnit: O vás teď nepůjde. Všichni ale zírají ven na ty tři. Co nám ještě, pro Boha, přijeli vzít? Copak už toho nebylo dost? Mají znovu pistoli? Každý ze vsi je tak plný vlastního strachu, že není kam přidat cokoli navíc, snad jen další hrůzu.
 
 Baba Černá se začala litovat. Co jí to sem jenom přitáhlo? Kdyby si dnes cestu do hospody odpustila!

@@ -3,8 +3,6 @@ title: 2014 (4)
 contentType: prose
 ---
 
-  
-
 Pár zastávek tramvají a pár dalších autobusem. Vystoupila jsem o jednu později, bylo to z omylu, tyhle končiny v Krči pořádně neznám, ale ukázalo se to prospěšný mý paranoie, kterou jsem si evidentně zabalila do batohu s sebou. Žádný kroky, nikdo po mně nejde, bezva. O mým bytu vědí, ať si ho nechaj, já si nechám sebe.
 
 Nemůžu se teď potloukat někde u kámošek. Jednak žádný nemám, a navíc bych musela všechno dokola okecávat. Nepotřebuju skrýš, ale základnu, prostor, kde nebudu pasivně čučet, ale aktivně se chystat. Nemám čas a nemůžu ho ztrácet útěkem.

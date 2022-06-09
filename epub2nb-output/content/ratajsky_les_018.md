@@ -3,15 +3,15 @@ title: 2014 (4)
 contentType: prose
 ---
 
-Salvetr ji přitlačí do sedadla. Ze stisku se nemůže vyprostit. Pochopila, že se něco děje. Auto zastavuje. Na otázku řidiče, kde to provedou, odpovídá Salvetr, aby jel dále, že mu včas řekne. Anna Felbabová chce využít zastavení auta k útěku, ale je vtlačena zpět do sedadla a okřiknuta, aby mlčela. Na otázky soudružky Felbabové nikdo neodpovídá.
+_Salvetr ji přitlačí do sedadla. Ze stisku se nemůže vyprostit. Pochopila, že se něco děje. Auto zastavuje. Na otázku řidiče, kde to provedou, odpovídá Salvetr, aby jel dále, že mu včas řekne. Anna Felbabová chce využít zastavení auta k útěku, ale je vtlačena zpět do sedadla a okřiknuta, aby mlčela. Na otázky soudružky Felbabové nikdo neodpovídá._
 
-Projeli obcí Chlum, zatočili k Ratajské oboře a auto zastavilo. Strohý hlas Salvetra jí přikazuje, aby vystoupila. Zdráhá se. Přidržuje se sedadla. Síly jí však nestačí. Je vyvlečena z auta a tažena za ruce k lesu. Znovu se ptá, co po ní chtějí. Dostává odpověď: Budeme tě soudit.
+_Projeli obcí Chlum, zatočili k Ratajské oboře a auto zastavilo. Strohý hlas Salvetra jí přikazuje, aby vystoupila. Zdráhá se. Přidržuje se sedadla. Síly jí však nestačí. Je vyvlečena z auta a tažena za ruce k lesu. Znovu se ptá, co po ní chtějí. Dostává odpověď: Budeme tě soudit._
 
-Mám dceru, odpoví.
+_Mám dceru, odpoví._
 
-Na tu si měla myslet dřív, říká Salvetr.
+_Na tu si měla myslet dřív, říká Salvetr._
 
-Před nimi je tmavá hromada chvojí, do které je vhozena. Nemá sílu povstat. Kužel světla baterky ji oslňuje. Slyší svoji obžalobu a ortel: Jsi komunistka, budeme tě soudit.
+_Před nimi je tmavá hromada chvojí, do které je vhozena. Nemá sílu povstat. Kužel světla baterky ji oslňuje. Slyší svoji obžalobu a ortel: Jsi komunistka, budeme tě soudit._
 
 Úplnej doják, kurva, dobovej tisk v útoku na city čtenářstva. Ať s tim jdou do prdele, ať se dojímaj sami.
 

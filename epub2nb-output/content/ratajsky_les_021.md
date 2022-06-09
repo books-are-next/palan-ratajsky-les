@@ -3,8 +3,6 @@ title: 1952 (1)
 contentType: prose
 ---
 
-  
-
 Posledních pár minut nepodnikal nic jinýho, než se pokoušel nešlápnout na desku hrobu. Sněhový poprašek by každou stopu zachoval až do nejbližšího tání, nebo do chumelenice. O mrtvých není třeba mluvit jenom dobře, na hroby se ale nešlape. Zde v Pánu odpočívá rodina Hájkova. Všichni Hájkovic jsou pryč, nezůstal nikdo, kdo by se pohoršoval, že bejvalí deputátníci dupou statkářům na hlavy. Rozkulačený, vyhnaný, pozavíraný, ve vsi nezůstal jedinej Hájek. Vyrubem je do posledního, nadchla se po únoru Felbabová. A vyrubala je. Štvala proti nim ve vsi, udávala na okrese, s gustem hlídala likvidační dodávky, maso, vejce, oves, kukuřici. Kukuřici na těchhle polích! Jeden rok dodávky splnili, udřený, zdivočelý, se skrytou dopomocí slitovnejch sousedů, a další rok jim je ještě zvýšili… A teď tu bude Felbabová ležet vedle nich. Jestli pak se dohodnou aspoň pod zemí?
 
 Všichni zdejší vědí, že otevřený hrob nepatří Felbabovým, ten jejich se krčí vzadu za tújema. Tohle bejvala hrobka pana obchodníka Poláčka. Ani Poláčkovi tu už nejsou. Z koncentráku se nevrátil žádnej z nich, a pokud snad ano, tak rovnou do Palestiny. Hrobka bez pozůstalých hned u vchodu hřbitova je tím pravým místem, kam pohřbít hrdinku práce, skromnou soudružku, co nelitovala úsilí a obětovala se pro budoucnost, ne svou, ale každýho z nás. Tak to aspoň právě volá do amplionu řečník z okresu.

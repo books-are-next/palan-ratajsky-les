@@ -3,8 +3,6 @@ title: 1958 (3)
 contentType: prose
 ---
 
-  
-
 Jak to, že ji neuhlídali? To si někdo zle vypije! Motor jsi nakopl s jedinou myšlenkou na pomstu, ale když jsi přijel do Kutné Hory, po tolika hodinách cesty vymrzlý z rychlého větru a opřels motorku před budovou, zlost se ti vyfoukala z hlavy.
 
 Na vrátnici seděl někdo nový, byl na tebe nevrlý a ty na něj. Zase jsi měl čekat na židli v průjezdu, ale nesed sis, jen na sedátko položil helmu. Neklid, nepokoj, pohledy sem a tam, myšlenky všude okolo, sucho v krku, pokašláváš, nemůžeš se toho hucání zbavit už kolik dní. To je dost, že pro tebe přišli.
