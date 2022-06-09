@@ -3,8 +3,6 @@ title: 2014 (2)
 contentType: prose
 ---
 
-  
-
 Krabička poslední záchrany, právě teď příde její čas. Šprcguma (její čas teda nepřichází), nějaký eura, v bločku napsaný nejdůležitější kontakty (trochu zašifrovaný), alobal, dobíječka, paralyzér, stará nokie a nepoužitá sim karta – zrovna ty dvě teď potřebuju. Dám je k sobě a rázem je ze mě novej člověk. V padesátejch letech se pokoušeli lidi přejinačit, přetavit v novýho člověka tomu říkali. Mně k proměně stačí takhle málo.
 
 Ještě můj rituál, odbydu si ho pokaždý, než jdu do akce. Nikdy jindy, i když by se třeba šiknul, to by se vochodil, potřebuju zachovat jeho výjimečnost. Zasmradím pokoj šalvěji, čupnu si na zem před rituálně umístěnej iPad a mrknu na jedno z těch motivačních videí, který mám stažený v jeho paměti. Dneska to bude klasika: Kapa o pango haka z finále Světovýho poháru z jedenáctýho roku. V akci samozřejmě nikdo jinej než All Black. Pěsti, jazyky, oči… Blesky a řev. Teď je můj čas, tohle je moje chvíle. Ka tu te ihiihi, zvítězí naše převaha!

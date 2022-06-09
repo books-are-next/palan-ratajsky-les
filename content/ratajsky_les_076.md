@@ -3,8 +3,6 @@ title: 2014 (3)
 contentType: prose
 ---
 
-  
-
 Zmáčkla jsem červený tlačítko a pak ještě jedno menší po straně. Hovor ukončenej, telefon vypnutej a já ne snad klidnější, ale přece jen míň vynervovaná. Nebo si to aspoň namlouvám.
 
 Naštěstí jsem po maminčině smrti nezůstala úplně sama, v tetách na internátu jsem našla doslova náhradní rodinu, Felbabová do mě, spíš teda do mýho diktafonu, hustí svý nevšední zážitky, který jsou mi úplně volný, když se to nepovedlo za měsíc, za půl roku, už jsem ani nedoufala, že se na její vrahy přijde, nezapomenu, jak mi to pak ředitel ve sborovně oznámil, ani jsem se tehdy neuměla radovat, čumí na blikající červený světýlko, který jí dává klamnou naději, že se její památný slova zaznamenaj pro veškerou budoucnost, když se pak chystal proces, přijeli za mnou, abych všechno pověděla znovu, po tolika letech je těžké se rozpomínat, ale aspoň jsem nemusela na soud, snad chápe, že nahrávám jenom její hlas, přesto se do diktafonu culí jak poštklá, dokonce si i dlaní upraví drdol, dnes mě ale někdy mrzí, že jsem se těm bestiím tehdy nepodívala do tváře, ale to víte, osmnáctiletá holka na vojenské škole má jiné zájmy.

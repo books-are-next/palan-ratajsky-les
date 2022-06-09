@@ -3,8 +3,6 @@ title: 2014 (1)
 contentType: prose
 ---
 
-  
-
 Nemám s nima žádný slitování. Oni ho taky neměli, a dobře věděli proč. Ne z ňáký přirozený krutosti, žádná sudička jim nestála u kolíb­ky, aby je zaklela: Ty, růžovoučký miminko, budeš obzvláštní hajzl. Ani proto, že celej systém, ve kterým se tak zdárně pohybovali, povýšil krutost na základní komunikační kód.
 
 Takhle to chápou jejich oběti, ale šeredně se pletou. Všichni zažili tolik krutosti, že sami být krutí už nemůžou; což je koneckonců v pořádku. Zároveň si ale myslej, že musej mít s těma sviněma slitování. Jako by to nějak souviselo… Já krutá nejsem, aspoň teda většinou, ale slitování s nima nemám naprosto žádný. I kdyby prosili… A oni stejně neprosí.

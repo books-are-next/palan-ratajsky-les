@@ -3,8 +3,6 @@ title: 2014 (1)
 contentType: prose
 ---
 
-  
-
 Je to sotva nějakejch šedesát kiláků, ale lokálka z Vršovic se tam loudá dvě hodiny. K tomu dva přestupy. Nemám vlaky nijak zvlášť ráda, jsou příliš komunitní, v autobusu si zalezu k okýnku, a když chvíli ignoruju toho týpka vedle, mám boží klid. Tady pořád někdo přesedá, nastupuje a přisedává si, rozpráví, dokonce i zpívá. Ale co, aspoň jsem si vyzkoušela svoje inkognito houbařky na pozdním výletě. V týhle zemi si stačí vzít proutěnej košík, hodit do něj rybičku, a každej vám hned začne vykládat, že pořád ještě rostou, ale loni to bylo lepší. Tady všichni na potkání vykládaj, jak bejvalo líp.
 
 Na zastávce jsem vystoupila úplně sama, všichni jeli dál nebo blíž. Opuštěná nádražní stanice se zatlučenejma okenicema – nebyl by to špatnej squat, kdyby stál úplně jinde – na dohled jen lesy, rozbahněný pole a nějaká ta nezpevněná cesta; druhá budova žádná. Vlak se zdejchnul a já se rozhodla svou samotu vzít jako dobrý znamení, k čemu by mi byl opak? Samota je praktická. Někomu by ještě mohlo začít bejt divný, že se houbařka nevydá rovnou za nosem do nejbližšího lesa, ale datluje cosi do iPadu. I když možný je dneska všechno, třeba některý houbaři skutečně sdílej nejlepší loviště křemenáčů přes FourSquare.

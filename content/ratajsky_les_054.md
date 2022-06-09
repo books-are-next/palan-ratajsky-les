@@ -3,8 +3,6 @@ title: 1958 (4)
 contentType: prose
 ---
 
-  
-
 Neseděls úplně vzadu, ale stejně jsi v Onomyšli vystoupil z autobusu poslední. Nechals ostatní vylízt dřív, aby se rozsypali jako zrní do svejch krmníků. Ani nezakdákali, někteří na sebe aspoň pokynuli, na tebe nikdo, ani když šli kolem tvýho sedadla uličkou. Ani ty ses nesnažil. Tohle není správnej čas na pozdravy.
 
 Až doma, za zataženým závěsem, se začne mluvit. Jak bylo na soudě? Jak by mělo bejt? odsoudili je, od toho tu soudy jsou. Kdyby je chtěli pustit, nemuselo by se to vůbec konat. Několik smrtí. Někteří se odvolali, ale bez naděje, spíš jen z trucu, sami musí vědět, jaká hodina uhodila. A dlouhé tresty…

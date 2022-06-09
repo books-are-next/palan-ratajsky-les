@@ -3,8 +3,6 @@ title: 1952 (2)
 contentType: prose
 ---
 
-  
-
 Jsme tu jak v pasti, kdyby nás chtěl někdo vybrat, nemáme kudy zdrhnout. Posrals i tohle!
 
 Drž hubu!

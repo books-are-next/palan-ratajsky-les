@@ -3,8 +3,6 @@ title: 1952 (2)
 contentType: prose
 ---
 
-  
-
 Seděl na farářově židli, na tom jediném jakžtakž pohodlném místu k sezení, sotva ale důstojný pán otevřel dveře, vstal a přesedl si na štokrle. S omluvou. Ve tmě byl vidět jenom ten pohyb, ne sama postava, takové přítmí bylo. Nesvítil, samozřejmě že ne. Jak by mohlo jít z téhle místnosti světlo, když se kněz, jediný přiznaný obyvatel kobky, šel právě projít po venku?
 
 Říkal ještě něco? zeptal se ten ve stínu.

@@ -3,8 +3,6 @@ title: 1952 (4)
 contentType: prose
 ---
 
-  
-
 Položil na stůl pistoli a začal řvát.
 
 Všichni se podívejte, dívejte se sem! Vidíte tu zbraň? Touhle pistolí byla zastřelená Anna Felbabová, vaše sousedka! Mohla tu být i dnes, ale není. Někdo ji sprovodil ze světa. A vy víte proč! Uletěly vám včely, že tak civíte? Heršvecmazec, zastřelili ji proto, že byla komunistka, chtěla lidem dobře a v obci založit družstvo. Aby i v Československu bylo tak, jako je v Sovětským svazu. My přece nevymejšlíme nic novýho, v SSSR to už všechno ozkoušeli za nás a funguje to: kolchozy, kolektivizace, pásový traktory, překračování plánu… I tam měli diverzanti svoje záměry, splítali svoje rejdy, ale soudruzi si s nima raz dva poradili. Nemyslete si, my se od nich neučíme jenom orat. My si osvojujem i jiné pokrokové sovětské metody, třeba to, jak najít nepřítele. Zlikvidovat ho, to už umíme po svým.

@@ -3,8 +3,6 @@ title: 1952 (4)
 contentType: prose
 ---
 
-  
-
 Otec Jonáš se na židli narovnal až tehdy, když Jan Pták popsal celý ten mord. Nevyslovil počet ani jména těch, kteří pro něj tu záležitost, tak to pojmenovával, obstarali, a kněz se nedoptával.
 
 A dál? právě tohle otce Jonáše nejvíc zajímalo.

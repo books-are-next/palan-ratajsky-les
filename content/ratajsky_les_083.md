@@ -3,8 +3,6 @@ title: 2015 (3)
 contentType: prose
 ---
 
-  
-
 Věděl, že ho pustí, spíš ho překvapilo, že ho ve vazbě drželi tak dlouho. Uslyšel je tenkrát, když pro něj šli, už ze zahrady. Měl akorát čas udělat dvě nezbytný věci: dát avízo Strašákovi a hlavně poslat pár tisíc euro na účet člověka, který tyhle věci dělá a umí. Obvinili Barbuchu ze zabití, jeden zasloužilej rudej prokurátor umřel za podivných okolností a někde se tam ochomýtala Barbuchova DNA. Na výsleších něco přiznal, většinu samozřejmě ne – a to po nějaké době stačilo, že ho pro nedostatek důkazů pustili. Taky zjevně konečně ty prachy doputovaly do správnejch kapes.
 
 Strašák bude za chvíli volný. Máte někoho, kdo by si pro vás přijel? předstírali starostlivost, sotva mu oznámili, že může na svobodu.

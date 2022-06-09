@@ -3,8 +3,6 @@ title: 2014 (1)
 contentType: prose
 ---
 
-  
-
 Tonga, Ikale tahi. Když se řekne haka, spousta lidí si představí akorát novozélandský nadupance, pokud vůbec něco. Jsou ale i další rituály, třeba tenhle bojovej tanec z Tongy. Není v něm tolik zadržený energie jako u All Blacks, zase je výbušnější, zkrátka jinej. Pokoj očouzenej šalvěji, Ikale tahi z iPadu a můžu jít na věc.
 
 Tak jednoduchý to dneska není. Nikdy není, tentokrát tuplem. Kluci jsou v báni nebo za horama, já jsem naučená obstarávat logistiku a řeči, ale byli to oni, kdo dělal tu hnusnou černou rudou práci. Já u toho většinou ani nebyla, nebo jsem stála stranou a tajně se klepala. Dneska to spadne celý jenom na mě.

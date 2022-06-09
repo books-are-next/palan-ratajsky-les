@@ -3,8 +3,6 @@ title: 1958 (3)
 contentType: prose
 ---
 
-  
-
 Uvědomuješ si, soudruhu, že to, co nám tady vykládáš, není nic jinýho než pustá fabulace? Že na toho Kašpara máš prostě pifku?
 
 Já vím, soudruzi, důkazy nenesu, ale v jejich opatřování jste třída vy, ne já. Navíc, kdyby se nechtěl doznat, můžete to vzít přes Majku, jeho ženu.

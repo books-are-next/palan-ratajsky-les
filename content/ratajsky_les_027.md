@@ -3,8 +3,6 @@ title: 1952 (3)
 contentType: prose
 ---
 
-  
-
 Dostal jsem obsílku, přišel jsem tedy.
 
 Ano, už jsme vás čekali. Ne, nemusíte se legitimovat, my vám věříme.

@@ -3,8 +3,6 @@ title: 2015 (11)
 contentType: prose
 ---
 
-  
-
 Měla to být poklidná návštěva. Připravilas kulajdu a řízky se salátem, plánovalas, že po jídle projdete zámecký park – to jediné místo ve Vlašimi, kam se dá zajít, pokud člověk nechce do hospod.
 
 Nakonec přijeli jen dva. Tvůj byt na sídlišti našli bez problémů, bzučák dole u dveří nefunguje, ale někdo ze sousedů je pustil, taks ani nemusela scházet ze schodů, a už stáli u tebe v předsíňce. Vemte si papuče, snad jsem trefila vaši velikost, uvítalas je.

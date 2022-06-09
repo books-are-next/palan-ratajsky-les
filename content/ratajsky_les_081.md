@@ -3,8 +3,6 @@ title: 2015 (1)
 contentType: prose
 ---
 
-  
-
 To je snad ňáká pošahaná křížová výprava dětí, ne? Po všech poschodích a chodbách plno teenagerů, hemžej se tu, přetékaj domem asi podle toho, jak se naklání země, jsou jak řídkej gel, proniknou kamkoliv. A všichni jsou všude najednou. Hustý, radostný, odůvodněný. Jsem jedna z nejstarších v celým squatu, a oni na mě civěj pomalu jako na zasloužilou matku-anarchistku. Kdyby tak věděli! Připadám si vedle nich trochu out, ale zase dospělá. Dítě je definitivně v tahu, z těchhle šatiček jsem cestou do Lipska vyrostla.
 
 Polibek na přivítanou byl vlhkej a přisátej, Byla jsem to já, kdo ho neprotahoval. Karabas… Měl to hezky připravený: půlku police, pár decimetrů v šatní skříni (má skříň!), dvě šuflata – to všechno mi uvolnil. Počítám s tebou, sem si dej svoje věci, holka, máš u mě svůj prostor, sdělil mi tím, že shrábnul vlastní binec trochu na bok. Prostor na odkládání věcí oddělenej, prostor na odkládání těl šérovanej: matraci má na zemi jen jednu a není zvlášť široká. Představoval si možná, jak v Sasku začneme novej život, spojenej ne už skupinou, ale tělníma tekutinama. Ještě nedávno, předevčírem bych mu do tý postele skočila rovnou vobutá. Ale dneska ne. Děkuju za nabídku, poohlídnu se jinde.

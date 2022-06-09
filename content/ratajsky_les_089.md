@@ -3,8 +3,6 @@ title: 2015 (9)
 contentType: prose
 ---
 
-  
-
 Mazda odbočila z dálnice na obchvatu Plzně. Stopař stál zkušeně na místě, kde se zužují pruhy do jednoho, auta zpomalují a řidiči, kteří to tu moc neznají, se ujišťujou, jestli jedou správně. Barbucha správně jede. Jindy by stopaře vzal, sám tak někdy jezdí, ale dneska ne. Ani neudělal omluvné gesto. Potřebuje prostor jen pro sebe a v něm si připomenout, kvůli čemu to všechno provádí. Co udělá, je mu jasné, stejně jako pořadí, ve kterém to provede.
 
 Kde jsou Dítě s Karabasem? Za mřížema ne. Barbuchovy zdroje o nich nic nevědí, což znamená, že zdrhli. Útěk je v takový situaci solidní volba. Pokud se někde zašili – Barbucha se taky brzo zašije – mohli bysme po čase obnovit spojení a možná i spolupráci. Kontakty, který Barbucha má, částečně na bázi kamarádský, částečně názorový, ale hlavně na rovině finanční, pořád spolehlivě fungujou. Prachy se nikdy nezkazej.

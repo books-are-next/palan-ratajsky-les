@@ -3,8 +3,6 @@ title: 2014 (4)
 contentType: prose
 ---
 
-  
-
 Mám na to půlku dne: provazy, nůžky, slzák, injekční stříkačka, diktafon… Každou věc raděj koupim v jiný části města, a i když mi nakonec dal Karel svou kreditku, platím papírovejma (ovšem těma, který jsem vybrala z jeho karty na Hlavním nádraží). Trajdám po kvelbech, kořist cpu do batohu, na hlavě kapucu, na nose brejle. Loučím se. Pravděpodobně teď tohle město nějakej pátek neuvidím. Hurá!
 
 Smráká se a já jsem zase doma, teda na ubytovně. Až když jsem prošla vrátnicí (babizna na mě jen kejvla, mám předplaceno), vzpomněla jsem si, že jsem se mohla cournout i kolem svýho starýho bytu, co se tam děje exkluzivního. Nakonec dobře, že mi to seplo až teď, ještě bych z nostalgie po těch mokrejch cihlách spáchala nějakou nepříčetnou kravinu.

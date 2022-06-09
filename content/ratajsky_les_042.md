@@ -3,8 +3,6 @@ title: 2014 (4)
 contentType: prose
 ---
 
-  
-
 Čaj, teda tu břečku v otlučenejch skleničkách od hořčice jsem položila na lištu krbu. Oheň už slušně řádil, teplota nezadržitelně stoupala k dvoucifernýmu skóre, za chvíli se možná přestane kouřit od huby.
 
 Humus, zhodnotila jsem úroveň našeho stolování.

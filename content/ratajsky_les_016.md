@@ -3,8 +3,6 @@ title: 1952 (3)
 contentType: prose
 ---
 
-  
-
 Předklonit se, napřed jednu nohu, pak zadek a nakonec druhou nohu. Už dobře ví, jak se do auta leze, za posledních pár let se to naučila. Stejně si pokaždý vzpomene, jaký to bylo poprvý, ještě za protektorátu. Jeden pro ni přijel autem a ona, vyjukaná, se málem zula, aby mu vevnitř nezasvinila, myslela, že se to tak dělá, stejně jako u pánů ve městech. Botičky si můžeš nechat, ty jo, o tom ostatním, co máš na sobě, se ještě pobavíme, mrknul na ni ten od volantu.
 
 Neměla by tu starou vzpomínku tady soudruhu tajemníkovi říct? (Samozřejmě bez toho závěru.) Zasmát se spolu, to sbližuje. Raděj ne, ještě by se moh začít vyptávat, co to bylo za člověka a proč k němu Felbabová vůbec lezla. Nepochopil by to, dost možná nebyl z takový chudoby jako ona. Nechá si zážitek pro sebe, nebude se o něj dělit s nikým. Budoucnost patří možná všem, ale minulost je jen její.

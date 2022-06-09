@@ -3,8 +3,6 @@ title: 1952 (3)
 contentType: prose
 ---
 
-  
-
 Pokud se má hromadná konfrontace udít, ať je to tady, v hospodě. Právě tady si Jan Pták obstaral alibi, všichni ho tu ten večer, když auto odváželo Felbabovou, viděli. Dával se jimi vidět, karty hrál, zpíval, divočil, možná až moc, víc než obvykle, ale to nikdo z venku neposoudí. Když se ho budou ptát na ten večer, ukáže rukou na místo: tady jsem seděl, a na člověka: s tebou jsem mluvil, pamatuješ si mě a já si pamatuju tebe.
 
 Sousedi už tu sedí, chlapi snad všichni, jen některý ženský zůstaly doma s děckama. Omladina tu není, té do věci není nic. Stoly pošoupnutý ke zdi jak při tancovačce, ale židle v řadách, jako by tu dnes měli rozbalit krám nějaký potulný kejklíři. První řady neobsazený, tam se nikdo nehrne, kdo nenašel místo vzadu, raděj si sedne na stůl nebo postojí. I Pták zůstane stát, kousek od okna.

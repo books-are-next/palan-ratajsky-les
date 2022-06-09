@@ -3,8 +3,6 @@ title: 2015 (12)
 contentType: prose
 ---
 
-  
-
 Klepe se jak kudlanka na větvičce, ale má to za sebou. Oba to mají za sebou, všichni mají. Potřeboval by chodit, vyjít z toho, ale na to bude čas později. Teď musí myslet na to, co potřebujou druzí. Potřebujou informaci a on jim ji dá. S rizikem, to jistě, ale bez něj není život, ani jeho opak, o kterém právě teď mluvíme.
 
 Napíše jenom jí – kdoví kde zrovna je a čemu se věnuje, každopádně tahle zpráva bude nejočekávanější ze všech, i když ji zatím nečeká. Uvědomí si to hned, jak ji dostane.

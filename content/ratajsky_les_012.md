@@ -3,8 +3,6 @@ title: 2014 (2)
 contentType: prose
 ---
 
-  
-
 Padesát minut. To si děláš kozy!
 
 V klidu, Dítě. Něco jsem měl.

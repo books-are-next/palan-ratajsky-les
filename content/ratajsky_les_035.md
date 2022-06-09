@@ -3,8 +3,6 @@ title: 1958 (1)
 contentType: prose
 ---
 
-  
-
 Nemůžeš za to. Není to ničí vina a stejně ji odmala přisuzovali tobě. I na štaflích, natož na žebříku ses ve vejšce nikdy necítil jistě. Těžko se to druhýmu vysvětluje, hlava se jednomu netočí, nohy se nepletou, ale ta nejistota člověka čapne až u pytlíku. Dals pryč muškátovou renetu po dědkovi, skácel i cara Alexandra – a to byla poctivá odrůda – a nasadil do sadu šest Elise Rathke. Je to starej německej štěp, nenáchylnej a hlavně převislej, většinou stačí jen vztáhnout ruku po ovoci.
 
 Jen jednou za dva tři roky je třeba stoupnout na těch pár šprušlí a pilou a nůžkama proklestit vlky, otevřít jabloň pro příští úrodu, pro možnosti, které v sobě má. Prořezávals sad loni, ještě by to počkalo, ale když ses dneska až někdy kolem devátý probudil, přišlo ti jako dobrej nápad jít na to znovu. Protáhnout si hřbet, prubnout, jestli strach nepominul. Věci je třeba opakovat, jen tak se změněj. Kdyby ses nerozhoupal, nic by se neudálo ani v noci na dnešek. A přitom se stalo!

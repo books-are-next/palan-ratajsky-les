@@ -3,8 +3,6 @@ title: 2015 (7)
 contentType: prose
 ---
 
-  
-
 Salim je nejen spolehlivej, ale taky relativně štědrej. Golfa ani nepřekontroloval, jen si vzal klíčky a dal mi štůsek bankovek s hodně nulama. Konečně mám nějaký prachy, hurá! Pár euro jsem si tak mohla připlatit, abych dostala výsledky testu co nejdřív. Budu mít konečně jasno. Zadavatelem zakázky byla samozřejmě Agni, já v Lipsku oficiálně vůbec nejsem.
 
 Skoro to tak opravdu je, z města znám kulový. Jednou jsme se byli projít kolem Kanálu, očumovali život v ulicích, ale neměla jsem chuť se k němu přichomejtnout blíž. Ty dny jsem hlavně prospala – doháním deficit, nebo čerpám pro následující období? Nebo si jenom krátím čas? Párkrát mě vzbudil Karabas, ale já na něj opravdu nemám náladu. Možná pozdějc, ale asi ne.

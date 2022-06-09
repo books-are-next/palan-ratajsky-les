@@ -3,8 +3,6 @@ title: 1958 (3)
 contentType: prose
 ---
 
-  
-
 Už jsi nemusel čekat s ostatníma na autobus, moh jsi jezdit podle svýho. Jen ses potřeboval na každou trasu pořádně navlíct. Byl lezavej podzim, i lidi se ti zdáli takoví. Máš rád rychlou jízdu, ten pocit v dlani, když přidáš plyn a pragovka tě s kratičkým zaváháním, jako by se ještě rozmýšlela, poslechne.
 
 Motorku jsi zaparkoval proti vchodu do budovy, povolení k vjezdu do dvora zatím ještě nemáš. I na vrátnici se musíš legitimovat, někteří kolegové v kukani tě ale už znají a dost možná brzo některej z nich řekne: Soudruhu, s průkazem se nezdržuj, tady jsi mezi svýma. Dnes to tak ale ještě není, příslušník na vrátnici zapíše tvůj příchod, jasně že do jiné knihy, než napsal toho, kterej teď sedí na židli v průjezdu, rozhlíží se a snaží pochopit, proč tu vlastně je. Nemáš o něj strach, brzo mu to dojde.

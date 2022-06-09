@@ -3,8 +3,6 @@ title: 2014 (3)
 contentType: prose
 ---
 
-  
-
 Jdu rovnou na to, žádnej odklad. Lidi, co si uměj v mobilu maximálně nastavit buzení, většinou berou i neznámý čísla. To je vyzkoušený. A hajzlové, po kterých jdeme, bejvaj zrovna takový. Kdyby se v sámošce dali do hovoru s cizím týpkem, nebudou se s ním vybavovat zdaleka tak důvěrně. Telefon je pro ně něco vysloveně intimního, kdoví kam si ho všude strkaj…
 
 Haló? zakašlal do telefonu zbytečně hlasitě. Řve do toho, asi hůř slyší, to je u těchhle degenerátů běžný.

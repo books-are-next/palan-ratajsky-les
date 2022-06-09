@@ -3,8 +3,6 @@ title: 2014 (1)
 contentType: prose
 ---
 
-  
-
 Bedekry o tom samozřejmě nepíšou. Ani spousta místních netuší, že něco takovýho v Praze ještě je, navíc pár kroků od metra. Sem na Kotlasku hluk města jenom zaznívá, sám o sobě tu není. Chodí sem akorát ti, co tu bydlí, nebo něco pěstujou: rajčata, papriky, trávu. Dobrý místo, bezpečný a skrytý, kromě toho i docela hezký, což je celkem jedno, ale nevadí to. Nouzová dělnická kolonie, baráčky jak z nějaký fantazy o pidilidech, vyskvotovaný zahrádky, mříže na oknech, alarmy a psi. Auta musej všichni nechat pod kopcem, sem se chodí výhradně po svejch. Jdeš pěšinou, rozpažíš a dotkneš se plotů po obou stranách. Vítej v zemi Liliputů.
 
 Baterky z mobilů a iPadů jsme vykuchali už v metru, žádnej operátor neví, kde jsme. A kdyby za náma někdo šel, nemůžem si ho tady nevšimnout. Navíc se vždycky dá přeběhnout násep a zmizet v divoký zeleni mezi kolejištěma. Tam by člověk narazil maximálně na tuláka, ne na fízla. Je tu liduprázdno, jen my tři. Mělo nás ale bejt o jednoho víc.

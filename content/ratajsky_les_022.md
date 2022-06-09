@@ -3,8 +3,6 @@ title: 1958 (1)
 contentType: prose
 ---
 
-  
-
 Nic už nebude jako dřív, tím spíš se ale ty musíš chovat stejně. Jako by se ti nepřevrátil svět rubem na líc. Tvoje radost musí bejt tichá, ještě tišší, než bejval tvůj vztek. Jak dobře ses ho naučil skrývat. I s radostí se naučíš hospodařit podobně, nenápadně, neukazovat ji. Zůstane tak jenom tvoje.
 
 Žádnej ti to neřekne do vočí, ale celá ves tuší, kdo pro Kašpara poslal Státní bezpečnost. Buď tě někdo viděl vylízat z auta, nebo se domysleli. Rozhod ses, že nebudeš pátrat, nebudeš se domejšlet kdo a proč a jestli, nehodláš ztrácet čas včerejškem. Na tebe konečně čeká zítřek, zrovna jak o tom děti ve školách recitujou básničky. Možná i ty teď budeš mít svoje děti, máš tu možnost. Kašpar se už domů nevrátí, to by v tom byl čert. A Majka, Kašparova Majka, zůstane doma sama… Ne nadlouho.

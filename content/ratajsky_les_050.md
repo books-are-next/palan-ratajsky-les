@@ -3,8 +3,6 @@ title: 1952 (2)
 contentType: prose
 ---
 
-  
-
 Takhle to přece nesmí bejt! Nemá a nemůže – a stejně to zrovna tak je. Po bouřce, po krupobití, když klasy na polích lehnou a nejeden se zlomí, přichází bezvětří, někdy i slunce, čas, aby se voda vsákla a obilí mohlo vstát. Je to tak někde domluvené, taková jsou zkrátka pravidla. Říká se o dnešku, že je jiná doba, platí jiné regule. Asi to tak opravdu bude.
 
 Přes dopoledne se Smrk trochu dospal, jen trhaně a na půl oka, chvíle spánku byly nehluboké a mátožné. A sny děsivé, podobné jako skutečnost. Jaká můra by dokázala přebít noc v hospodě, když tam člověka drží pod pistolí a on pak přijde na to, že stejně udělá to, co chtějí? Obavy nerespektují hranice snu, člověk jim neunikne spánkem ani bděním. Snad jen prací. Ale do čeho se teď vrtnout? Na pole, které měl rod od pradědka, předkové ho uhlídali skrz dvě války, a až téhle noci stačila jedna pistole a celé je to v pytli? Já jsem ten, kdo selhal, kdo grunt nepředá dalším, na koho budou všichni příští zahlížet.

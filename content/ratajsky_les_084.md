@@ -3,8 +3,6 @@ title: 2015 (4)
 contentType: prose
 ---
 
-  
-
 To tě teda lituju. Ona, která vzala roha před válkou, lituje mě, která se pokoušela násilí spíš probouzet? Nemít svou rodinu je horší, než nemít svoji zemi. Aha, tak takhle to myslí.
 
 A ty, Agni, rodinu máš? vyzvídala jsem.

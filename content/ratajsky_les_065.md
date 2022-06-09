@@ -3,8 +3,6 @@ title: 1952 (3)
 contentType: prose
 ---
 
-  
-
 Poznal ho hned, podle zmoklé siluety, podle držení ramen, ještě nahrbenějších než dřív. Pane Jane, chvála Kristu, pojďte dál, přivítal ho kněz. Přece s ním nebude stát na zápraží – i když nejraděj by to provedl právě tak. Ještě se rozhlídne, jestli je příchozí sám, jestli ho nedoprovází nikdo z výboru ani od policie. I tak přináší chmurnou zvěst, kvůli jinému dnes lidi za farářem nechodí.
 
 Dobrý den, důstojný pane. Ani žádnou předsíňku, kam by si návštěva odložila kabát a klobouk, tu otec Jonáš nemá. Pověsí mu to tedy na skobu nad kamna, aspoň to dřív vyschne a on bude moct zase jít.

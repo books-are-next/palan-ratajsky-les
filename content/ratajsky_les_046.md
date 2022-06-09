@@ -3,8 +3,6 @@ title: 2014 (1)
 contentType: prose
 ---
 
-  
-
 Pokácet mu nějakou tu třešeň? Vylomit zámek? To je dost málo, ne?
 
 Nejde o velikost zásahu, ale o jeho dopad, stačí jen trošek. K čemu by byla totální destrukce? Padne mu pár stromků a on znejistí. Znám ho, jak nebude po jeho, hned se začne ohlížet ve strachu.

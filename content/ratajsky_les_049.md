@@ -3,8 +3,6 @@ title: 2014 (2)
 contentType: prose
 ---
 
-  
-
 Mě snad vomejou! Ještě před chvílí jsem si růžově fabulovala, jak se José zatváří, až uvidí na dače vypáčený dveře, a prd: vchod do mýho bytu za těch pár hodin, co jsem nebyla doma, prošel úplně stejnou úpravou! Pokud bych chtěla vidět kyselej ksicht člověka, kterýmu šlohli soukromí, můžu se čumnout do zrcadla.
 
 Můj byt je v suterénu jedinej, vedle akorát sklep, nahoru do přízemí je slyšet ztlumeně. Navíc se sousedama z baráku mám vysloveně vyvážený vztahy: oni serou na mě, já seru na ně. Zvonit na ně, že se mi stalo bebíčko, jestli neviděli toho, kterej mi ho udělal? To bych je jen potěšila a na Ježíška zrovna dneska vážně nemám náladu.

@@ -3,8 +3,6 @@ title: 1952 (1)
 contentType: prose
 ---
 
-  
-
 Všechno už si řekli, teď spolu ještě potřebují mlčet. A nejlíp se mlčí za chůze, to ví každý, kdo někdy zavřel pusu, kdo vyšel dál, než kolem komína. Jehličí jim křupe pod podrážkama, ale oni ho neslyší, natolik jsou zanoření každý sám v sobě, v příběhu, co je na chvíli propojil. Svět kolem, dnešní podvečer, nic z toho vlastně není, jen události, které už minuly, a to, co se z nich jako z larvy vyklubalo během jednoho zpropadeného roku. Jan Pták se nechtěl v Hoješíně zatmít, nebude spát na faře, nepotřebuje spát, potřebuje jít. Řek to jinak: Nechci zneužívat vaší pohostinnosti, otče. Taková hloupost, jaká pohostinnost, jaké nechci? Jak to ale jinak povědět, slova mu nestačí, potloukají se někde daleko. Zbývá jen ta chůze.
 
 Ani farář příchozímu nocleh nenabízel, toho si Pták všiml. Jistě má svoje důvody. Dost na tom, že zatoulaného farníka přijal a vyslechl. Neměl mu moc co poradit. Tahle doba se dá jenom přečkat, ne pochopit. A odpuštění? Jak odpustit vinu sám sobě? Všechno zůstává jen na nás, už nemáme kamarády, abychom je poslali na naše nepřátele: Běžte a ostříhejte je všechny! Břemeno není lehčí, když o něm druhému povíš, to jsou povídačky pro děti, aby se míň bály života. Pták sem neměl jezdit. Co si vůbec myslel, že se tu stane? Proměna těla a krve?

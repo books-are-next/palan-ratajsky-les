@@ -3,8 +3,6 @@ title: 1958 (1)
 contentType: prose
 ---
 
-  
-
 Vsadils na totální nejistotu. Na větu, která nestačila ani pořádně zaznít, a už zanikla ve vřavě pijatyky. Na pár slov, který nezaslech nikdo kromě tebe – a kromě něj, pochopitelně. Nebyl sis jistej, neslyšels jenom to, cos slyšet dávno chtěl?
 
 Seděls u vedlejšího stolu, zpocenej, ufuněnej a otočils do sebe další škopek. Sedmej, osmej…? On právě dosed. Natřásal se při muzice s nějakou macatou courou, tisknul se na ni, až se lidi ohlíželi, a když se ohlídla i Majka, šáh jí blbec na zadek. Právě tahle chyba ho bude stát úplně všechno. Roky si dával majzla, obezřetnej jak partyzán, a teď udělá takovou kravinu! Prostě kašpar. Vždycky byl bejk, nedal si říct, nezkrotl sám, nezkrotila ho žádná, ani prstýnek ho nezkrotil. Teď ale hráb tý běhně na prdel – a zkrotne, že to neviděl.

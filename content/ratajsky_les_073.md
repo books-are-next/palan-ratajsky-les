@@ -3,8 +3,6 @@ title: 2014 (2)
 contentType: prose
 ---
 
-  
-
 Svoje nově ukořistěné halóvozidlo jsem nechala stát stranou. Nehodlám odpovídat na otázky, jak se mu na čumáku omylem udělala skandinávská espézetka a kde jsem ho vůbec tak nejednou vzala. Tenhle úkryt mezi smrčkama navíc zná Radostova škodovka z minula. Už ji vidím, daču na skále, Jestřábí hnízdo, potkaní sluj. José je doma, náležitě se mu čudí od komína, a před plotem stojí… Copak má asi za vůz? Pane jo, dacii, tak to má bejt. Ale ne?! Za tím hranáčem stojí ještě jedno auto. Je mi úplně šumák, že je to vysteroidovanej bavorák, ale co mi jedno není, že ty auta jsou dvě. To znamená dva lidi – nejmíň. Šit! José – a kdo ještě? Jestli teď zaváhám, začnu se bát. A rozklepaná udělám leda prd, a ne nějakou akci. Takže mi nezbejvá než přidat, poslední metry k vrátkům div že neuběhnu.
 
 Pěkně vítám, vy budete paní, nebo snad slečna Červená! oznámil mi chlap, kterej cosi kutil u dveří do chaty.

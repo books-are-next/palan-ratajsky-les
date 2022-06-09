@@ -3,8 +3,6 @@ title: 1958 (1)
 contentType: prose
 ---
 
-  
-
 Okno Majčina domu se nerozsvítilo nejen první noc po soudu, ale ani tu další, ani třetí. Barák zůstával potmě znovu a zase. Po pár tejdnech by tě překvapilo spíš světlo v oknech. Jak rychle si jeden zvykne.
 
 Ale ty sis nechtěl zvyknout! Nesmíříš se. Brzo jsi zjistil, že Majka je u sestřenice v Uhlířskejch Janovicích, to se dalo čekat, parchanti tam jsou od zatýkání, máma teď dorazila za nima. Barák stojí kousek pod kostelem, zajels to omrknout, zpetraktovat, ale Majku ani její holky jsi neviděl a zaklepat ses neodhodlal. Co bys řek, kdyby otevřela sestřenice? A co, kdyby sama Majka? Na tohle ses nemoh nachystat: roky žila v Onomyšli, odmala, nikoho by nenapadlo, že mohla zčistajasna odejít. Že by byl důvod. Nechat doma chalupu, jednu z největších, ještě poctivě stavěnou, nechat ve vsi známé, tebe. A přesto je Majka pryč. Pár dní zůstat stranou bys pochopil, proč ale nepřijela ani potom? Co lepšího ji kde čeká?

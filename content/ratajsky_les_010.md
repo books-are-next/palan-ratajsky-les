@@ -3,8 +3,6 @@ title: 1952 (1)
 contentType: prose
 ---
 
-  
-
 Doprava?
 
 Počkej.

@@ -3,8 +3,6 @@ title: 2014 (1)
 contentType: prose
 ---
 
-  
-
 Společná chodbička, mísa, prkýnko, umyvadlo a sprcháč, dvě postele ve dvou cimrách – a to je pomalu všechno, co tohle apartmá člověku poskytuje. Pominu-li ovšem atraktivní výhled na kotelnu, průvan pod nedolíhajícíma oknama (mezi panely naštěstí ještě netáhne), skříň a židli, ovšem žádnej stůl. Ani mikrovlnka – můj mobil se tak bude muset obejít bez svýho obvyklýho pelíšku, a tudíž dál i bez baterky. Já spím tady, ukázal Karel na jednu cimru, ty budeš tady, na druhou.
 
 Bezva, teď si fakt potřebuju zalízt a nabrat síly pár hodinama, kdy nebudu nic řešit. V klidnějších dobách se tomu stavu říká spánek. Abych si ho mohla pustit, potřebuju se ještě rozhodnout, co dál. Zejtra to pak jenom udělám, to bude ta atraktivnější část výkonu. Teď toho mám plný kecky, do pelechu půjdu na prasátko, i zuby to dneska vydržej bez štětiček. Ale jako každej exulant musím svýmu hostiteli nejprve poskytnout pár základních informací o sobě. Zjevně i o tom, co jsem mu nevyklopila na Josého chatě. Známe se pár hodin a já se mu nasáčkovala do pokoje a do života. Je formát, že mě tu nechá. Prej tak dlouho, jak budu potřebovat. No uvidíme, až se dozví, o co mi fakt jde.
