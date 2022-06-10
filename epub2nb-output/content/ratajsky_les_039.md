@@ -3,6 +3,8 @@ title: 2014 (3)
 contentType: prose
 ---
 
+<section>
+
 Tenhle chlap rozhodně není José, ale určitě nebude ani homeless, co tu hledá zimní domov. Tu sekeru si nepřines na mě. Seplo mi to, když jsem si všimla, že vzadu za chatou trčí pár čerstvě pokácenejch stromků. Porubal je zjevně on. Usekal je půl metru nad zemí a holý kmínky nechal čnít ze země. Je to úchylnej drvoštěp, kterej si prostě nemůže pomoct, nebo mu ty stromy něco hodně ošklivýho udělaly?
 
 Jestli jste přišla za majitelem téhle chaty, tak ten dnes nedorazí, prolomil naše mlčení.
@@ -70,3 +72,5 @@ Já piju hlavně darjeeling, před pár lety jsem tam dokonce zajel, abych vidě
 Ten chlap mě fakt překvapuje. Tipla bych si, že lidi v jeho věku pijou pigi čaj a nechávaj si ho vylouhovat tolikrát, dokud trochu zabarví vodu. Ovšem lidi v jeho věku se většinou ani nevkrádaj za nejistým účelem do cizích chat. Voda není vypnutá, to jsem už zkoušel, informoval mě ještě.
 
 Otočila jsem kohoutkem a zapla rychlovarnou konvici. Kromě zpráchnivělýho heřmánku a ovocný směsi v sáčcích jsem v kredenci skutečně našla jen ten pigi čaj.
+
+</section>

@@ -3,6 +3,8 @@ title: 2014 (4)
 contentType: prose
 ---
 
+<section>
+
 _Salvetr ji přitlačí do sedadla. Ze stisku se nemůže vyprostit. Pochopila, že se něco děje. Auto zastavuje. Na otázku řidiče, kde to provedou, odpovídá Salvetr, aby jel dále, že mu včas řekne. Anna Felbabová chce využít zastavení auta k útěku, ale je vtlačena zpět do sedadla a okřiknuta, aby mlčela. Na otázky soudružky Felbabové nikdo neodpovídá._
 
 _Projeli obcí Chlum, zatočili k Ratajské oboře a auto zastavilo. Strohý hlas Salvetra jí přikazuje, aby vystoupila. Zdráhá se. Přidržuje se sedadla. Síly jí však nestačí. Je vyvlečena z auta a tažena za ruce k lesu. Znovu se ptá, co po ní chtějí. Dostává odpověď: Budeme tě soudit._
@@ -22,3 +24,5 @@ Tenhle vysokej bude Salvetr. Dlouhej kabát, klobouk, hustý obočí, na tváři
 Muselo u toho zevlovat hejno papalášů, všelijakejch snaživců a podržtašků, stoupali si důsledně mimo zornej úhel fotoaparátu, ale byli tam, to já cítím. Snad jim z toho aspoň naskákala husí kůže, moc bych si to přála. Salvetr jim – aspoň podle týdle fotky – neukázal, jak to tehdy udělal, ale že by to udělal znovu. Každýmu z nich by to udělal. Sluší mu to, vztek chlapům vždycky děsně sluší.
 
 Tady před hromadou chrastí postává ten, kterej mě zajímá nejvíc, řidič auta. Je rozpačitej, neví, co má rekonstruovat, jak se má soudruhům předvádět, spíš jen tak bezradně čučí – do prázdnýho klestí samozřejmě, Felbabová v něm neleží. Pokud na chlapech něco nesnáším, je to nerozhodnost. Chlap má vždycky vědět; i když ví blbě, je to lepší, než když tápe a stojí jak špatně vyřezanej svatej. Řidič na týhle fotce stojí zrovna tak. A stejně! Stejně je hezčí než Salvetr. Vyloženej krasavec, trochu dětskej typ a zároveň zasněnej, nedostupnej… Nesměje se, ale kdyby, měl by určitě dolíčky ve tvářích. Není divu, že za nim každá tak pálila. Nebyla bych jiná… Kdybych ovšem s ním neměla tolik společnýho.
+
+</section>

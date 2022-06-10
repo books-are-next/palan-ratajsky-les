@@ -3,6 +3,8 @@ title: 1958 (1)
 contentType: prose
 ---
 
+<section>
+
 Tady se ta básnička nějak zadrhla… A tak pěkně to zatím vypadalo! Jeden po druhým předstupovali před porotu a přiznávali se k myšlení i skutkům. Nezapírali, poznali, když na ně všechno prasklo. Někteří volali po slitování, po takovém, co sami neměli, jiní si odpustili i to. Už sis lebedil, jak soud vyslechne posledního, poradí se, odsoudí po právu celou bandu, a ty ještě stihneš odpolední autobus. Teď to ale vypadá, že se domů dostaneš kdoví jestli poslední noční linkou.
 
 Co ten chlap zdržuje? Hraje si na hrdinu, nebo se jenom rád poslouchá? Soud mu vidí až do žaludku, i ty nahoře na balkóně cejtíš, jak se ten had kroutí. Vypovídá úplně jinak, než všichni před ním. Když mu to obžaloba připomene, vede si stejně svou.
@@ -44,3 +46,5 @@ Mířil jste na něj? Takže byste byl schopen zastřelit i druhou osobu, dokon
 Poprvé se Salvetr odmlčel. Podíval se do stropu a divným hlasem přitakal: Zastřelil bych každého, kdo by mi bránil.
 
 Co na to Kašpar? Sedí na židličce pár metrů od svého komplice. Lokty na kolenou a zírá na zem mezi boty. Ani se na Salvetra nepodívá a ten zas nekoukne na něj. To jsou ale kamarádi! Zastřelí člověka a ani se neumějí dorozumět. Aspoň je líp vidět na ty jejich lži. Ne jeden z nich, oba dva jsou náramní lháři, nedá se jim věřit ani dobrý den. Proč to divadlo Salvetr vůbec předvádí? Byl usvědčen jako střelec, přiznal to, spoušť už zpátky nezmáčkne. Došlo mu snad, že ho coby hlavu protistátní skupiny čeká jistý provaz. Myslí asi, že jako osamělej vrah může vyfasovat třeba jenom doživotí. Proto hraje o to, že byl za vším sám. Tvrdí, že žádná skupina neexistovala, i když ji vidí sesazenou kolem. Směšnej lhář!
+
+</section>

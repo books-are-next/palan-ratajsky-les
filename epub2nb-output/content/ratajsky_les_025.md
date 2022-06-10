@@ -3,6 +3,8 @@ title: 1958 (2)
 contentType: prose
 ---
 
+<section>
+
 Tatraplán stosedmička. A hned za ní druhá. Dvě auta naráz do Onomyšle nepřijela ještě nikdy, byla by to událost už sama o sobě. To, proč přijely, bylo ale podstatnější. Dnešek je jako začátek novýho letopočtu, i po letech se bude říkat: Bylo to před tim, nebo po tom? Kdyby ještě někdo vedl obecní kroniku, co by do ní o dnešku napsal? Co by si troufl, aby příště nezatkli i jeho?
 
 První vůz zastavil před Radostovejma, druhej před hospodou. Sotva dobrzdili, vyskákali soudruzi z vozu, jeden – ten měl dokonce samopal – se postavil na náves a stál tam jako socha svatýho patrona po celou dobu konání zásahu. Bděl nad akcí, žehnal tomu dění železnou hlavní, rozhlížel se a hlídal, kdyby chtěl někdo ze zoufalství vzít bič nebo brokovnici. Nikdo se ale nezmoh na víc než na pláč, nebo marnej vztek.
@@ -20,3 +22,5 @@ Nech mě na pokoji, dej pryč ty svoje pracky! Strnuls. Soudruh v uniformě se 
 Co můžeš udělat teď? Sebrat znovu ten nůž a jít na ně? Kdyby tu aspoň byl soudruh vyšetřovatel a ten druhej, rozumnej, se kterýma jsi mluvil v Hoře. Dalo by se za nima zajít, naznačit, že nejsou na adrese. Ale žádní známí soudruzi tu dnes nejsou, přijeli místo nich nějací další, mladší. Tebe neznaj, nevědí, kdo seš, jak seš v týdle věci podstatnej, že bez tebe by tu vůbec nebyli. Nemůžeš se o nic pokoušet, je třeba zůstat stranou; pokud máš v budoucnu ještě něco udělat, nesmíš s tím začít teď, to je jasný, vylučuje se to. Buď, anebo.
 
 Nemůžeš to vidět, nemůžeš slyšet, jak Majka křičí, jak se pere. Kope, škrábe, jako by nevěděla, že ji stejně do auta dostanou. Je ti jasný, jak to dopadne, a tak na to nemusíš navíc čučet. Doma v kůlně za dveřma ti bude líp, nebo aspoň ne hůř. Nůž tu necháš ležet. Vrátíš se pro něj, až bude bezpečno. Králík ti neuteče.
+
+</section>

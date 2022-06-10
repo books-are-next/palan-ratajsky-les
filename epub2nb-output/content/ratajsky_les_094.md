@@ -3,6 +3,8 @@ title: Ediční poznámka
 contentType: prose
 ---
 
+<section>
+
 Děj románu je inspirován skutečnými událostmi.
 
 Komunistická funkcionářka Anna Kvašová byla v Ratajském lese zastřelena 10. ledna 1952. Zbraň proti ní pozvedl Antonín Landstof, kterému asistovali Josef Kubelka a Josef Koupil. Zásah, který se nešťastnou shodou okolností vymkl původnímu záměru Kvašovou jen zastrašit a odstartoval následnou tragédii, si sjednal Josef Pták. Okolnosti příběhu a motivaci chování jednotlivých postav autor v základních obrysech ve své knize zachoval. Landstof s Ptákem byli v roce 1952 také skutečně vyslýcháni – první jmenovaný kvůli nepodařené emigraci, druhý kvůli podezření z vraždy, ale oba byli po nějaké době propuštěni.
@@ -17,8 +19,14 @@ Inspirací některým okolnostem situovaným v románu do roku 2014 byl přípa
 
 Poděkování za pomoc při vzniku knihy patří zejména Miloslavu Kalašovi, Lukáši Stibůrkovi, Anně Palánové, Janu Paulasovi, Vladimíru Pistoriovi, Karlu Médovi, Michalu Hladíkovi (foto na zadní předsádce[1](./resources/undefined)), Evě Kotalové a Stanislavě Vodičkové.
 
+</section>
+
+<section>
+
 > _Aleš Palán_
 
 * * *
 
 _[1](./resources/undefined) Míněna knižní předloha našeho vydání. _Pozn. red.__
+
+</section>

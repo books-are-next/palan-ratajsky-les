@@ -3,6 +3,8 @@ title: 2015 (8)
 contentType: prose
 ---
 
+<section>
+
 Dneska ti je líp, i z telky pochytíš kousky, které mají nějaký smysl. Chvílema se nad těma blbostma i usměješ, jen ven to nejde, rty se nehýbají.
 
 Od té chvíle, kdy tu byly ty dvě paní – bylo to dávno, nebo včera? – zpozorníš při každém pohybu dveří; pokud ho tedy zaregistruješ. Většinou je to jen sestra, a to je dobré. Pokaždé je to jen sestra, až teď s ní přichází do pokoje někdo druhý. Zaostřuješ ke dveřím, jsou tam dvě siluety, povídají si a ty nerozumíš. Pak se ta bílá, tuhle barvu vidíš nejlíp ze všech, otočí, možná k tobě něco zavolá, a pak tě tu nechá samotného, jen s tou druhou.
@@ -60,3 +62,5 @@ Helča Felbabová… Je tady, sedí ti na posteli a smrdí ti do nosu. A o n�
 Příště je vezmu na návštěvu s sebou, co říkáš? Budou se ti líbit…
 
 Další návštěva? Přijeď zase a vem s sebou klidně někoho, myslíš si co možná nejhlasitěji…
+
+</section>

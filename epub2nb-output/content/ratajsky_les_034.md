@@ -3,6 +3,8 @@ title: 1952 (1)
 contentType: prose
 ---
 
+<section>
+
 Kmochův ostrov je rozhodně lepší. Dál z města, rozlehlejší prostranství, víc zeleně, sem se chodí na procházky. Ano, většinou páry, ale proč by se tu nemohli potkat dva přátelé? Taková procházka nevzbudí žádnou pozornost, nikdo se neohlídne, každej má svejch trablů dost a nosí si je s sebou.
 
 Cesta ke špičce ostrova vede po pravým břehu. Muži se zastavili hned u vody, v bršlici a plané mrkvi je vydupaný plácek, žádný rybář se stoličkou tu dnes není. Ten, který schůzku svolal, si přičapl na bobek. Zaváhal, jestli popel cigarety odklepnout do porostu, nebo ho poslat po vodě. Udělal to druhé a doprovázel ho pohledem, jako by pouštěl lodičku s přáním.
@@ -54,3 +56,5 @@ Copak nevíš, jaká je doba? Nečteš noviny? Byla to politická vražda, naví
 To nebyla žádná politická vražda.
 
 Nebyla, máš pravdu. Ale už je.
+
+</section>

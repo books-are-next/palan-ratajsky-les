@@ -3,6 +3,8 @@ title: 1958 (4)
 contentType: prose
 ---
 
+<section>
+
 Musels jim řikat třikrát. To už stačí, tady to bude dobrý, už mě můžete, soudruzi, vysadit. Konečně zastavili a tys moh vypadnout. Padals odtud jak namydlenej blesk. Auto zůstalo stát snad sto metrů před první chalupou. Jo, bylo to před vesnicí, jak slíbili, ale moc blízko. Někdo tě moh vidět. Kdyby tě zahlíd ten, koho bys viděl i ty, dalo by se s tim ještě něco podniknout, ale takhle? On zůstane anonymní a ty seš ten, o kom se ví, že přijel s nima. Tatraplánem, kterým za chvíli odvezou člověka, co se už nevrátí. Tys o tom rozhod, oni to jenom provádějí, ale dělají to tak, že se můžeš začít bát taky.
 
 Tobě převahu ukazovat nemusí, ctíš ji, co by chtěli víc? Bez tebe by vraha neměli, zkoušeli to léta sami, dokud se neukázalo, že se bez pomoci neobejdou. Možná je dožralo právě to. Loučit se nebudem, však se ještě uvidíme, rozloučil se z okýnka soudruh vyšetřovatel. Stáls ve škarpě, v poprašku sněhu a úplně idiotsky jsi jim zamával.
@@ -42,3 +44,5 @@ Díval ses. Teprve když nacpali chlapa dovnitř, došlo ti, že musej projet ko
 Motor naskočil, kola se otočila, slepice zakdákala a nesmyslně přes celou šíři cesty popoběhla směrem k tobě. Tatraplán projel krokem kolem vás. Soudruh vyšetřovatel seděl s Kašparem vzadu. Oba se na tebe podívali… Ne, neměl ses ohlédnout, všemu jsi zatím unikal, měls nechat minout i tyhle pohledy.
 
 Zved se ti bachor. Napoprvé tos ještě udržel nahoře v krku, druhou vlnu jsi už vyhodil ven. Kdo by se nepoblil? Máš kocovinu, seš nevyspalej, na cestách to drncalo, k tomu to napětí. Hubu sis utřel rukávem. Ohlíd ses, auto už jsi nezahlíd, snad tě neviděli v předklonu. Přiběhla slepice a začla ten tvůj blivajz ze země zobat. Možná jsi právě zachránil život nějaký žížale, pokusil ses o humor. Nezafungoval.
+
+</section>

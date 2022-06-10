@@ -3,6 +3,8 @@ title: 2014 (2)
 contentType: prose
 ---
 
+<section>
+
 _Resoluce ze schůze občanstva ve Chmelišti, která odsuzuje hanebný a podlý čin, který se stal na našem okrese, jemuž padla za oběť funkcionářka MNV. Občané žádají, aby vyšetření a odsouzení pachatelů bylo co nejpřísněji potrestáno…_
 
 Tak to je zásah, soudruzi mi mluvěj ze srdce! Taky chci potrestat to vyšetření a odsouzení. Ve Chmelišti si ale tehdy přáli asi něco jinýho, jen to dočista pomotali. Kdo ví, co vážně chtěli, hlavně pře­čkat divokou dobu. Nakonec mohli bejt rádi, že tyhle jejich žvásty nikdo doopravdy nečet, jen si na okrese zaevidovali: ano, rezoluce z Chmeliště dorazila.
@@ -24,3 +26,5 @@ _Jedna občanka uvedla, že paní Bělonožíková byla u toho, když jedna pan
 _Na schůzi občanstva u nás v Talmberku bylo zapsáno, že všichni byli s Felbabovou zadobře, že žádný proti ní nic neměl. To ale není tak, těch, co byli proti, bylo dost._
 
 Vida, tohle už není rezoluce, to je teplej bonz, samozřejmě bez podpisu. I Ptáka dotyčná jmenovala, střílela bezhlavě kolem, ale cíl zasáhla taky. Bylo by zajímavý sledovat, kdy si soudruzi přišli pro svý oběti, jestli po tomhle dopise, nebo po jiným udání. A jestli všímavá pisatelka třeba ještě nežije a není na sebe hrdá… To ale není úkol pro mě, zůstala jsem v tom pro tuhle chvíli sama, musím se soustředit na jedinej cíl. Na Josého. Nevim úplně přesně, co a kdy tehdy prováděl, podstatný je, co a kde provádí teď. Mě zajímá jeho současnost, to je klíč k minulosti, ne obráceně. Takže starý záznamy stranou, fakt nejsem archivářka. Udělám si maté a vrhnu se na gps polohy a Josého zvyky. Tak kdepak tě, soudruhu, máme?
+
+</section>

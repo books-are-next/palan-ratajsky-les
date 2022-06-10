@@ -3,6 +3,8 @@ title: 2014 (2)
 contentType: prose
 ---
 
+<section>
+
 Z komína se nekouří, i okenice jsou zarýgrovaný. Ložený znamení, že José se potlouká někde po Klatovech a jeho chata je tu celá jenom pro mě. Nevěřím na Boha, snad jen na ducha pomsty, a ten mi dneska přeje. Můžu to omrknout zblízka a beze spěchu. Nezdá se, že by plot byl děravěj, mezi plaňkama se neprotáhnu ani já, ale je tak nízkej, že to nehraje velkou roli. Kde bych mohla přelízt? Třeba tady? Tyčky jsou dost pevný, unesou mě, nejsem těžká. Košík pověsím na plot, z druhý strany si pak pro něj šáhnu, aby tu nestrašil, kdyby šel kolem nějakej opravdovej houbař. Nohu dám sem…
 
 Dobrý den.
@@ -30,3 +32,5 @@ Konečně mi to došlo! Jak to, že až teď? Kam jsem dala mozek, mám ho vůbe
 A ten komín! Je mrazivo a stejně z něj nejde kouř. Copak je to nějakej otužilec na výletě? A okenice! Jak to, že jsou zavřený, přece každej chatař, hned jak přijede do svýho, ze všeho nejdřív spočítá myši v pastičkách a otevře okenice! To je teritoriální chování, jako když psi vochcávaj kandelábry.
 
 To je vaše chata? zeptala jsem se s převahou plotu, co nás dělil. Zásah! Chlap se zastavil, jako když na ovladači zmáčkneš pauzu, jen došláp nohou na trávník, váhu těla už na ni nepřenes. Je snadný si něco namlouvat, zejména když je člověk sám nejistej, ale on taky zaváhal. Co tu dělá? Zahejbá manželce? Kuje plány na novou říjnovou revoluci? Moh mi přece vynadat, říct, že má chatu půjčenou od kamaráda (estébáci se jistě družej a nabyté statky si vzájemně poskytujou jako v tom bájeslovným komunismu), ale on dočista znehybněl. Zrovna tak jako já.
+
+</section>

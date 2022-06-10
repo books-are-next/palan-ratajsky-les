@@ -3,6 +3,8 @@ title: 2015 (6)
 contentType: prose
 ---
 
+<section>
+
 Chápal, že maily a messenger mlčí, ale že nenašel řádku pod Chazarským slovníkem a nikde ani písemnej vzkaz, to vypadalo divně. Ba ne, vypadalo to nebezpečně. Kam vyrazí propuštěnej vězeň nejdřív? Do hospody, za babama, za svou babou, případně chlapem? Omyl. Vyrazí za komplicema (předtím ovšem jezdí dvě hodiny tramvajema a chodí po opuštěnejch místech, aby setřás možný očko).
 
 V Barbuchově případě to byl chlap i komplic dohromady. Odemk si jeho byt (všichni čtyři maj klíče od všech), koukal, kde co lítá, a brzo to znamení nepokoje rozpoznal: pořádnou vrstvu prachu. A usychající kaktusy (ty zalil, prach nedráždil). Která uhodila, mu došlo, když nakouk do skříně. V bytě chybí nejen Strašák, ale na obvyklým fochu taky jeho počítač. Úplně stejná výbava, s kterou putoval do cely on sám: člověk a stroj. Tohle smrdí.
@@ -58,3 +60,5 @@ Mně taky.
 Plánovali jsme, že tě po té vězeňské stravě pořádně vykrmíme, a teď vidím, že to musíme zvládnout za jediný večer, usmál se táta. Takhle je to dobrý, v humoru si rozumějí, jinak skoro vůbec.
 
 Vykrmíte se dneska spolu se mnou? vybídnul rodiče a hrábl po dalším kousku bábovky.
+
+</section>

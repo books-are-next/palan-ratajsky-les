@@ -3,6 +3,8 @@ title: 1952 (2)
 contentType: prose
 ---
 
+<section>
+
 Mapa už není třeba, jsou na místě. Situaci ve vsi maj nastudovanou, tentokrát zatočí doleva, za zájezkem ještě jednou vlevo a přímo před sebou uvidí dvoukřídlá zelená vrata. Jsou pootevřená. Psa soudružka nemá.
 
 Mohli by se otočit tady, ale řidič raději předjede přímo před okna a začne couvat na úzké cestě. Felbabová není řidička, nedojde jí, jak je to nelogické. V oknech se svítí, zpoza závěsu jsou jistě pozorovaní. Právě tak to zamýšlejí, dát o sobě vědět. Spolujezdec popadne diplomatku, takovou, v jaké se dnes tahají lejstra na schůze. Aktovka a rádiovka – dva nejpodstatnější atributy stranické důvěryhodnosti, jemu teď stačí jeden. Když bude držet kabelu v podpaží, nebude navíc muset řešit otázku, co s rukama. Není dobrej herec a ví, že dřevěnýho ochotníka neprozradí ani tolik hlas, jako ruce. Podobně jako špatnýho malíře: ksicht umí nakreslit kdekdo, ale dlaň a prsty? Dürer to uměl. A kdo po něm?
@@ -34,3 +36,5 @@ Budu potřebovat stranickej průkaz?
 Takovou otázku nečekal, je to ale dobrá odpověď, znamená, že sehrál svůj výstup uvěřitelné. Přitom ví, jak je topornej, ale tihle pitomci uvěří naštěstí všemu. I těm kravinám o kolchozech uvěřili, o době, která přetavuje lidi. Prdlajs, semele nejdřív sedláky a pak celej venkov. A člověk zítřka? Ten bude stejnej jako člověk dneška, jen starší a zklamanější. Pokud se vůbec dožije.
 
 Ano, vezměte si stranický průkaz, to je samozřejmé. A ty se jistě uložíš sama, až v Hoře skončíme, maminku ti přivezeme zase domů, obrátil se soudruh tajemník na mladou kuchařku. Zamíchala kaši a odstavila ji bokem, stranou z největšího plamene.
+
+</section>

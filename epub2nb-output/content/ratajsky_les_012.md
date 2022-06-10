@@ -3,6 +3,8 @@ title: 2014 (2)
 contentType: prose
 ---
 
+<section>
+
 Padesát minut. To si děláš kozy!
 
 V klidu, Dítě. Něco jsem měl.
@@ -36,3 +38,5 @@ Přeju hodnotnej čtenářskej zážitek, Dítě. Bude se ti to líbit.
 Pokud Barbucha říká, že se mi to bude líbit, znamená to, že mě čeká pěknej děs. Těšim se, jak se při čtení naseru. Barbuchu respektuju jako náčelníka, ale stejně ho úplně nechápu, proč týpek jako on, dědic vily ve Střešovicích, skončí v partě nás – vyvrhelů? Když jsme začínali, učil někde na gymplu, teď je snad dokonce na vejšce, přednáší historii nebo co. Jeho fotr je céescé, dřív zcela rudej, teď jakbysmet, pořád bere prachy z nějakejch patentů. Barbucha moh z katedry očumovat studenty, inkasovat plat a od papínka rentu a o historii jen teoretizovat. Ale ne, on se rozhod jí měnit. Přitom s ní sám osobně nevyřízený účty nemá, fotr je ňouma, ale neškodnej. A pak ty jeho kontakty! Barbucha sežene informace, bez kterejch bysme se často nikam neposunuli. Imponuje těm ouřadům, nebo kde to všechno loví, jeho postava (tu má fakt výstavní), nebo je úplácí otcovejma prachama? Nevím, vědět nepotřebuju, on o tom nemluví. Hlavně že to funguje. Jo, věci kolem Barbuchy sice trochu nechápu, ale věřím mu, úplně. A to je podstatný, nemusíme si rozumět, musíme na sebe spolíhat.
 
 Pro dnešek komunikace skončila, raděj dřív než pozdějc. Vivat paranoia. Jdou po nás. Fízlové ty určitě, motaj se kolem, ale zatím asi dost dobře nechápou, o co nám jde. Nedochází jim ani, jak to myslíme vážně, když někomu řeknem: Bylo to naposled. Že to není výhružka, ale konstatování, že to prostě bylo naposled. A že tu volbu nenecháváme na dotyčným. Sekundovat polišům se pokoušej mladý následovníci starejch vrahů. Jsou nelegální jako my. Naštěstí jsou úplně vypatlaný, už jenom ty jejich věčný stanoviska jsou důkazem, že tahle pěticípá ideologie není věcí názoru, ale inteligence, respektive jejího nedostatku. Ovšem pozor: tydle hoši – řikáme jim embéčka – mladý bolšani, maj oproti fízlům jednu výhodu, chápou, o co nám jde. Jasně: jde nám o ně!
+
+</section>

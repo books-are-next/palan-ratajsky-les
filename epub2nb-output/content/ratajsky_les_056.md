@@ -3,6 +3,8 @@ title: 1952 (4)
 contentType: prose
 ---
 
+<section>
+
 Další rány už nebyly třeba. Padlo jich dost. Mlátička si olíz krev z kloubů, jako by jazykem moh rozlišit, jestli je ta červená jeho, nebo vyslýchaného. Bil silně, jako pokaždé jenom rukama, pohrdá těma, kteří si vezmou na chlapa obušek nebo tyč. K čemu to, když pak necítíš dotyk do měkkého, divoký tep těla, kterým na rány reaguje, protože jinak odpovědět nemůže?
 
 Teď dá Ptákovi chvíli, aby sesbíral vědomí, připomněl si, kde je a co se po něm chce. Pokud má dneska promluvit, udělá to. Jestli bude ještě zatloukat, naloží mu zase zejtra. Dneska to už stačí, teď se bude mluvit. Olíz si cigaretu, naučil se to na vojně, pomalejc pak hoří, škrtl sirkou a připálil si. Hořící sirku hodil vyslýchanému k nohám, udělal to ale moc prudce, zhasla dřív, než dopadla. Musí se zklidnit, aspoň trochu.
@@ -44,3 +46,5 @@ Zaplatils jim za to? Nebo ji picli z čirý lásky k tobě? Nějaká soudružs
 Není mi líp, jsem na výslechu.
 
 Máš pravdu, není ti líp. A nebude, to ti můžu zaručit.
+
+</section>

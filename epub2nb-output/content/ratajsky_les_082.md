@@ -3,6 +3,8 @@ title: 2015 (2)
 contentType: prose
 ---
 
+<section>
+
 Tentokrát se vás sešlo zhruba pětadvacet, počítáš mezi to i redaktora z hlavního města. Škoda, že s ním nebo místo něj nepřijela Soňa Kejzlarová, má asi v redakci jiný úkol, něco aktuálního, ne tuhle dávnou historii. Pro spoustu lidí je to zavátý čas, proto sem přestali chodit, představují si naivně, že žijí v tom roce, jaký ukazuje kalendář na jejich stole. Jak šeredně se pletou. Zeptala by ses Soni na všechno ještě jednou, znovu, třeba by ti řekla něco víc než po telefonu, třeba byste spolu našli klíč k tomu, co se tady stalo – ne před tou spoustou let, nedávno.
 
 Rok od roku je tu míň známých. I míň účastníků. Pořád tu ale jsou, v tom zůstává naděje. Těší tě, že tu bývaj taky mladí, tentokrát dva tři sotva dvacetiletí pětadvacetiletí s nějakým transparentem, přijeli dost možná vlakem, to se cení. Pamětníci ovšem mizí, rozhlídneš se, jsi tu jediná, kdo to celé pamatuje od začátku. V první řadě jsi u pomníčku své mámy stála i v dobách, kdy tu byly zástupy, sami pamětníci. Tehdy se vražda ještě nemusela připomínat slovy, připomínala se husí kůží; krev ještě nezaschla, burcovali řečníci z malé tribunky, sbité den předem z kulatiny. Dnes je tady poslanec ze sněmovny. Mluví dobře, s apelem, vysvětluje, kdo skutečně roztáčel kola násilí. Posloucháš ho, vnímáš slova, která už stejně znáš. Z malých reproduktorů se nese jeho hlas mezi stromy, možná až k silnici, kde všichni nechali auta, i ty svou dacii.
@@ -34,3 +36,5 @@ Jakou roli ta Červená hrála? Nebyla to ona, kdo zmasakroval Pepův ovocný sa
 Zůstávají tu ale dvě věci, které na vraždách ani neposlouchali. Sama jsi viděla, jak Melichárek s tou holkou nastupují do bavoráku. Sama jsi slyšela, že chtějí nejdřív sem k pomníčku. Ale tady se auto nenašlo, zůstal tu jen nemohoucí řidič. Auto stálo v lese, kilometr od Pepovy chaty. Ta holka musela po tom všem sednout za volant… A pak ty vlasy! Jaký smysl mají ostříhané kadeře?
 
 Pokud v tom ta holka má prsty, najdeš ji. Nedopřeješ jí klid. Víš, jak vypadá, a ona to o tobě ví taky. Bude nervózní a udělá chybu. Nakonec ji najdeš. Budeš pátrat, věnuješ tomu čas. Dlužíš to Melichárkovi – i on se věnoval případu tvé matky. Šest let tehdy trvalo, než vypátrali její vrahy. Ani tahle holka neunikne. Máš dost času a třeba se najde někdo, kdo ti s tím pomůže. Fakt se ti mladí na tebe koukaj.
+
+</section>

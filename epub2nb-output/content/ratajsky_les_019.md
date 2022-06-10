@@ -3,6 +3,8 @@ title: 1952 (4)
 contentType: prose
 ---
 
+<section>
+
 Tahle cesta na žádnej aktiv do Hory nevede. Anna přesně ví, kde je, na kraji Ratajský obory, támdle vede pěšina na mýtinu k posedu, jednou tam s někým byla, o kus dál se odrostlým smrčím klikatí koleje, další lokálka do Ledečka pojede až ráno, přesně ví v kolik. Je oblačná noc, tma. Sníh les nijak neprosvětlí, není vidět na dvacet metrů. Ti dva to tady asi neznají vůbec, nebo jenom trochu, ona má v té znalosti výhodu, ale co je jí platná?
 
 Co od ní ty dva chtěj? Asi ne to, co chce od ženský každej chlap. Mohla by jim to dát, i když nechtějí? Nabídnout se jim sama? Ještě není tak stará… Těžko. Tihle vědí, za čím jdou, a nenechaj se od toho odvýst. Ten druhej sebral z auta provaz a nůžky a nese to sem, kabelu na sedadle nechal. Motor je vypnutej, světla zhasnutý, maj jen baterku. K čemu to všechno? Co budou dělat? Anna to nechce vědět, nechce to prožít. Ví ale, že to stejně prožije…
@@ -46,3 +48,5 @@ Zvedni ji, nařídil Salvetr Kašparovi. Ten ji tentokrát sevřel oběma rukama
 Antonín Salvetr napřáhl pravačku. Pistole v ruce se mu nezachvěla. Zvedl ji vysoko a zamířil vyděšené ženě doprostřed čela. Neminul by z mnohem větší vzdálenosti, natož takhle z pár kroků na nehybný cíl.
 
 Uslyšela ránu. Čekala, až se dostaví bolest, ale smrt byla rychlejší. Potřetí dopadla do kupy klestí. Umřela a nestačila porozumět.
+
+</section>

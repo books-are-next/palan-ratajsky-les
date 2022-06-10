@@ -3,6 +3,8 @@ title: 1958 (3)
 contentType: prose
 ---
 
+<section>
+
 Jak to, že ji neuhlídali? To si někdo zle vypije! Motor jsi nakopl s jedinou myšlenkou na pomstu, ale když jsi přijel do Kutné Hory, po tolika hodinách cesty vymrzlý z rychlého větru a opřels motorku před budovou, zlost se ti vyfoukala z hlavy.
 
 Na vrátnici seděl někdo nový, byl na tebe nevrlý a ty na něj. Zase jsi měl čekat na židli v průjezdu, ale nesed sis, jen na sedátko položil helmu. Neklid, nepokoj, pohledy sem a tam, myšlenky všude okolo, sucho v krku, pokašláváš, nemůžeš se toho hucání zbavit už kolik dní. To je dost, že pro tebe přišli.
@@ -48,3 +50,5 @@ Dítě je tvoje a přitom tvoje nikdy nebude, pochopils s pohledem na svoje ko
 Mávnul jen rukou, jako by tě odháněl a zároveň ukazoval, kde jsou dveře. Už to vypadalo, že se rozejdete beze slova, když velící vypálil poslední náboj: Mimochodem, ta malá dostala nový příjmení. To proto, aby ji nesváděla pochybná minulost jejích rodičů. Vyroste z ní novej člověk, o svejch předcích se nic nedozví, ani o tobě ne. A ty se o ni přestaneš zajímat! Rozumíš? Určitě bys mě nechtěl rozzlobit, kdybych se dověděl, že se po ní poptáváš.
 
 Polknuls a kejvnuls.
+
+</section>

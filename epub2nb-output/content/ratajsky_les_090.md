@@ -3,6 +3,8 @@ title: 2015 (10)
 contentType: prose
 ---
 
+<section>
+
 Chtělo by to zase nějakou haku. I dneska je to velká akce, jiná než dřív a možná stejně náročná. Tentokrát bez krve, vzteku ale bude možná tolik, co jindy. Třeba se přidaj i další pocity, nějaký nový, nevyzkoušený.
 
 Místo válečnýho rituálu mám s sebou dneska Agni. Jsem vyjukaná, Bosňačka sedí za volantem celou dobu. Kdyby byla unavená, prej si řekne, abych ji vystřídala, ale ona unavená nebude, tím jsem si jistá. Případně si neřekne. Bez týdle ženský bych byla totálně v loji, pomáhá mi od první chvíle, co jsem do Lipska přijela. Měla bych to někdy otočit a pomoct jí, určitě je toho spousta, co za ní zůstalo v Bosně k řešení…
@@ -28,3 +30,5 @@ Možná to nedokážu sama vypustit z huby, ale ona mi snad pomůže: Nějaká 
 Kejvnout dovedu, přihlásím se k tomu dědictví tiše a jasně. Jo, jsem zkurvená přízeň.
 
 Jsme tady. Vjíždíme na parkoviště před špitálem. Je tu plno, couráme se pomalu uličkou, hledáme volnej flek. Rozhlížím se, naviguju. Agni, dívej: Támhle vzadu se uvolnilo jedno místo, jedem tam. Zrovna odtud vyjíždí nějaká mazda.
+
+</section>

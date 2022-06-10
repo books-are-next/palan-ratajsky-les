@@ -3,6 +3,8 @@ title: 2014 (1)
 contentType: prose
 ---
 
+<section>
+
 Bedekry o tom samozřejmě nepíšou. Ani spousta místních netuší, že něco takovýho v Praze ještě je, navíc pár kroků od metra. Sem na Kotlasku hluk města jenom zaznívá, sám o sobě tu není. Chodí sem akorát ti, co tu bydlí, nebo něco pěstujou: rajčata, papriky, trávu. Dobrý místo, bezpečný a skrytý, kromě toho i docela hezký, což je celkem jedno, ale nevadí to. Nouzová dělnická kolonie, baráčky jak z nějaký fantazy o pidilidech, vyskvotovaný zahrádky, mříže na oknech, alarmy a psi. Auta musej všichni nechat pod kopcem, sem se chodí výhradně po svejch. Jdeš pěšinou, rozpažíš a dotkneš se plotů po obou stranách. Vítej v zemi Liliputů.
 
 Baterky z mobilů a iPadů jsme vykuchali už v metru, žádnej operátor neví, kde jsme. A kdyby za náma někdo šel, nemůžem si ho tady nevšimnout. Navíc se vždycky dá přeběhnout násep a zmizet v divoký zeleni mezi kolejištěma. Tam by člověk narazil maximálně na tuláka, ne na fízla. Je tu liduprázdno, jen my tři. Mělo nás ale bejt o jednoho víc.
@@ -56,3 +58,5 @@ Ptá se mě přesně tak, jak se ptával Barbuchy. I já se ho tak ptala. Cháp
 Josého udělám sama, kdybych s nim potřebovala píchnout, ozvu se vám. Strašáku, ty zjisti, jak to vypadá s Barbuchou, jestli nepotřebuje právníka nebo někoho podmáznout, nebo obojí. Předpokládám, že je jenom na výslechu a že ho pustěj co nevidět. Buďte každopádně opatrný, dokud nebudem vědět, co všechno o nás vědí. Barbucha nejen že nic nevyžvaní, ale třeba od fízlů zjistí, jak daleko za náma zaostávaj, možná to zatčení bude ještě k dobrýmu. (Pokus o vtip nevyšel.) Karabasi, potřebujem najít nějakou bezpečnější formu komunikace. Na chaty se pro tuhle chvíli raděj vyprdnem, už se jim nedá věřit. Sežeň někoho důvěryhodnýho, kdo tomu hoví, abychom se nemuseli osobně scházet kvůli každý prkotině… Lekla jsem se vlastních slov a mrkla na Strašáka: Tim jsem samozřejmě nechtěla říct, že to s Barbuchou…
 
 Buď v klidu, Dítě, já ti rozumím, usmál se na mě.
+
+</section>

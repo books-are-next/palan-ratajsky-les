@@ -3,6 +3,8 @@ title: 2014 (4)
 contentType: prose
 ---
 
+<section>
+
 Probírá se. Možná vidí věci kolem ještě rozmlžený a teprve za chvíli mu dojde, že nemůže hejbat rukama. Ne, ty hajzle, to není důsledek ztráty vědomí po šleze paralyzérem, kterým jsem tě sejmula, to ty provazy, kterejma jsem ti vobmotala pazoury. Mám tu i lepicí pásku, kdybys začal řvát, ve vteřině ti přelepím držku, ale ty mlčíš, správně. Zdá se, že i posloucháš. Konečně.
 
 Celou cestu sem do Ratajskýho lesa mlel a mlel. Tuhle chatu jsem si pořídil, když tu byla ještě jediná široko daleko, božskej klid! Teprve později tady začali kutit další chaty, ale já aspoň zařídil, aby stavěli bokem, abych neměl sousedy hned za plotem, to jsem si uhájil.
@@ -98,3 +100,5 @@ Víš, proč to dělám? Protože je to třeba! Protože to je věc, která ček
 O čem to žvanil v autě? Že udělal mý babičce dítě? Tadle troska, co se složí, jakmile přestane pouštět strach? On přece není můj děda! Nemůže bejt! A i kdyby snad: o to víc to musím udělat!
 
 O to víc nemůžu.
+
+</section>

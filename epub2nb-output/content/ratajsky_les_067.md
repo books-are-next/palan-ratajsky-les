@@ -3,6 +3,8 @@ title: 2014 (4)
 contentType: prose
 ---
 
+<section>
+
 Mám na to půlku dne: provazy, nůžky, slzák, injekční stříkačka, diktafon… Každou věc raděj koupim v jiný části města, a i když mi nakonec dal Karel svou kreditku, platím papírovejma (ovšem těma, který jsem vybrala z jeho karty na Hlavním nádraží). Trajdám po kvelbech, kořist cpu do batohu, na hlavě kapucu, na nose brejle. Loučím se. Pravděpodobně teď tohle město nějakej pátek neuvidím. Hurá!
 
 Smráká se a já jsem zase doma, teda na ubytovně. Až když jsem prošla vrátnicí (babizna na mě jen kejvla, mám předplaceno), vzpomněla jsem si, že jsem se mohla cournout i kolem svýho starýho bytu, co se tam děje exkluzivního. Nakonec dobře, že mi to seplo až teď, ještě bych z nostalgie po těch mokrejch cihlách spáchala nějakou nepříčetnou kravinu.
@@ -24,3 +26,5 @@ Cože?
 Nic, zapomeň na to. Už jsem taky namazaná, musim si dávat bacha na hubu, potřebuju se na zejtřek soustředit, a ne se ztřískat. Třetí láhev jsem odmítla, Karel se ještě trochu napil. Vykládal o Švédsku, že tam za nim musim přijet. Já jsem vlastně ještě nikde pořádně nebyla, znělo to lákavě.
 
 Nemělo se to stát, ale stalo se. Karel si sednul na postel a pak se do ní svalil. Neusnul, jen koukal, už nemluvil. A já sfoukla svíčku a lehla si k němu. On sám by si vůbec nic nedovolil, a to nejen kvůli tomu, že jsem o nějakejch sto padesát let mladší. Já si to ale dovolit mohla. Stáhla jsem si rifle a v kalhotkách se k němu zády přitiskla. Ze všeho nejvíc jsem byla prdelí zvědavá, jestli se mu postaví. Nikdy jsem s ani vzdáleně takhle starým chlapem nebyla. Postavil se mu, ale jenom na chvíli. Začalo mi to bejt trochu líto.
+
+</section>

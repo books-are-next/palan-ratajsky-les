@@ -3,6 +3,8 @@ title: 1952 (1)
 contentType: prose
 ---
 
+<section>
+
 Čím to, že po letech na tak podstatnou věc vzpomínají lidi docela rozdílně? I ti, kteří tam tehdy byli, se neshodnou. Střílelo se v hospodě ve Smrku, nebo ne? Jedni se bili za to, že ano, že když sedláci začali hudrovat o nátlaku, nezákonnosti toho, jak jsou bez provinění drženi pod zámkem, když vstali a chtěli dveřma z hospody vyjít, chlápek za stolkem prostě a bez varování vystřelil. Do vzduchu, jistě, nechtěl zabíjet, nepotřeboval střelit chlapa, pro jehož podpis si přijel, ale přece jen. Ta rána všechno změnila, lidem došlo, jak moc je to s nima špatné. Druzí tvrdili, že chlap nevystřelil, že jen mířil, varoval a hrozil – a to že stačilo. Sedláci že začali podepisovat bez rány.
 
 Soudruh Louda zanášel do svých lejster jeden podpis za druhým, nespěchal, dělal práci důkladně, chvílema stála před jeho stolkem fronta, jindy museli soudruzi přitlačit silným slovem. Jan Pták k Loudovi přistoupil jako jeden z prvních. Těch pár hektarů by želel jeho otec, on jen přijde o práci na nich a nějaké ty brambory. A o kukuřici, kterou pěstoval z donucení! Celé poslední roky se děly jakoby v donucení, dnešek není zas taková výjimka. Vstoupil do družstva s vědomím, že nemá pořádně oč přijít a dost možná svou povolností ani co získat. Věděl jen, že by stejně neodolal. Šetřil síly, až přijde ta chvíle, kdy bude muset vzdorovat.
@@ -26,3 +28,5 @@ A stejně nepodepsal. Aspoň jeden z nás, opáčil bezzemek.
 A stejně ho odvezli, k čemu tím komu pomoh?
 
 Lidi se trousili z hospody domů. I po pouti chodili do baráků až takhle za světla, teď ale bylo všechno jiné, tiché jako v němém filmu. A žádný klavír pod pódiem k tomu nehrál. Zbyly jim jen zdi, střechy a kredenc. Pole, stroje, dobytek, všechno už je cizí. Jsou nevyspalí, okradení, zahanbení. Jako by proflámovali noc a po zlém snu se ráno v propocených duchnách probudili s kocovinou.
+
+</section>

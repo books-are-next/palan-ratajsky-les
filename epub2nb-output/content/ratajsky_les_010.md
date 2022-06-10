@@ -3,6 +3,8 @@ title: 1952 (1)
 contentType: prose
 ---
 
+<section>
+
 Doprava?
 
 Počkej.
@@ -44,3 +46,5 @@ Nejistota.
 Muž za volantem chvíli vyčkal, jestli ze spolujezdce nevypadne něco dalšího, ten ale svou myšlenku dokončil jediným slovem. To je všechno, co mi řekneš? Já myslel, kdovíjak nebudeš rozprávět, vytvářet ty svý filozofický vývody, a ty zatím řekneš jen nejistota, zazubil se.
 
 Nejistota stačí.
+
+</section>

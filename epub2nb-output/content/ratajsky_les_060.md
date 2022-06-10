@@ -3,6 +3,8 @@ title: 1958 (1)
 contentType: prose
 ---
 
+<section>
+
 Okno Majčina domu se nerozsvítilo nejen první noc po soudu, ale ani tu další, ani třetí. Barák zůstával potmě znovu a zase. Po pár tejdnech by tě překvapilo spíš světlo v oknech. Jak rychle si jeden zvykne.
 
 Ale ty sis nechtěl zvyknout! Nesmíříš se. Brzo jsi zjistil, že Majka je u sestřenice v Uhlířskejch Janovicích, to se dalo čekat, parchanti tam jsou od zatýkání, máma teď dorazila za nima. Barák stojí kousek pod kostelem, zajels to omrknout, zpetraktovat, ale Majku ani její holky jsi neviděl a zaklepat ses neodhodlal. Co bys řek, kdyby otevřela sestřenice? A co, kdyby sama Majka? Na tohle ses nemoh nachystat: roky žila v Onomyšli, odmala, nikoho by nenapadlo, že mohla zčistajasna odejít. Že by byl důvod. Nechat doma chalupu, jednu z největších, ještě poctivě stavěnou, nechat ve vsi známé, tebe. A přesto je Majka pryč. Pár dní zůstat stranou bys pochopil, proč ale nepřijela ani potom? Co lepšího ji kde čeká?
@@ -36,3 +38,5 @@ Už musím, však se ještě uvidíme, zahlaholil kupec a vešel. Do svého, do
 Jsou to dva tři tejdny, cos o věci jednal se soudruhy v Hoře. Nepropadne barák státu spolu s Kašparovým majetkem? Vrahovo přece podle rozsudku přechází na všechen lid. Slíbili ti, že nepřejde, že to zařídí, jako odvěký rodový stavení Majčiny rodiny zůstane dům Marii Kašparové, ta se neprovinila, nebyla ani souzená, jen krátce zadržená. To Kašpar se sem přiženil, majetek na něj ani nepřepsali, snad měli tušení. Dům zůstane vdově, společnost jí dá druhou šanci, říkali soudruzi.
 
 Prdlajs! To tys jí dal druhou šanci. Nejdřívs domluvil, aby ji pustili a nesoudili s ostatníma, podlízal jsi kvůli tomu a sliboval, teďs dokonce sjednal, že nepřišla o majetek. A ona? Ona ti ho zatím prodává rovnou před nosem. Nána nevděčná, zlá!
+
+</section>

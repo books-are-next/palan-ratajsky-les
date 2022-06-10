@@ -3,6 +3,8 @@ title: 1952 (3)
 contentType: prose
 ---
 
+<section>
+
 Dostal jsem obsílku, přišel jsem tedy.
 
 Ano, už jsme vás čekali. Ne, nemusíte se legitimovat, my vám věříme.
@@ -48,3 +50,5 @@ No vida, to už je jiná řeč než na začátku. Možná to s tímhle chlapem 
 Popel z luckystritky byl dlouhý už několik centimetrů, Pták nekouřil, jen se snažil vyhořelý sloupek vybalancovat, aby nespad na podlahu. Vyšetřovatel udělal líně těch pár kroků k němu, na klín mu hodil svazek papírů a na něj položil popelník. Ještě než si stačil Pták ameriku odklepnout, zhasil v něm svou Lípu, dokouřenou sotva do půlky. Zamáčkl ji opravdu fest, aby ten hajzl pocítil na koulích jeho sílu. Koukej to ze sebe vysypat, doprovodil svoje gesto příkazem.
 
 Jan Pták odklepl cigaretu do popelníku na vlastním klíně a pohlédl na spisek. Písmena byla vzhůru nohama, ale přečíst se to dalo: Vyšetřovací spis, Antonín Salvetr.
+
+</section>
