@@ -3,6 +3,8 @@ title: 1952 (2)
 contentType: prose
 ---
 
+<section>
+
 Každé zaklepání na dveře zajede otci Jonášovi rovnou do plic a na chvíli mu zastaví dech. Možná se to stane nějakou vnější mocí, možná ho sám zatají, jako by měl být zvířetem, které uniká útočníkovi tím, že předstírá zcepenění. Musí se pak nadechnout vůlí, připomenout si to, jinak by se snad opravdu zadusil. Může to být ten současný strach, je ho o co opřít, nebo ten starý, astma z války, z lágru? Kdo by rozlišoval?
 
 Je k podzimu, tenhle rok nebude o nic lepší, než byl ten předchozí. Tehdy ho vytáhli z jeho fary a vláčeli po kobkách, bili ho, sahali mu na přirození, na místo, kam se v semináři odnaučil sahat sám a nesáhl tam za všechny ty roky, kdy by tolik chtěl a bylo by to tak snadné. Nejúplněji ho ponížili ne tímhle, ne ranami, ale tím, že mu vzali lidi, farníky, které znal, křtil, oddával, zpovídal.
@@ -20,3 +22,5 @@ Míval rád společnost, smích a přiměřené žertování. Teď ho přes tý
 Nejčastěji si sedl do trávy a četl. Staré knihy. Nové nemá, žádné ani nevycházejí, aspoň ne takové, co by ho zajímaly. Čte ty stránky podruhé, poněkolikáté a hledá v nich nové věty, takové, které se před ním dosud skrývaly. Jsou tam, někdy je opravdu nalezne. Dřív ho tolik na četbu neužilo, býval raděj s druhými, ale lidi mu už vzali a knihy ještě ne.
 
 Ale lidi se vracejí, to knihy nedovedou, jako se vrátil ten, co zaklepal před týdnem. Kdo to klepe tentokrát? Ejhle, člověk!
+
+</section>

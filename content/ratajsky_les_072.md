@@ -3,6 +3,8 @@ title: 1958 (1)
 contentType: prose
 ---
 
+<section>
+
 Podcenils to. Měl ses líp připravit, předjednat si návštěvu s někým nahoře a nečekat, že se ti v cizím městě všechny dveře samy otevřou. Tyhle dveře se ti naopak přirazily rovnou před nosem. Krávy jedny nemocniční! Co si o sobě myslej? Prej, žádnou průkazkou nám tady mávat nebudete, nejsou návštěvní hodiny a vůbec: Vy jste nějaká přízeň, nebo co?
 
 Ano, jsem otec, pověděls vrchní sestře, ale zaváhal jsi s tou řečí a ona se tvé odmlky chytla. Tak to vyprávějte někomu důvěřivýmu v Horažďovicích na nádraží. Rodička uvedla jako otce dítěte svého zemřelého manžela a vy, pokud můžu soudit, ještě vypadáte docela živej.
@@ -24,3 +26,5 @@ Ale já už mám práci jinde!
 Ne, ty máš práci tady, řek šéf tak, že ti došlo, že nebudeš jedinej, kdo jezdí za soudruhama do Hory. Udělals ty papíry, makals po nocích, tumloval jsi, a proto jsi v tom nasekal nějaký chyby. Jindy nevadily – najednou bylo všechno špatně. Musels to opravovat, hledat nesoulad, zase po nocích a po dnech, až ses v tom úplně ztratil. Tak znovu. Kolik dnů jsi tou pitomou úředničinou ztratil?! A možná to byly rozhodující dny! Pro matku je vždycky nejpodstatnější, kdo zavolá porodní bábu, nebo jak to bejvá dneska, kdo ji vezme do porodnice. Majka tam došla pravděpodobně sama.
 
 Odešla rodit bez doprovodu, a tak si pořád myslí, že sama zůstane. Ale tak to není, ty jsi u ní, dělí tě než ty pitomý prosklený dveře. Moh bys vzít ten vozík, co tu bokem stojí, odaretovat kolečka a pustit ho proti sklu. Proběh bys střepama a těch pár sester ani doktor by tě nezastavili. Tak kde ji máte? Neskrejvejte ji přede mnou! zařval bys, a kdyby neřekli a neukázali, našel by sis ji sám. To všechno bys dokázal, víš, že bys to uměl, ale tohle by nebyl dobrej příchod. Majka tě potřebuje poznat po dobrým. A ty dokážeš bejt i takovej.
+
+</section>

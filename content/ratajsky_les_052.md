@@ -3,6 +3,8 @@ title: 2014 (3)
 contentType: prose
 ---
 
+<section>
+
 Dát si kafe na benzínce mi přídě dokonale ujetý. Za prvý: smrdí tady benzín. Za druhý: nemám auto, jak se tam mám dopravit? Za třetí: maj tam nainstalovaný kamery. Za čtvrtý: chemický hnusy z automatů bejvaj ještě vzdálenější čemukoliv pitnýmu než pigi na Josého chatě. Za pátý: proč utrácet kováky za takovýdle srágory?
 
 Karabas aspoň vybral mrňavou zastrčenou benzínku dole v Nuslích, kousek od tramvaje. A naštěstí je dost zima, přijít a zůstat tady v čepici neni nijak nápadný. Ale to pití je fakt běs! Hodila jsem do stroje pětku jenom proto, aby obsluha neremcala, že tu sedim na sucho a zabírám jejich jedinej stolek. Toho bublajícího substrátu s jedovatě hnědou barvou se ani netknu.
@@ -100,3 +102,5 @@ Jo, zůstáváme, řekla jsem na rozloučenou a snažila se zamaskovat, jak int
 Karabas se zvednul a zase se to obešlo bez pusy. Tentokrát jsem to byla já, kdo se o nic nepokusil. Eskort naskočil a kolem oken benzínky odjel směr Sasko. Možná mi Karabas ještě zamával, ze tmy auta ale nebylo nic vidět. Já každopádně ruku nezvedla, nebudu přece mávat svýmu odrazu ve skle pumpy.
 
 Lokla jsem si toho lektvaru v plastovým kalíšku. Jedovatej a ještě k tomu studenej. Fujtajbl!
+
+</section>

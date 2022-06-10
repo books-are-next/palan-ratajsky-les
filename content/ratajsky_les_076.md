@@ -3,6 +3,8 @@ title: 2014 (3)
 contentType: prose
 ---
 
+<section>
+
 Zmáčkla jsem červený tlačítko a pak ještě jedno menší po straně. Hovor ukončenej, telefon vypnutej a já ne snad klidnější, ale přece jen míň vynervovaná. Nebo si to aspoň namlouvám.
 
 Naštěstí jsem po maminčině smrti nezůstala úplně sama, v tetách na internátu jsem našla doslova náhradní rodinu, Felbabová do mě, spíš teda do mýho diktafonu, hustí svý nevšední zážitky, který jsou mi úplně volný, když se to nepovedlo za měsíc, za půl roku, už jsem ani nedoufala, že se na její vrahy přijde, nezapomenu, jak mi to pak ředitel ve sborovně oznámil, ani jsem se tehdy neuměla radovat, čumí na blikající červený světýlko, který jí dává klamnou naději, že se její památný slova zaznamenaj pro veškerou budoucnost, když se pak chystal proces, přijeli za mnou, abych všechno pověděla znovu, po tolika letech je těžké se rozpomínat, ale aspoň jsem nemusela na soud, snad chápe, že nahrávám jenom její hlas, přesto se do diktafonu culí jak poštklá, dokonce si i dlaní upraví drdol, dnes mě ale někdy mrzí, že jsem se těm bestiím tehdy nepodívala do tváře, ale to víte, osmnáctiletá holka na vojenské škole má jiné zájmy.
@@ -30,3 +32,5 @@ Chápu, novináři mají vždycky nějakou uzávěrku.
 Ten blb se vyloženě těší na výlet, to já o sobě říct nemůžu. Pojmenoval to ale celkem dobře: uzávěrka – ale nemám ji já, má ji on.
 
 José zamknul visací zámek na dveřích chaty a všichni tři jsme vyšli k autům – Felbabová kupodivu k dacii, ten bavorák je pána zdejší chaty. Co teď s tou babou, co s nima oběma? Fízlačka mi podala ruku, Melichárkovi vlepila zcela nechutnej polibek a řekla, že se večer ještě zastaví. Mám teď šáhnout do batohu pro paralyzér? Pustit výboj do ní a pak do něj? Nebo starochy složit v opačným pořadí? Zvládla bych to vůbec? Nebo obstarat Josého podle plánu a na babiznu si tady počkat večer? Co hroznýho ale ta mumie provedla? Jistě toho bylo nemálo, smrt si za svůj život zasloužíme skoro všichni, ale já o tom jejím nemám moc konkrétní informace. Vím jen, že jí zabili matku, což, i když to byla prokazatelná pizda, byla přece jen její mutr. Mám nějakej jinej důvod po ní hned teď vystartovat, než že viděla mojí držku?
+
+</section>

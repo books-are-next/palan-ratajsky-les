@@ -3,6 +3,8 @@ title: 2015 (4)
 contentType: prose
 ---
 
+<section>
+
 To tě teda lituju. Ona, která vzala roha před válkou, lituje mě, která se pokoušela násilí spíš probouzet? Nemít svou rodinu je horší, než nemít svoji zemi. Aha, tak takhle to myslí.
 
 A ty, Agni, rodinu máš? vyzvídala jsem.
@@ -68,3 +70,5 @@ Máš jedinej způsob, jak s jistotou určit, jestli je to tvůj předek, ozná
 Jakej? koukla jsem na ní, v ruce černý tílko.
 
 Řekla mi o něm.
+
+</section>

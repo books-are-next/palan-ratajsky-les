@@ -3,6 +3,8 @@ title: 1952 (3)
 contentType: prose
 ---
 
+<section>
+
 Poznal ho hned, podle zmoklé siluety, podle držení ramen, ještě nahrbenějších než dřív. Pane Jane, chvála Kristu, pojďte dál, přivítal ho kněz. Přece s ním nebude stát na zápraží – i když nejraděj by to provedl právě tak. Ještě se rozhlídne, jestli je příchozí sám, jestli ho nedoprovází nikdo z výboru ani od policie. I tak přináší chmurnou zvěst, kvůli jinému dnes lidi za farářem nechodí.
 
 Dobrý den, důstojný pane. Ani žádnou předsíňku, kam by si návštěva odložila kabát a klobouk, tu otec Jonáš nemá. Pověsí mu to tedy na skobu nad kamna, aspoň to dřív vyschne a on bude moct zase jít.
@@ -34,3 +36,5 @@ Nemám takové, už ne…
 Každý máme přátele, stojí při nás, i když třeba ani nevíme, promluvil kněz. Rád by dodal, že je to podobné jako s anděly, ale věděl, že velká slova nemívají účinek ani z kazatelny, natož pak od stolu. Já dnes budu vašim přítelem, řekl tedy. Co mi povíte, beru, jako by zaznělo ve zpovědnici.
 
 Ta vražda, ten mord… Mám s tím co dočinění, těžce vyslovil Pták. Kněz seděl naproti se skloněnou hlavou, modlil se asi.
+
+</section>

@@ -3,6 +3,8 @@ title: 2014 (3)
 contentType: prose
 ---
 
+<section>
+
 José Buenaventura Durruti. Kdo to sakra je? Každýmu z našich týpků dáváme nějakej nick. Je to opatrnější a snazší. Opatrnější proto, že se zbytečně brzo neprovalí pravá identita dotyčnýho zmrda, a pokud nám někdo šmejdí za prdelí, což šmejdí, poněkud jim to zkomplikuje slídění. Snazší je to pro nás v tom, že to pak neni osobní. Jasně, vždycky je to osobní, celá tahle činnost je kurevsky osobní, ale trocha abstrakce ji aspoň trochu naředí. Jsou chvíle, kdy úplně zapomenu původní jména, vnímám jen označení, symboly. Jdu po nich jako po kuželkách, zamířit a srazit tu, která ještě stojí. Bum!
 
 Barbucha se ve vyhledávání nicků úplně vyžívá. Možná jsem mu křivdila, necivěl na fotbal (nesnáším tu hru, je totálně zženštilá, ukňouraná), ale vymejšlel co možná nejsofistikovanější nick pro našeho novýho objekta. Asi mu takhle po večerech výuka historie chybí, tak vzdělává nás. Nestáčej mu nějaký ty Ramirézové Iljičové, Raulové a Lavrentijové. Přijde raděj vždycky s někým skoro neznámým. Možná si tím honí svoje intelektuální péro, ale třeba chce bejt jenom vtipnej. Tentokrát se mu to povedlo: José Durruti, španělskej anarchista, možná zabitej, možná šel pod kytky docela přirozeně. Dodnes se neví, jak to s jeho smrtí bylo, a přesně tak to má bejt i tentokrát. Ať si hoši lámou mozečky, ať se divěj a zneklidňujou, co se to kolem nich probůh děje. Takže José.
@@ -20,3 +22,5 @@ _Ano, ozvalo se zevnitř, byl to ženský hlas, a za pár vteřin slyšel, jak 
 _Felbabová se převléká a Salvetr si zatím pochutnává na nabídnuté domácí zabijačce. Při loučení posílá matka spát svou malou dcerku, říká jí, že se brzy vrátí. Salvetr dodává, že maminku určitě při­veze!_
 
 _Anna Felbabová se však do domku čp. 37 už nikdy nevrátila._
+
+</section>

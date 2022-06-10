@@ -3,6 +3,8 @@ title: 1952 (2)
 contentType: prose
 ---
 
+<section>
+
 Jsme tu jak v pasti, kdyby nás chtěl někdo vybrat, nemáme kudy zdrhnout. Posrals i tohle!
 
 Drž hubu!
@@ -78,3 +80,5 @@ Tak v tom případě bys měl zdrhat taky, protože ty máš na krku organizaci
 Měli bysme si domluvit nějakou verzi, kdyby nás vyslýchali.
 
 Mě nikdo vyslýchat nebude! Tys, Ptáku, pořád nepochopil, že to já budu vyslýchat je!
+
+</section>

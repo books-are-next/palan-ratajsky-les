@@ -3,6 +3,8 @@ title: 1952 (4)
 contentType: prose
 ---
 
+<section>
+
 Položil na stůl pistoli a začal řvát.
 
 Všichni se podívejte, dívejte se sem! Vidíte tu zbraň? Touhle pistolí byla zastřelená Anna Felbabová, vaše sousedka! Mohla tu být i dnes, ale není. Někdo ji sprovodil ze světa. A vy víte proč! Uletěly vám včely, že tak civíte? Heršvecmazec, zastřelili ji proto, že byla komunistka, chtěla lidem dobře a v obci založit družstvo. Aby i v Československu bylo tak, jako je v Sovětským svazu. My přece nevymejšlíme nic novýho, v SSSR to už všechno ozkoušeli za nás a funguje to: kolchozy, kolektivizace, pásový traktory, překračování plánu… I tam měli diverzanti svoje záměry, splítali svoje rejdy, ale soudruzi si s nima raz dva poradili. Nemyslete si, my se od nich neučíme jenom orat. My si osvojujem i jiné pokrokové sovětské metody, třeba to, jak najít nepřítele. Zlikvidovat ho, to už umíme po svým.
@@ -20,3 +22,5 @@ O tom, co s čím souvisí, rozhodujeme my. Jak se menuješ, soudruhu?
 Menuju se Hromas. A žádnej soudruh nejsem.
 
 Ale budeš, Hromasi, budeš, podotkl řečník. Mám do pytle pocit, že jste to pořád ještě nepochopili. Tak po lopatě: kdo nepodepíše, nepůjde domu. Budem tu klidně do noci, do rána, budem tu klidně až do žní a vy pak podepíšete a půjdete rovnou sklízet! A do tý doby žádný řeči, žádný žrádlo, nic. Ani vychcat se nepudete!
+
+</section>

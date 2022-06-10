@@ -3,6 +3,8 @@ title: 1958 (2)
 contentType: prose
 ---
 
+<section>
+
 _Dne 27. března 1958 po závěrečné poradě vyhlásil předseda senátu rozsudek, jímž se_
 
 _obžalovaní Antonín Salvetr, Jan Pták, Josef Kašpar, Anna Kubelková, Josef Koupil uznávají vinnými trestným činem vraždy podle §§ 6, 216, odst. 1, 2, písm. c) tr. zák.,_
@@ -60,3 +62,5 @@ _obž. Jan Pták: podávám odvolání,_
 _obž. Josef Kašpar: podávám odvolání,_
 
 _obž. Antonín Salvetr: trest přijímám._
+
+</section>

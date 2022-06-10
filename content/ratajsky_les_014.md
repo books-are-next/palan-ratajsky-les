@@ -3,6 +3,8 @@ title: 1958 (3)
 contentType: prose
 ---
 
+<section>
+
 Uvědomuješ si, soudruhu, že to, co nám tady vykládáš, není nic jinýho než pustá fabulace? Že na toho Kašpara máš prostě pifku?
 
 Já vím, soudruzi, důkazy nenesu, ale v jejich opatřování jste třída vy, ne já. Navíc, kdyby se nechtěl doznat, můžete to vzít přes Majku, jeho ženu.
@@ -34,3 +36,5 @@ Tos nečekal. S tímhle nechceš nic mít! Něco jinýho je svědčit u soudu,
 Neboj, vysadíme tě před vesnicí, řek vyšetřovatel a oba se synchronně zasmáli.
 
 Vstal jsi. Stejně tě už studil zadek. Lampička na stole zůstala svítit.
+
+</section>

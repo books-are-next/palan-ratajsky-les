@@ -3,6 +3,8 @@ title: 2014 (1)
 contentType: prose
 ---
 
+<section>
+
 Je to sotva nějakejch šedesát kiláků, ale lokálka z Vršovic se tam loudá dvě hodiny. K tomu dva přestupy. Nemám vlaky nijak zvlášť ráda, jsou příliš komunitní, v autobusu si zalezu k okýnku, a když chvíli ignoruju toho týpka vedle, mám boží klid. Tady pořád někdo přesedá, nastupuje a přisedává si, rozpráví, dokonce i zpívá. Ale co, aspoň jsem si vyzkoušela svoje inkognito houbařky na pozdním výletě. V týhle zemi si stačí vzít proutěnej košík, hodit do něj rybičku, a každej vám hned začne vykládat, že pořád ještě rostou, ale loni to bylo lepší. Tady všichni na potkání vykládaj, jak bejvalo líp.
 
 Na zastávce jsem vystoupila úplně sama, všichni jeli dál nebo blíž. Opuštěná nádražní stanice se zatlučenejma okenicema – nebyl by to špatnej squat, kdyby stál úplně jinde – na dohled jen lesy, rozbahněný pole a nějaká ta nezpevněná cesta; druhá budova žádná. Vlak se zdejchnul a já se rozhodla svou samotu vzít jako dobrý znamení, k čemu by mi byl opak? Samota je praktická. Někomu by ještě mohlo začít bejt divný, že se houbařka nevydá rovnou za nosem do nejbližšího lesa, ale datluje cosi do iPadu. I když možný je dneska všechno, třeba některý houbaři skutečně sdílej nejlepší loviště křemenáčů přes FourSquare.
@@ -18,3 +20,5 @@ Cesta je prach a štěrk, z jedný strany pole bahna, z druhý skála, kterou
 Támhle to je! Mejlka je vyloučená, Josého dača stojí na samotě, nic dalšího tu není. Dobře si to pán vybral – pro sebe, nikdo ho tu celý ty nekonečně se vlekoucí desetiletí nezneklidňoval, dobře to vybral i pro mě. Vysoký smrky, nebo to jsou jedle? dělaj z toho místa dokonalej úkryt. Je pod mrakem, obloha jeden velkej šedivák, ale i kdyby svítilo, sem by slunce stejně nedočumlo, neproniklo by tou zelenou šedí.
 
 Říkám dača, ale spíš bych měla říkat Hutte. Jako letní sídlo si to vystavěl ve třiačtyřicátým nějakej oficír SS-Hofu. Přes den se, chudáček, dřel někde ve výcvikovým prostoru zbraní SS na Benešovsku, pak nased do meďoura a tady si v zapadajícím slunci četl Heineho, opékal si buřty a shlížel ze skály dolů na svěřený to Vater­land. Možná ty stromy všude kolem nasázel on, přes den jenom řval, tak si třeba chtěl trochu protáhnout kostru. A stromy za ty roky vyrostly, nezajímalo je, kde Herr Offizier skončil a že se ze Sommerresidenz stala dača.
+
+</section>

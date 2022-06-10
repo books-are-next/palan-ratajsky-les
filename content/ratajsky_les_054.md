@@ -3,6 +3,8 @@ title: 1958 (4)
 contentType: prose
 ---
 
+<section>
+
 Neseděls úplně vzadu, ale stejně jsi v Onomyšli vystoupil z autobusu poslední. Nechals ostatní vylízt dřív, aby se rozsypali jako zrní do svejch krmníků. Ani nezakdákali, někteří na sebe aspoň pokynuli, na tebe nikdo, ani když šli kolem tvýho sedadla uličkou. Ani ty ses nesnažil. Tohle není správnej čas na pozdravy.
 
 Až doma, za zataženým závěsem, se začne mluvit. Jak bylo na soudě? Jak by mělo bejt? odsoudili je, od toho tu soudy jsou. Kdyby je chtěli pustit, nemuselo by se to vůbec konat. Několik smrtí. Někteří se odvolali, ale bez naděje, spíš jen z trucu, sami musí vědět, jaká hodina uhodila. A dlouhé tresty…
@@ -20,3 +22,5 @@ Hodně se o vaší rodině po vsi navykládalo, pak už jenom o tobě. Říkal
 Stojíš před Majčiným, obešels ho i z boční cesty. Dům je bez člověka v něm. Nesvítí se, neozývá se nic. Že by se Majka nechala dovízt a zalezla hned do kanafasu? Těžko, zatopila by a ještě teď by se z komína kudrnatil kouř. Zkusíš to ještě, vezmeš za kliku – a skutečně, je zamčeno. Klepat nemá cenu. Barák se sám neotevře.
 
 Kde je Majka? Přijede ještě v noci? Jela jinam? Kam asi? Pro děti do Janovic, to by mělo svůj smysl, řekne jim o tatínkovi, poví o jeho smrti jako o něčem, co ony už stejně tuší. Vypovídá se, asi i vypláče, ženské jsou takové. A pak přijede. Vrátí se domů i s dětma a za nějakej čas zase začne bejt veselo. Už tu radost cítíš.
+
+</section>

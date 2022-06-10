@@ -3,6 +3,8 @@ title: 1958 (3)
 contentType: prose
 ---
 
+<section>
+
 Občanku máš tentokrát připravenou. Nepočkáš ani na vyzvání a rovnou ji vsuneš do průzoru pod sklem kukaně. Průkaz tam už leží, ale vrátnej stejně udělá to gesto jako prve. Ukáže prstem: sem s tím. Počká okamžik, jako by ti nechával čas průkazku položit tam, kde už je, a teprve pak ji čapne. Do knihy návštěv opíše tvoje údaje a konečně se na tebe podívá. Pokusíš se o úsměv: Už jsem tu byl, nedávno jste si mě zapisoval. Je mu to úplně jedno, neusměje se, nezaškaredí, neodpoví. Třeba je hluchej, napadne tě, ale hned si uvědomíš, co je to za pitomost. Tihle lidi slyší velmi dobře.
 
 Řekneš muži na vrátnici, že neseš nové informace. Takhle s ním mluvíš, ale přitom je to naopak: dneska se chceš něco dozvědět ty, jdeš na Bezpečnost proto, aby ses moh ptát ty jich. Je v tom kus drzosti, to jistě, snad budou shovívaví. Chtěl bych mluvit s těmi soudruhy, co minule, řekneš nahlas.
@@ -26,3 +28,5 @@ Minule byl přívětivější, na cestu se optal, konverzoval, teď mlčí jak z
 Věděl jsi, že tam bude. Ramenatej plešoun, šéf. Tentokrát neseděl za stolem, ale na jeho desce. V rukou držel nějaký papíry, dost možná Kašparovy výslechy. Nebo už to snad je výpověď Majky? Počkal, dokud za tebou nezaklaply dveře, hodil složku na stůl a řek slovo: Sedej! Židle z chladivého kovu stála uprostřed kanceláře pořád jen jedna. Dřepnul sis na ni a kabelu sevřel na břiše. Už nehřeje. Ten, co tě přived, se posadil za svůj stůl, zaregistroval jsi, že v remingtonce nemá zasunutý žádný papíry. Nečekali tě.
 
 Zase mlčení, neřekli: Co tě k nám přivádí. Neřekli nic, ale cítils, že tě už vyslýchají. Konečně se hlavní vyšetřovatel napřímil, protáh si záda a řek druhé slovo: Zpívej!
+
+</section>

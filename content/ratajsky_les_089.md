@@ -3,6 +3,8 @@ title: 2015 (9)
 contentType: prose
 ---
 
+<section>
+
 Mazda odbočila z dálnice na obchvatu Plzně. Stopař stál zkušeně na místě, kde se zužují pruhy do jednoho, auta zpomalují a řidiči, kteří to tu moc neznají, se ujišťujou, jestli jedou správně. Barbucha správně jede. Jindy by stopaře vzal, sám tak někdy jezdí, ale dneska ne. Ani neudělal omluvné gesto. Potřebuje prostor jen pro sebe a v něm si připomenout, kvůli čemu to všechno provádí. Co udělá, je mu jasné, stejně jako pořadí, ve kterém to provede.
 
 Kde jsou Dítě s Karabasem? Za mřížema ne. Barbuchovy zdroje o nich nic nevědí, což znamená, že zdrhli. Útěk je v takový situaci solidní volba. Pokud se někde zašili – Barbucha se taky brzo zašije – mohli bysme po čase obnovit spojení a možná i spolupráci. Kontakty, který Barbucha má, částečně na bázi kamarádský, částečně názorový, ale hlavně na rovině finanční, pořád spolehlivě fungujou. Prachy se nikdy nezkazej.
@@ -14,3 +16,5 @@ Sorry, Strašáku, dneska to budeš muset doklepat sám. V tuhle chvíli mě za
 Barbucha to tentokrát nedělá jen ze všech těch důvodů světa jako jindy. Tentokrát je to navíc i pro tebe, Strašáku, a pro Dítě, hlavně pro ni. Na tomhle případu jí záleželo víc než na ostatních. Jste v tom namočeni krví. Možná právě proto to nemohla dotáhnout do konce, ani tys, Strašáku, nemoh. Vždycky je lepší o věci jen vědět (jako historik), než ji pociťovat (jako potomek obětí). Zase ty škodlivý emoce. Možná právě ty vám zabránily oddělat hajzla, kterej dostal pod šibenici vašeho dědka. Dítě, holka moje zlatá, chápu, jak ti muselo bejt! Udělám to pro vás. To je ten důvod.
 
 Cedule v zatáčce: Klatovy 6 kilometrů.
+
+</section>

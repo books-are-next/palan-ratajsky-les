@@ -3,6 +3,8 @@ title: 1952 (1)
 contentType: prose
 ---
 
+<section>
+
 Tys toho Ptáka znal, viď?
 
 Ta věta zajela do Kašpara jako břit. To jméno: Pták! A ten minulej čas! Kolega, co za ním stojí frontu v závodní kantýně, vypadá bezelstně. Opravdu neví, co právě řek? Je to promyšlená provokace, nebo prázdnej tlach? Kašpar je obezřetnej, nasadí univerzální a neselhávající odpověď: Proč?
@@ -32,3 +34,5 @@ Kašpar kouká do talíře. Není z těch, co si pečivo do polívky nadrolí, 
 Já fakt myslím pérem, zasmál se Kašpar do sebe. Byli kolem toho mordu tři, dva už jsou v báni a já dumám o babách. Musí začít uvažovat mozkem, aspoň chvílema. A bejt opatrnej. Hlavně na sebe neupozorňovat, ničím, rozhodně ne tim, že bude větrat paničky. Brzo by vlez někomu do zelí a pantáta by měl chuť si na chlapovi zchladit žáhu. Všechno musí důkladně promyslet, rozhodnout se a pak podle toho žít. Nebude to snadný, ale když je jeden v ohrožení, dokáže i takovýhle věci.
 
 Kašpar dojed. Opřel si prsty o desku stolu a zapraštěl všema najednou, osum lupnutí a jedna velká úleva. Vstal, vyjedenej talíř se lžící vzal do pravačky, druhou rukou přišoup židli ke stolu. Podíval se na desku stolu. Ležel tam třetí rohlík. Dokud jedl, ani si nevšim, že ho tam ještě má.
+
+</section>

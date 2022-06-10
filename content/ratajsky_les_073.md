@@ -3,6 +3,8 @@ title: 2014 (2)
 contentType: prose
 ---
 
+<section>
+
 Svoje nově ukořistěné halóvozidlo jsem nechala stát stranou. Nehodlám odpovídat na otázky, jak se mu na čumáku omylem udělala skandinávská espézetka a kde jsem ho vůbec tak nejednou vzala. Tenhle úkryt mezi smrčkama navíc zná Radostova škodovka z minula. Už ji vidím, daču na skále, Jestřábí hnízdo, potkaní sluj. José je doma, náležitě se mu čudí od komína, a před plotem stojí… Copak má asi za vůz? Pane jo, dacii, tak to má bejt. Ale ne?! Za tím hranáčem stojí ještě jedno auto. Je mi úplně šumák, že je to vysteroidovanej bavorák, ale co mi jedno není, že ty auta jsou dvě. To znamená dva lidi – nejmíň. Šit! José – a kdo ještě? Jestli teď zaváhám, začnu se bát. A rozklepaná udělám leda prd, a ne nějakou akci. Takže mi nezbejvá než přidat, poslední metry k vrátkům div že neuběhnu.
 
 Pěkně vítám, vy budete paní, nebo snad slečna Červená! oznámil mi chlap, kterej cosi kutil u dveří do chaty.
@@ -56,3 +58,5 @@ Ahoj ty stará vojno, kde se tam bereš? ozvalo se z telefonu. Tak ony se skute
 Jsme tady trochu vynervovaný. Představ si, že se Josefovi někdo vloupal do chaty a navíc mu poničil sad. Zavolal mě sem, omrkli jsme to, a když sem pak dorazila tady mladá soudružka…
 
 Chtěla sis ji proklepnout, viď? Obezřetná jako vždycky, pochválila bolševická redaktorka bolševickou policistku. Současná bývalou. Chvíli ještě plkaly (z mýho kreditu!), zatímco já byla připravená skočit lvím skokem po mobilu, nebo zdrhnout bez něj, kdyby se prokeclo, že mě vlastně soudružka redaktorka osobně nikdy neviděla, že je to jen pokus – její i můj. Dopadlo to ale nad míru ušlechtile. Babizny si popřály mnoho zdraví a alespoň drobných radostí v životě (fakt to řekly!) a Sonička mě ještě chtěla na ucho. Vysvětlila mi (pořád na hlasitě), že Helenka je v popisované kauze sice zásadní zdroj, a navíc obdivuhodná žena s nelehkým osudem, ale před rokem s ní byl v Haló novinách velký rozhovor, tak ať se držím původního zadání. Bezva, přímo z ústředí mám nařízeno držet se Josého! Tak jo, budu.
+
+</section>

@@ -3,6 +3,8 @@ title: 1952 (2)
 contentType: prose
 ---
 
+<section>
+
 Seděl na farářově židli, na tom jediném jakžtakž pohodlném místu k sezení, sotva ale důstojný pán otevřel dveře, vstal a přesedl si na štokrle. S omluvou. Ve tmě byl vidět jenom ten pohyb, ne sama postava, takové přítmí bylo. Nesvítil, samozřejmě že ne. Jak by mohlo jít z téhle místnosti světlo, když se kněz, jediný přiznaný obyvatel kobky, šel právě projít po venku?
 
 Říkal ještě něco? zeptal se ten ve stínu.
@@ -32,3 +34,5 @@ Nic z toho Antonín Salvetr příteli neřekl, jen si ten dialog přehrával v�
 Pták říkal, že se vrátí domů do Smrku, chce prý vést nenápadný život, vzpomněl si kněz nad další bramborou.
 
 Kdo může vést nenápadnější život než já? pomyslel si Salvetr, slyšet kamaráda přes dveře a zůstat hnít na bramborách. Jistě, nechtěl přítele vydat nebezpečí, je na útěku a tenhle režim umí paragraf o neoznámení používat. Ale faráře zrovna takové hrozbě vydal. Vyptal se na něj lidí a šel za ním. Protože věděl, že neodmítne? Protože si chtěl v aspoň relativním zázemí setřídit plány a naplnit břicho? Protože potřeboval někomu položit otázku: Nejsem přece jenom vrah?
+
+</section>

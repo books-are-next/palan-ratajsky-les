@@ -3,6 +3,8 @@ title: 2014 (4)
 contentType: prose
 ---
 
+<section>
+
 Čaj, teda tu břečku v otlučenejch skleničkách od hořčice jsem položila na lištu krbu. Oheň už slušně řádil, teplota nezadržitelně stoupala k dvoucifernýmu skóre, za chvíli se možná přestane kouřit od huby.
 
 Humus, zhodnotila jsem úroveň našeho stolování.
@@ -42,3 +44,5 @@ Vidíte, ani mě nenapadlo takhle uvažovat. Těch stromů je mi líto, ale je t
 Usmála jsem se na něj. Už poněkolikátý za posledních pár minut. Pozor, Dítě, dneska se zubíš víc než za celej minulej lunární měsíc dohromady, aby ses nějak moc neroztlemila. Ještě jsme se ani nepředstavili, mně se říká Dítě.
 
 Vstal a podal mi starosvětsky pravačku. Dítě? To není moc přiléhavá přezdívka pro tak atraktivní ženu. Mé jméno je Radosta.
+
+</section>

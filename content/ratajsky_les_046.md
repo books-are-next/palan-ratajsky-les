@@ -3,6 +3,8 @@ title: 2014 (1)
 contentType: prose
 ---
 
+<section>
+
 Pokácet mu nějakou tu třešeň? Vylomit zámek? To je dost málo, ne?
 
 Nejde o velikost zásahu, ale o jeho dopad, stačí jen trošek. K čemu by byla totální destrukce? Padne mu pár stromků a on znejistí. Znám ho, jak nebude po jeho, hned se začne ohlížet ve strachu.
@@ -58,3 +60,5 @@ Jste hodnej člověk. Ach jo, zase se na něj culím.
 To nemůžete, slečno, vědět, nic o mně nevíte…
 
 V duchu jsem hádala, co bude mít za auto. Něco z půjčovny, nebo že by přijel vlastním? Saab? Volvo? Když jsme došli k lesu, kde mezi stromy skrytě parkoval, přišlo mi to jako dost blbej vtip. Stála tam škodovka! Bílá oktávka se švédskou espézetkou. Pan řidič je prostě vlastenec.
+
+</section>

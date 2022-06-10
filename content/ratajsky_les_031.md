@@ -3,6 +3,8 @@ title: 1958 (4)
 contentType: prose
 ---
 
+<section>
+
 Nečekals, že bude doma tak šupem, tys přijel z Hory odpoledním autobusem, ona večerním. Nezaregistrovals, jak prošla kolem baráku, ale když se před jejím srotili sousedi, dva tři Kašparovi kumpáni, bylo tobě i celý vsi jasný, že Majka je zpátky. Na oslavy ale ani pomyšlení: ten její hnije za mřížema a pár dalších chlapů ze vsi jakbysmet.
 
 Jestlipak Majka ví, kdo jí pomoh, komu může bejt vděčná? Řekli jí to soudruzi? Chtěli jsme si tě tady nechat, hnát tě před soud jako toho tvýho, za podílnictví, neoznámení, ale dohodli jsme se s jedním od vás a ten se za tebe zaručil. Teď sypej domů a buď na něj hodná.
@@ -20,3 +22,5 @@ Jak málo stačilo a je všechno jinak. Kašpar hnije v krimu a Majka je doma
 Kašpar! Ještě je tu Kašpar a ona je za něj pořád vdaná. Která by ale chtěla bejt ženou vraha? Nebo spíš vdovou po vrahovi, za smrt se přece dává jedině smrt, Kašpar nemůže počítat s ničím menším. A kdyby se to snad překlápělo na jinou stranu, zase bys zajel na Bezpečnost.
 
 Otevřels kredenc a hodil do sebe panáka. Spíš pro štěstí než na kuráž. Půjdeš za Majkou rovnou, nebudeš čekat, až si věci rozmyslí, správnej čas je teď. Nebudeš se ani zdržovat do úplný tmy. Že tě třeba někdo uvidí? A co? Seš zvyklej, že po tobě pokukujou. Teď už si to můžeš dovolit. Na hlavu sis dal jenom klobouk, kabát jsi nechal na věšáku, ten kousek k Majčinu přejdeš jen ve vestě. Jdeš přece tam, kde budeš jednou doma.
+
+</section>

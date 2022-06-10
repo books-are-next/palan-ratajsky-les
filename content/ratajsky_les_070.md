@@ -3,6 +3,8 @@ title: 2014 (1)
 contentType: prose
 ---
 
+<section>
+
 Tonga, Ikale tahi. Když se řekne haka, spousta lidí si představí akorát novozélandský nadupance, pokud vůbec něco. Jsou ale i další rituály, třeba tenhle bojovej tanec z Tongy. Není v něm tolik zadržený energie jako u All Blacks, zase je výbušnější, zkrátka jinej. Pokoj očouzenej šalvěji, Ikale tahi z iPadu a můžu jít na věc.
 
 Tak jednoduchý to dneska není. Nikdy není, tentokrát tuplem. Kluci jsou v báni nebo za horama, já jsem naučená obstarávat logistiku a řeči, ale byli to oni, kdo dělal tu hnusnou černou rudou práci. Já u toho většinou ani nebyla, nebo jsem stála stranou a tajně se klepala. Dneska to spadne celý jenom na mě.
@@ -30,3 +32,5 @@ Dítě, jak tu čáru vezmeš? Lokálkou, která ti frnkla, zatímco tu vyšiluj
 Karel mi nechtěl pomáhat, třeba ale teď změnil názor, možná se na smrt dívá jinak, když ji už sám zažil. Stavím se za ním ještě jednou, už nemusím klepat, rovnou jdu. Klíče od škodovky nechal na stolku, mávaj na mě zoubkama: Vem si nás, Dítě, vem si nás! Tak jo. A techničák? Bude ho mít Karel v kapse? Paráda, je tam. Člověče, potřebuju si vzít tvoje auto. Není to krádež, je to tvoje spolupráce, potřebuju ji.
 
 Ikale tahi. Odešel mi vazač, pilíři jsou vykartovaný a všechny pozice v mlýnu zůstávaj jenom na mně. Je to ztracenej zápas. I takovej se ale dá hrát.
+
+</section>

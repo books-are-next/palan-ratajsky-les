@@ -3,6 +3,8 @@ title: 1958 (3)
 contentType: prose
 ---
 
+<section>
+
 _Já jsem se po odchodu matky uzamkla. Po uzamčení jsem si šla lehnout. Hukot auta jsem nezaslechla. Je mi známo, že matka měla v obci nepřátele, a to zejména z řad místních zemědělců, kteří ji nenáviděli jako Nikodým, Hromas, cestář Novák, Maštalíř. Tyto nepřátele měla matka v důsledku její funkce, kdy zejména žádala, aby zemědělci hojně dodávali. Cestář Novák, kterému byla odebrána lovecká puška, prohlašoval, že se pomstí. Asi měsíc před smrtí mi matka říkala, že rolník Drahota prohlašoval při výdeji lístků, že jestli lístky nedostane, věděl by si s matkou rady, kdyby byla jiná doba._
 
 Mladou Felbabovou na soud nevzali. Čtou jen do mikrofonu její slova, to, co vypověděla dřív a bez publika. Tak je to správně, odbudeme si to sami mezi sebou a mladí už nebudou o našich záležitostech pomalu nic vědět, jen cosi neurčitého a z doslechu. Prožijou svoje životy v lepším světě, v takovém, jaký jim postavíme. I dneska, tady v divadle v Kutné Hoře, ten svět budujeme.
@@ -20,3 +22,5 @@ Ti zbývající celkem pěkně vyprávějí, vědí, co říkat, žaloba se nemu
 Jan Pták. Toho držela žaloba v ohrádce dýl, ptali se horem dolem, nabízeli skutečnosti a důkazy, ale on byl tvrdošíjný, zůstal na svém: Ne, nemělo se střílet, jen vlasy ostříhat, to na tuhle práci si sjednal komplice, na žádnou jinačí. Kde jsou ale nůžky a proč měli střelci pistoli, neumí pořádně vysvětlit. Říká, že lituje, tohle nechtěl, to prý ne… I ostatní litují, pozdě, a kdoví jestli ne s falší.
 
 Konečně vedou před porotu posledního. Obžalovaný Antonín Salvetr.
+
+</section>

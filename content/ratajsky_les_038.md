@@ -3,6 +3,8 @@ title: 1958 (2)
 contentType: prose
 ---
 
+<section>
+
 _Už v roce 1950 byla soudružka Felbabová jako delegát na okresní konferenci KSČ v Kutné Hoře, kde před zúčastněnými odhalila záměry vesnických boháčů, když prohlásila, že dělníci v továrnách mají hlad, zatímco sedláci na vesnicích dělají jen samé nucené porážky a šmelinaří. Zakrátko nato někdo rozbil okna jejího domku, což ji nezastrašilo, ale naopak utvrdilo v tom, že má pravdu. Soudružka Felbabová byla oporou KSČ i vlády naší lidově demokratické republiky, byla jednou z prvých, kdo propagovala založení JZD v obci, a z toho důvodu byla nenáviděna u místních boháčů. Malí zemědělci soudružku Felbabovou chválili za její správnou politiku a říkali: Dobře že ji máme, ta umí boháčům zasadit ránu._
 
 Seš v divadle podruhý v životě, poprvý ještě se školou na nějakým tom Jiráskovi. Nepamatuješ si příběh, téma, jen kostýmy hereček, ty výstřihy! a výlet do města. A teď budeš vzpomínat i na dnešek.
@@ -18,3 +20,5 @@ __Přitvrzuje, pitevní protokol není četba z nedělní školy.__
 _Otevření dutiny lebeční přineslo tato zjištění. Mozek 1350 gramů, kora přiměřeně široká, dohněda, komory nerozšířeny, povlak jemný, v bílé látce málo kapek krevních. Rána na levé polovině čela proniklá kůží, podkožním vazivem a vniklá do dutiny lební do levé kosti čelní. Spodina lební zlomena tak, že od otvoru na levé polovině čela táhne se puklina směrem vzad až po levý hrbol temenný, kde končí. Strop levé očnice nepravidelně v několik různě velkých úlomků zlomen. V žaludku asi 150 gramů bramborami, kousky špeku a slupek z ovoce promísené zašedlé tráveniny, sliznice bledá. Pitvaná osoba zemřela udušením při aspiraci krve po ráně střelné. Z poraněného hrtanu nastalo krvácení a krev vdechnuta. Smrt nedala se žádnou lékařskou pomocí odvrátiti. Rána byla vypálena z ruční zbraně ráže asi 9 mm, z krátké vzdálenosti. Smrt nastala záhy po jídle a po vymočení._
 
 Opona je roztažená až do krajů. Kde se po pódiu proháněly nafintěný herečky a pištěly, dnes zasedá vážený soud. Na židlích žalobce a obhajoba, na lavicích obvinění a mezi nimi, aby se nedomlouvali a třeba nedotýkali, příslušníci v uniformách. Od nás ze vsi jenom Kašpar, ostatní pustili, jen později než Majku. Ta sem dnes taky přijela, sedí dole mezi publikem, poslouchá. Zkoušela se mezi projevy dostat blíž tomu svýmu, ale nepustili ji. Nic novýho mu už neřekne.
+
+</section>

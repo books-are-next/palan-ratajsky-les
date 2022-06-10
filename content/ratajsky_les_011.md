@@ -3,6 +3,8 @@ title: 1958 (2)
 contentType: prose
 ---
 
+<section>
+
 Stejnej barák, ale asi jiná kancelář, je už to let, cos tu byl poprvý, to si nemůžeš pamatovat. Kanceláře jsou všude jedna jako druhá, na výboře, při zemědělský komisi i tady. Každopádně tu dnes jsou jiní soudruzi a docela jinej přístup.
 
 Spousta lidí, i těch, co pochopili dobu a stojí ve správným šiku, by se sem bála vejít. Natož aby se sem hnali dobrovolně. Poserové. Vono ale nestačí na správný straně stát, jednou se tam postavit a myslet, že máš pro život vystaráno. Houby, je třeba se tam stavět s vytrvalostí, dokola, do zblbnutí, jako by všechno pokaždý začínalo znovu. Odbejt si to každý ráno jako nějakej divošskej rituál, probudit se, vychcat a správně se zařadit. No, každej den je možná zbytečně často, aspoň na vsi, tam je všechno pomalejší, ale občas se to zopakovat musí. A ty vycítíš, kdy to občas přijde. Včera v noci přišlo.
@@ -38,3 +40,5 @@ Jedny schody nahoru. V kanceláři za stolem seděl ramenatej plešoun, mohlo m
 Chlapík v sáčku, co tě doved, zased bokem k menšímu stolku. Papír měl v remingtonce už zasunutej i s kopírákem. Bude zapisovat tvůj výslech. Tohle ale nebude výslech, je to… Co to do pytle je? Soudružská spolupráce? Za okny bylo ještě trochu šero, a přece už den. Lampa na stole nebyla otočená proti tobě, neoslňovala tě, svítila na nějaký papíry.
 
 Tak co tě k nám přivádí, soudruhu?
+
+</section>

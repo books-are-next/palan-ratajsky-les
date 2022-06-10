@@ -3,6 +3,8 @@ title: 2015 (11)
 contentType: prose
 ---
 
+<section>
+
 Měla to být poklidná návštěva. Připravilas kulajdu a řízky se salátem, plánovalas, že po jídle projdete zámecký park – to jediné místo ve Vlašimi, kam se dá zajít, pokud člověk nechce do hospod.
 
 Nakonec přijeli jen dva. Tvůj byt na sídlišti našli bez problémů, bzučák dole u dveří nefunguje, ale někdo ze sousedů je pustil, taks ani nemusela scházet ze schodů, a už stáli u tebe v předsíňce. Vemte si papuče, snad jsem trefila vaši velikost, uvítalas je.
@@ -78,3 +80,5 @@ Mysleli jsme, že zrovna vy tomu budete rozumět.
 Zrovna já? Nemělas je do Vlašimi zvát, nemělas s nima u pomníčku své maminky vůbec mluvit. Krve bylo v tvém životě moc, provází tě jako červený stín. Předurčila tvůj život už v dětství jako nějaké zaříkání z pohádek, bylo ti dvanáct, ještě jsi je četla, když se všechno otočilo. Každý zločin má být potrestán, ale smrt?
 
 Už se neloučili. Zaklaply za nimi dveře, slyšelas jen dusot nohou po schodišti. Vyběhnout za nimi a zavolat: Vraťte se? Stejně by se nevrátili.
+
+</section>

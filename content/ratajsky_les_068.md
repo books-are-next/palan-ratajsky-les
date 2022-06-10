@@ -3,6 +3,8 @@ title: 1952 (4)
 contentType: prose
 ---
 
+<section>
+
 Otec Jonáš se na židli narovnal až tehdy, když Jan Pták popsal celý ten mord. Nevyslovil počet ani jména těch, kteří pro něj tu záležitost, tak to pojmenovával, obstarali, a kněz se nedoptával.
 
 A dál? právě tohle otce Jonáše nejvíc zajímalo.
@@ -36,3 +38,5 @@ Chci vám jen říct, že… Jak to má kněz vyslovit? Nenašel jiná slova: Ne
 Copak jsem nestál tomu všemu v zárodku? A neříkejte mi, otče, že nevědomost hříchu nečiní!
 
 Jane, příteli, nevím, co z toho je opravdu vaší vinou. Budu se modlit, aby byla co možná nejmenší. Správné to jistě nebylo, ale pochopitelné snad, to jsou dvě různé pozice, a pokud je dokážu rozlišit já, poslední farář na výspě světa, co teprve náš Pán, až před ním jednou staneme?!
+
+</section>

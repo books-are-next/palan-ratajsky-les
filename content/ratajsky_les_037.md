@@ -3,6 +3,8 @@ title: 1952 (2)
 contentType: prose
 ---
 
+<section>
+
 Ves si oddechla. Žádná utržená fuchtle už nebude lidi rozeštvávat, ničit a popouzet. Místní hrozba je pryč, na druhou stranu se přiblížilo něco děsivějšího. A že vzdálenějšího? Co znamená dálka pro neštěstí, které má opravdu přijít?
 
 Barák po Felbabové zůstal prázdný, Helenku někam odvezli, prý do prominentního internátu v Poděbradech, snad do Prahy, mají tam, říká se, Felbabovi nějakou přízeň. Párkrát se kolem baráku, a taky v něm, ochomejtaly uniformy. Těch bez uniforem bylo ještě víc, měřili, zapisovali, fotografovali. Víc asi čmuchali v Ratajským lese, o tom se ale mezi lidma neví. Tam teď nezajde nikdo. Co by tam kdo hledal?
@@ -16,3 +18,5 @@ Až včera něco! Přijeli kolem poledního a po vsi, na ploty, některejm i n
 Každej tam dnes zajde a každej v obavách. Jen děti nechaj doma, starší pohlídaj mladší a bát se budou všechny stejně. Všichni vědí, co je v hospodě čeká: hromadnej výslech, konfrontace všech proti všem, možná rovnou usvědčení jednoho z nich. Nebo jich bude víc? Dá se čekat jen to špatný, možná i nejhorší.
 
 Co ale znamená ten podpis? Už jen to, že ten cár, ta výhružka ke schůzi je vůbec podepsaná! Stačilo přece napsat: dostavte se – a stejně by každej přišel. Zatím je na konci lejstra podpis: Karel Louda, zmocněnec zásobovací komise. Co to, mordyje, znamená?
+
+</section>

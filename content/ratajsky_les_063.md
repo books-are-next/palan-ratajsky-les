@@ -3,6 +3,8 @@ title: 1958 (2)
 contentType: prose
 ---
 
+<section>
+
 Později nebudeš na těchhle pár měsíců vzpomínat rád, z paměti je skoro vyždímáš. Hodně věcí šlo až nezaslouženě dobře, kdybys věřil na osud, moh bys to brát jako jeho dílo. Ale nebylo v tom uspokojení, dostával jsi mnohé, ale to, cos skutečně potřeboval, ne, to ti nikdo dát nemoh. V komunismu bude každej mít podle svejch potřeb, učili tě na politickým kurzu. Zvládnuls ho za pár večerů, byla to podmínka, abys moh nastoupit na vedoucí práci. Říkal sis někdy, kdyžs cestou domů ze Zruče túroval pragovku pětistovku (tu sis pořídil z několika prvních vejplat), že zažíváš takovej komunismus naruby – máš všechno, co ani nechceš, bereš hrstma, ale stejně…
 
 Konečně jsi přestal dělat poskoka v dílně na podrážky, povýšils. Dílovedoucí je důležitej post, ale tobě nevyhovoval, pořád někde shánět materiál, dohadovat se s dělníkama, vysvětlovat, že musej na noční za pár korun, když hoří plán… S chlapama to ještě šlo, ale ženský? A kdo mi bude hlídat doma parchanty, vy, soudruhu? řekla ti taková klidně a tys byl namydlenej. Nebyla to žádná výhra, sám jsi cítil, že se pro to nehodíš, i soudruzi vejš to viděli.
@@ -18,3 +20,5 @@ Taky sekretářku ti přidělili, plavovlásku Andělu, okatou holku, vlasy na �
 Makals. Do Onomyšle jsi jezdil akorát na noc, někdy ses natáh jen v kanclu na kanapi. Mohs tak aspoň zajít do hospody Na Pohoří a smočit si po šichtě rty. Co doma? Prázdnej barák, naproti mladí Filzakovi, v hospodě bys ani neměl ke komu přisednout. Tady ve městě je to jiný, lidi se znaj míň a zavedou řeč s každým.
 
 Onomyšl se změnila. Po soudu tu konečně založili družstvo, tolik let jančili, že to pro ně není, a najednou to šlo celkem bez strkanic. Za tebou se ale pořád dívali úkosem. Pozdravili, to jo, ale srdečné to nebylo. Kdybys je měl ve fabrice, pakovali by se všichni.
+
+</section>

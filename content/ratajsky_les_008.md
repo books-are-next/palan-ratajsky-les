@@ -3,6 +3,8 @@ title: 1958 (1)
 contentType: prose
 ---
 
+<section>
+
 Vsadils na totální nejistotu. Na větu, která nestačila ani pořádně zaznít, a už zanikla ve vřavě pijatyky. Na pár slov, který nezaslech nikdo kromě tebe – a kromě něj, pochopitelně. Nebyl sis jistej, neslyšels jenom to, cos slyšet dávno chtěl?
 
 Seděls u vedlejšího stolu, zpocenej, ufuněnej a otočils do sebe další škopek. Sedmej, osmej…? On právě dosed. Natřásal se při muzice s nějakou macatou courou, tisknul se na ni, až se lidi ohlíželi, a když se ohlídla i Majka, šáh jí blbec na zadek. Právě tahle chyba ho bude stát úplně všechno. Roky si dával majzla, obezřetnej jak partyzán, a teď udělá takovou kravinu! Prostě kašpar. Vždycky byl bejk, nedal si říct, nezkrotl sám, nezkrotila ho žádná, ani prstýnek ho nezkrotil. Teď ale hráb tý běhně na prdel – a zkrotne, že to neviděl.
@@ -22,3 +24,5 @@ Když se to tehdy před šesti roky stalo, hned tě napadlo, že by to moh mít 
 Tlemit se uměli, ale najít pachatele, to ne. Když se s tim pořád babrali, i když se pak už s tím babrat přestali, věřils, že se Kašpar nějak prozradí, že ho právě ty přivedeš k odplatě, který se řiká spravedlnost. Jednu dobu sis dokonce v koupelně při holení cvičil takovej vševědoucí úsměv. Popatlal sis držku pitralonem a zatlemil ses do zrcadla: Tak vidíš, přece jen na tebe, kašpárku, došlo… Roky minuly a nedošlo na něj. Vzdal ses naděje, jen vzteku ne. A teď, najednou a bez varování, je ta chvíle tady.
 
 Civíš na něj s vědomím sil, který konečně stojí na tvý straně. Oproti nácviku v koupelně se to obešlo bez průpovídek, stejně by tě Kašpar neslyšel, a ještě by mu mohlo dojít, že ani tys nemoh pořádně slyšet je. Ještě se moh zachránit. Moh začít Majku třeba znovu škrtit, moh ji vytáhnout na parket a při valčíku jí taky šáhnout na prdel, moh dokonce znovu vyrazit za tou courou, než ji začne vobdělávat někdo druhej. Moh ti třeba i jednu vrazit. To všechno moh, ale on udělal to jediný, co udělat neměl. Odešel. Prostě a jednoduše vypad ze sálu, skoro utek. Přiznání jak víno, lepší než písemnej elaborát podepsanej kdovíkolika hodnověrnejma svědkama. Jen jsi teď nesměl udělat chybu. On tu svou už udělal.
+
+</section>
