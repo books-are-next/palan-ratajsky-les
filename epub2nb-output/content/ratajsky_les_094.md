@@ -1,5 +1,6 @@
 ---
 title: Ediční poznámka
+hiddenTitle: true
 contentType: prose
 ---
 

@@ -1,0 +1,1956 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Ratajský les",
+  "author": "Aleš Palán",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "palan-ratajsky-les-616dcb5",
+  "revision": "616dcb5",
+  "readingOrder": [
+    "promo.html",
+    "ratajsky_les_005.html",
+    "ratajsky_les_006.html",
+    "ratajsky_les_007.html",
+    "ratajsky_les_008.html",
+    "ratajsky_les_009.html",
+    "ratajsky_les_010.html",
+    "ratajsky_les_011.html",
+    "ratajsky_les_012.html",
+    "ratajsky_les_013.html",
+    "ratajsky_les_014.html",
+    "ratajsky_les_015.html",
+    "ratajsky_les_016.html",
+    "ratajsky_les_017.html",
+    "ratajsky_les_018.html",
+    "ratajsky_les_019.html",
+    "ratajsky_les_020.html",
+    "ratajsky_les_021.html",
+    "ratajsky_les_022.html",
+    "ratajsky_les_023.html",
+    "ratajsky_les_024.html",
+    "ratajsky_les_025.html",
+    "ratajsky_les_026.html",
+    "ratajsky_les_027.html",
+    "ratajsky_les_028.html",
+    "ratajsky_les_029.html",
+    "ratajsky_les_030.html",
+    "ratajsky_les_031.html",
+    "ratajsky_les_032.html",
+    "ratajsky_les_033.html",
+    "ratajsky_les_034.html",
+    "ratajsky_les_035.html",
+    "ratajsky_les_036.html",
+    "ratajsky_les_037.html",
+    "ratajsky_les_038.html",
+    "ratajsky_les_039.html",
+    "ratajsky_les_040.html",
+    "ratajsky_les_041.html",
+    "ratajsky_les_042.html",
+    "ratajsky_les_043.html",
+    "ratajsky_les_044.html",
+    "ratajsky_les_045.html",
+    "ratajsky_les_046.html",
+    "ratajsky_les_047.html",
+    "ratajsky_les_048.html",
+    "ratajsky_les_049.html",
+    "ratajsky_les_050.html",
+    "ratajsky_les_051.html",
+    "ratajsky_les_052.html",
+    "ratajsky_les_053.html",
+    "ratajsky_les_054.html",
+    "ratajsky_les_055.html",
+    "ratajsky_les_056.html",
+    "ratajsky_les_057.html",
+    "ratajsky_les_058.html",
+    "ratajsky_les_059.html",
+    "ratajsky_les_060.html",
+    "ratajsky_les_061.html",
+    "ratajsky_les_062.html",
+    "ratajsky_les_063.html",
+    "ratajsky_les_064.html",
+    "ratajsky_les_065.html",
+    "ratajsky_les_066.html",
+    "ratajsky_les_067.html",
+    "ratajsky_les_068.html",
+    "ratajsky_les_069.html",
+    "ratajsky_les_070.html",
+    "ratajsky_les_071.html",
+    "ratajsky_les_072.html",
+    "ratajsky_les_073.html",
+    "ratajsky_les_074.html",
+    "ratajsky_les_075.html",
+    "ratajsky_les_076.html",
+    "ratajsky_les_077.html",
+    "ratajsky_les_078.html",
+    "ratajsky_les_079.html",
+    "ratajsky_les_080.html",
+    "ratajsky_les_081.html",
+    "ratajsky_les_082.html",
+    "ratajsky_les_083.html",
+    "ratajsky_les_084.html",
+    "ratajsky_les_085.html",
+    "ratajsky_les_086.html",
+    "ratajsky_les_087.html",
+    "ratajsky_les_088.html",
+    "ratajsky_les_089.html",
+    "ratajsky_les_090.html",
+    "ratajsky_les_091.html",
+    "ratajsky_les_092.html",
+    "ratajsky_les_093.html",
+    "ratajsky_les_094.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jun 23 2022 20:02:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656014547067
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ratajsky_les_005.html",
+      "toc": []
+    },
+    {
+      "title": "Ratajský les",
+      "file": "ratajsky_les_005.html",
+      "words": 1,
+      "chars": 4,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "ratajsky_les_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ratajský les",
+      "file": "ratajsky_les_006.html",
+      "words": 17,
+      "chars": 120,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ratajsky_les_005.html",
+      "next": "ratajsky_les_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ODDÍL I",
+      "file": "ratajsky_les_007.html",
+      "words": 2,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ratajsky_les_006.html",
+      "next": "ratajsky_les_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ODDÍL I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (1)",
+      "file": "ratajsky_les_008.html",
+      "words": 644,
+      "chars": 3635,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ratajsky_les_007.html",
+      "next": "ratajsky_les_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (1)",
+      "file": "ratajsky_les_009.html",
+      "words": 495,
+      "chars": 2906,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ratajsky_les_008.html",
+      "next": "ratajsky_les_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (1)",
+      "file": "ratajsky_les_010.html",
+      "words": 534,
+      "chars": 3270,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ratajsky_les_009.html",
+      "next": "ratajsky_les_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (2)",
+      "file": "ratajsky_les_011.html",
+      "words": 1302,
+      "chars": 7677,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ratajsky_les_010.html",
+      "next": "ratajsky_les_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (2)",
+      "file": "ratajsky_les_012.html",
+      "words": 768,
+      "chars": 4564,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ratajsky_les_011.html",
+      "next": "ratajsky_les_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (2)",
+      "file": "ratajsky_les_013.html",
+      "words": 761,
+      "chars": 4602,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 9,
+      "prev": "ratajsky_les_012.html",
+      "next": "ratajsky_les_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (3)",
+      "file": "ratajsky_les_014.html",
+      "words": 753,
+      "chars": 4410,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 10,
+      "prev": "ratajsky_les_013.html",
+      "next": "ratajsky_les_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (3)",
+      "file": "ratajsky_les_015.html",
+      "words": 665,
+      "chars": 3951,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 11,
+      "prev": "ratajsky_les_014.html",
+      "next": "ratajsky_les_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (3)",
+      "file": "ratajsky_les_016.html",
+      "words": 746,
+      "chars": 4187,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 12,
+      "prev": "ratajsky_les_015.html",
+      "next": "ratajsky_les_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (4)",
+      "file": "ratajsky_les_017.html",
+      "words": 834,
+      "chars": 4769,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 13,
+      "prev": "ratajsky_les_016.html",
+      "next": "ratajsky_les_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (4)",
+      "file": "ratajsky_les_018.html",
+      "words": 496,
+      "chars": 3023,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 14,
+      "prev": "ratajsky_les_017.html",
+      "next": "ratajsky_les_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (4)",
+      "file": "ratajsky_les_019.html",
+      "words": 835,
+      "chars": 4689,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 15,
+      "prev": "ratajsky_les_018.html",
+      "next": "ratajsky_les_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ODDÍL II",
+      "file": "ratajsky_les_020.html",
+      "words": 2,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 16,
+      "prev": "ratajsky_les_019.html",
+      "next": "ratajsky_les_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ODDÍL II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (1)",
+      "file": "ratajsky_les_021.html",
+      "words": 773,
+      "chars": 4630,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 17,
+      "prev": "ratajsky_les_020.html",
+      "next": "ratajsky_les_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (1)",
+      "file": "ratajsky_les_022.html",
+      "words": 620,
+      "chars": 3493,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 18,
+      "prev": "ratajsky_les_021.html",
+      "next": "ratajsky_les_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (1)",
+      "file": "ratajsky_les_023.html",
+      "words": 939,
+      "chars": 5554,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 19,
+      "prev": "ratajsky_les_022.html",
+      "next": "ratajsky_les_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (2)",
+      "file": "ratajsky_les_024.html",
+      "words": 1013,
+      "chars": 5884,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 20,
+      "prev": "ratajsky_les_023.html",
+      "next": "ratajsky_les_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (2)",
+      "file": "ratajsky_les_025.html",
+      "words": 712,
+      "chars": 4025,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 21,
+      "prev": "ratajsky_les_024.html",
+      "next": "ratajsky_les_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (2)",
+      "file": "ratajsky_les_026.html",
+      "words": 679,
+      "chars": 4134,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 22,
+      "prev": "ratajsky_les_025.html",
+      "next": "ratajsky_les_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (3)",
+      "file": "ratajsky_les_027.html",
+      "words": 871,
+      "chars": 5230,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 23,
+      "prev": "ratajsky_les_026.html",
+      "next": "ratajsky_les_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (3)",
+      "file": "ratajsky_les_028.html",
+      "words": 733,
+      "chars": 4166,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 24,
+      "prev": "ratajsky_les_027.html",
+      "next": "ratajsky_les_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (3)",
+      "file": "ratajsky_les_029.html",
+      "words": 500,
+      "chars": 2868,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 25,
+      "prev": "ratajsky_les_028.html",
+      "next": "ratajsky_les_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (4)",
+      "file": "ratajsky_les_030.html",
+      "words": 1212,
+      "chars": 7105,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 26,
+      "prev": "ratajsky_les_029.html",
+      "next": "ratajsky_les_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (4)",
+      "file": "ratajsky_les_031.html",
+      "words": 714,
+      "chars": 3865,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 27,
+      "prev": "ratajsky_les_030.html",
+      "next": "ratajsky_les_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ODDÍL III",
+      "file": "ratajsky_les_032.html",
+      "words": 2,
+      "chars": 9,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 28,
+      "prev": "ratajsky_les_031.html",
+      "next": "ratajsky_les_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ODDÍL III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (1)",
+      "file": "ratajsky_les_033.html",
+      "words": 671,
+      "chars": 3922,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 29,
+      "prev": "ratajsky_les_032.html",
+      "next": "ratajsky_les_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (1)",
+      "file": "ratajsky_les_034.html",
+      "words": 763,
+      "chars": 4332,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 30,
+      "prev": "ratajsky_les_033.html",
+      "next": "ratajsky_les_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (1)",
+      "file": "ratajsky_les_035.html",
+      "words": 585,
+      "chars": 3121,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 31,
+      "prev": "ratajsky_les_034.html",
+      "next": "ratajsky_les_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (2)",
+      "file": "ratajsky_les_036.html",
+      "words": 778,
+      "chars": 4383,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 32,
+      "prev": "ratajsky_les_035.html",
+      "next": "ratajsky_les_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (2)",
+      "file": "ratajsky_les_037.html",
+      "words": 485,
+      "chars": 2842,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 33,
+      "prev": "ratajsky_les_036.html",
+      "next": "ratajsky_les_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (2)",
+      "file": "ratajsky_les_038.html",
+      "words": 666,
+      "chars": 4043,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 34,
+      "prev": "ratajsky_les_037.html",
+      "next": "ratajsky_les_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (3)",
+      "file": "ratajsky_les_039.html",
+      "words": 867,
+      "chars": 4940,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 35,
+      "prev": "ratajsky_les_038.html",
+      "next": "ratajsky_les_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (3)",
+      "file": "ratajsky_les_040.html",
+      "words": 658,
+      "chars": 3795,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 36,
+      "prev": "ratajsky_les_039.html",
+      "next": "ratajsky_les_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (3)",
+      "file": "ratajsky_les_041.html",
+      "words": 653,
+      "chars": 3966,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 37,
+      "prev": "ratajsky_les_040.html",
+      "next": "ratajsky_les_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (4)",
+      "file": "ratajsky_les_042.html",
+      "words": 602,
+      "chars": 3533,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 38,
+      "prev": "ratajsky_les_041.html",
+      "next": "ratajsky_les_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (4)",
+      "file": "ratajsky_les_043.html",
+      "words": 545,
+      "chars": 3113,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 39,
+      "prev": "ratajsky_les_042.html",
+      "next": "ratajsky_les_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ODDÍL IV",
+      "file": "ratajsky_les_044.html",
+      "words": 2,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 40,
+      "prev": "ratajsky_les_043.html",
+      "next": "ratajsky_les_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ODDÍL IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (1)",
+      "file": "ratajsky_les_045.html",
+      "words": 930,
+      "chars": 5289,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 41,
+      "prev": "ratajsky_les_044.html",
+      "next": "ratajsky_les_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (1)",
+      "file": "ratajsky_les_046.html",
+      "words": 783,
+      "chars": 4416,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 42,
+      "prev": "ratajsky_les_045.html",
+      "next": "ratajsky_les_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (1)",
+      "file": "ratajsky_les_047.html",
+      "words": 751,
+      "chars": 4337,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 43,
+      "prev": "ratajsky_les_046.html",
+      "next": "ratajsky_les_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (2)",
+      "file": "ratajsky_les_048.html",
+      "words": 312,
+      "chars": 1912,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 44,
+      "prev": "ratajsky_les_047.html",
+      "next": "ratajsky_les_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (2)",
+      "file": "ratajsky_les_049.html",
+      "words": 781,
+      "chars": 4567,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 45,
+      "prev": "ratajsky_les_048.html",
+      "next": "ratajsky_les_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (2)",
+      "file": "ratajsky_les_050.html",
+      "words": 799,
+      "chars": 4501,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 46,
+      "prev": "ratajsky_les_049.html",
+      "next": "ratajsky_les_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (3)",
+      "file": "ratajsky_les_051.html",
+      "words": 714,
+      "chars": 3886,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 47,
+      "prev": "ratajsky_les_050.html",
+      "next": "ratajsky_les_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (3)",
+      "file": "ratajsky_les_052.html",
+      "words": 1173,
+      "chars": 6740,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 48,
+      "prev": "ratajsky_les_051.html",
+      "next": "ratajsky_les_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (3)",
+      "file": "ratajsky_les_053.html",
+      "words": 853,
+      "chars": 4850,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 49,
+      "prev": "ratajsky_les_052.html",
+      "next": "ratajsky_les_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (4)",
+      "file": "ratajsky_les_054.html",
+      "words": 578,
+      "chars": 3146,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 50,
+      "prev": "ratajsky_les_053.html",
+      "next": "ratajsky_les_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (4)",
+      "file": "ratajsky_les_055.html",
+      "words": 817,
+      "chars": 4827,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 51,
+      "prev": "ratajsky_les_054.html",
+      "next": "ratajsky_les_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (4)",
+      "file": "ratajsky_les_056.html",
+      "words": 685,
+      "chars": 3809,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 52,
+      "prev": "ratajsky_les_055.html",
+      "next": "ratajsky_les_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ODDÍL V",
+      "file": "ratajsky_les_057.html",
+      "words": 2,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 53,
+      "prev": "ratajsky_les_056.html",
+      "next": "ratajsky_les_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ODDÍL V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (1)",
+      "file": "ratajsky_les_058.html",
+      "words": 1009,
+      "chars": 5836,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 54,
+      "prev": "ratajsky_les_057.html",
+      "next": "ratajsky_les_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (1)",
+      "file": "ratajsky_les_059.html",
+      "words": 767,
+      "chars": 4382,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 55,
+      "prev": "ratajsky_les_058.html",
+      "next": "ratajsky_les_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (1)",
+      "file": "ratajsky_les_060.html",
+      "words": 714,
+      "chars": 4137,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 56,
+      "prev": "ratajsky_les_059.html",
+      "next": "ratajsky_les_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (2)",
+      "file": "ratajsky_les_061.html",
+      "words": 1096,
+      "chars": 6501,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 57,
+      "prev": "ratajsky_les_060.html",
+      "next": "ratajsky_les_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (2)",
+      "file": "ratajsky_les_062.html",
+      "words": 702,
+      "chars": 3953,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 58,
+      "prev": "ratajsky_les_061.html",
+      "next": "ratajsky_les_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (2)",
+      "file": "ratajsky_les_063.html",
+      "words": 560,
+      "chars": 3288,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 59,
+      "prev": "ratajsky_les_062.html",
+      "next": "ratajsky_les_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (3)",
+      "file": "ratajsky_les_064.html",
+      "words": 671,
+      "chars": 3826,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 60,
+      "prev": "ratajsky_les_063.html",
+      "next": "ratajsky_les_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (3)",
+      "file": "ratajsky_les_065.html",
+      "words": 540,
+      "chars": 3036,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 61,
+      "prev": "ratajsky_les_064.html",
+      "next": "ratajsky_les_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (3)",
+      "file": "ratajsky_les_066.html",
+      "words": 1080,
+      "chars": 6126,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 62,
+      "prev": "ratajsky_les_065.html",
+      "next": "ratajsky_les_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (4)",
+      "file": "ratajsky_les_067.html",
+      "words": 660,
+      "chars": 3789,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 63,
+      "prev": "ratajsky_les_066.html",
+      "next": "ratajsky_les_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (4)",
+      "file": "ratajsky_les_068.html",
+      "words": 625,
+      "chars": 3494,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 64,
+      "prev": "ratajsky_les_067.html",
+      "next": "ratajsky_les_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ODDÍL VI",
+      "file": "ratajsky_les_069.html",
+      "words": 2,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 65,
+      "prev": "ratajsky_les_068.html",
+      "next": "ratajsky_les_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ODDÍL VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (1)",
+      "file": "ratajsky_les_070.html",
+      "words": 1099,
+      "chars": 6351,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 66,
+      "prev": "ratajsky_les_069.html",
+      "next": "ratajsky_les_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (1)",
+      "file": "ratajsky_les_071.html",
+      "words": 686,
+      "chars": 3837,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 67,
+      "prev": "ratajsky_les_070.html",
+      "next": "ratajsky_les_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (1)",
+      "file": "ratajsky_les_072.html",
+      "words": 858,
+      "chars": 4852,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 68,
+      "prev": "ratajsky_les_071.html",
+      "next": "ratajsky_les_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (2)",
+      "file": "ratajsky_les_073.html",
+      "words": 980,
+      "chars": 5763,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 69,
+      "prev": "ratajsky_les_072.html",
+      "next": "ratajsky_les_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (2)",
+      "file": "ratajsky_les_074.html",
+      "words": 729,
+      "chars": 4220,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 70,
+      "prev": "ratajsky_les_073.html",
+      "next": "ratajsky_les_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (2)",
+      "file": "ratajsky_les_075.html",
+      "words": 892,
+      "chars": 5114,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 71,
+      "prev": "ratajsky_les_074.html",
+      "next": "ratajsky_les_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (3)",
+      "file": "ratajsky_les_076.html",
+      "words": 833,
+      "chars": 4791,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 72,
+      "prev": "ratajsky_les_075.html",
+      "next": "ratajsky_les_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1952 (3)",
+      "file": "ratajsky_les_077.html",
+      "words": 773,
+      "chars": 4492,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 73,
+      "prev": "ratajsky_les_076.html",
+      "next": "ratajsky_les_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1952 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1958 (3)",
+      "file": "ratajsky_les_078.html",
+      "words": 831,
+      "chars": 4578,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 74,
+      "prev": "ratajsky_les_077.html",
+      "next": "ratajsky_les_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1958 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2014 (4)",
+      "file": "ratajsky_les_079.html",
+      "words": 1766,
+      "chars": 9985,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 75,
+      "prev": "ratajsky_les_078.html",
+      "next": "ratajsky_les_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2014 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ODDÍL VII",
+      "file": "ratajsky_les_080.html",
+      "words": 2,
+      "chars": 9,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 76,
+      "prev": "ratajsky_les_079.html",
+      "next": "ratajsky_les_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ODDÍL VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (1)",
+      "file": "ratajsky_les_081.html",
+      "words": 578,
+      "chars": 3367,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 77,
+      "prev": "ratajsky_les_080.html",
+      "next": "ratajsky_les_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (1)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (2)",
+      "file": "ratajsky_les_082.html",
+      "words": 1283,
+      "chars": 7396,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 78,
+      "prev": "ratajsky_les_081.html",
+      "next": "ratajsky_les_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (2)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (3)",
+      "file": "ratajsky_les_083.html",
+      "words": 777,
+      "chars": 4607,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 79,
+      "prev": "ratajsky_les_082.html",
+      "next": "ratajsky_les_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (3)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (4)",
+      "file": "ratajsky_les_084.html",
+      "words": 626,
+      "chars": 3546,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 80,
+      "prev": "ratajsky_les_083.html",
+      "next": "ratajsky_les_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (4)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (5)",
+      "file": "ratajsky_les_085.html",
+      "words": 678,
+      "chars": 3835,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 81,
+      "prev": "ratajsky_les_084.html",
+      "next": "ratajsky_les_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (5)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (6)",
+      "file": "ratajsky_les_086.html",
+      "words": 644,
+      "chars": 3837,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 82,
+      "prev": "ratajsky_les_085.html",
+      "next": "ratajsky_les_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (6)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (7)",
+      "file": "ratajsky_les_087.html",
+      "words": 598,
+      "chars": 3541,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 83,
+      "prev": "ratajsky_les_086.html",
+      "next": "ratajsky_les_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (7)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (8)",
+      "file": "ratajsky_les_088.html",
+      "words": 1021,
+      "chars": 5679,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 84,
+      "prev": "ratajsky_les_087.html",
+      "next": "ratajsky_les_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (8)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (9)",
+      "file": "ratajsky_les_089.html",
+      "words": 523,
+      "chars": 3144,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 85,
+      "prev": "ratajsky_les_088.html",
+      "next": "ratajsky_les_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (9)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (10)",
+      "file": "ratajsky_les_090.html",
+      "words": 595,
+      "chars": 3514,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 86,
+      "prev": "ratajsky_les_089.html",
+      "next": "ratajsky_les_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (10)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (11)",
+      "file": "ratajsky_les_091.html",
+      "words": 883,
+      "chars": 5087,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 87,
+      "prev": "ratajsky_les_090.html",
+      "next": "ratajsky_les_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (11)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (12)",
+      "file": "ratajsky_les_092.html",
+      "words": 207,
+      "chars": 1080,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 88,
+      "prev": "ratajsky_les_091.html",
+      "next": "ratajsky_les_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (12)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2015 (13)",
+      "file": "ratajsky_les_093.html",
+      "words": 84,
+      "chars": 498,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 89,
+      "prev": "ratajsky_les_092.html",
+      "next": "ratajsky_les_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2015 (13)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "ratajsky_les_094.html",
+      "words": 338,
+      "chars": 2279,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 90,
+      "prev": "ratajsky_les_093.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 136,
+      "chars": 890,
+      "ideas": 16,
+      "role": "colophon",
+      "order": null,
+      "prev": "ratajsky_les_094.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 60927,
+      "chars": 351763,
+      "ideas": 1535
+    },
+    "chapters": {
+      "words": 60786,
+      "chars": 350848,
+      "ideas": 1516
+    }
+  }
+}
