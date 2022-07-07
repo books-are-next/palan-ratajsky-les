@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "palan-ratajsky-les-615edf1",
-  "revision": "615edf1",
+  "identifier": "palan-ratajsky-les-4b0d69e",
+  "revision": "4b0d69e",
   "readingOrder": [
     "promo.html",
     "ratajsky_les_005.html",
@@ -101,11 +101,11 @@
     "ratajsky_les_092.html",
     "ratajsky_les_093.html",
     "ratajsky_les_094.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Sun Jun 26 2022 07:26:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656228381738
+    "date": "Thu Jul 07 2022 08:35:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182951616
   },
   "documents": [
     {
@@ -1909,7 +1909,7 @@
       "role": "chapter",
       "order": 90,
       "prev": "ratajsky_les_093.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1922,11 +1922,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 136,
-      "chars": 890,
+      "chars": 889,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "ratajsky_les_094.html",
       "next": null,
@@ -1944,7 +1944,7 @@
   "totals": {
     "all": {
       "words": 60927,
-      "chars": 351763,
+      "chars": 351762,
       "ideas": 1535
     },
     "chapters": {

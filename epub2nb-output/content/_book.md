@@ -105,7 +105,7 @@ readingOrder:
   - ratajsky_les_092.html
   - ratajsky_les_093.html
   - ratajsky_les_094.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
