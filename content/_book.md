@@ -12,7 +12,7 @@ meta:
   modified: '2021-04-13T00:00:00.000Z'
   contentType: prose
   publisherShort: mkp
-  isbn: 978-80-274-1247-1
+  isbn: 978-80-274-2677-5
 readingOrder:
   - promo.html
   - ratajsky_les_005.html
