@@ -9,7 +9,7 @@
       "modified": "2021-04-13T00:00:00.000Z",
       "contentType": "prose",
       "publisherShort": "mkp",
-      "isbn": "978-80-274-1247-1"
+      "isbn": "978-80-274-2677-5"
     },
     "elements": {
       "title": "MLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.*\nMLP.uroven1.PARAL\nMLP.uroven2.basne\nMLP.uroven2.kapitola\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*",
@@ -1935,6 +1935,6 @@
       "user": "books-are-next",
       "repo": "palan-ratajsky-les"
     },
-    "generatedAt": 1658413556479
+    "generatedAt": 1659363982753
   }
 }
