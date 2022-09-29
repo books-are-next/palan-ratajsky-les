@@ -18,7 +18,7 @@ Podklady ke své práci čerpal autor zejména z vyšetřovacího svazku čísl
 
 Inspirací některým okolnostem situovaným v románu do roku 2014 byl případ mstitele komunistického bezpráví Pravomila Raichla, který se 25. února 2002 pokusil zastřelit prokurátora Vaše. Raichl zemřel v den akce na infarkt, ale za jiných okolností než románový Karel Radosta. Další události zasazené v knize do let 2014 a 2015 jsou fikce.
 
-Poděkování za pomoc při vzniku knihy patří zejména Miloslavu Kalašovi, Lukáši Stibůrkovi, Anně Palánové, Janu Paulasovi, Vladimíru Pistoriovi, Karlu Médovi, Michalu Hladíkovi (foto na zadní předsádce[1](./resources/undefined)), Evě Kotalové a Stanislavě Vodičkové.
+Poděkování za pomoc při vzniku knihy patří zejména Miloslavu Kalašovi, Lukáši Stibůrkovi, Anně Palánové, Janu Paulasovi, Vladimíru Pistoriovi, Karlu Médovi, Michalu Hladíkovi (foto na zadní předsádce[^1]), Evě Kotalové a Stanislavě Vodičkové.
 
 </section>
 
@@ -27,7 +27,5 @@ Poděkování za pomoc při vzniku knihy patří zejména Miloslavu Kalašovi, L
 > _Aleš Palán_
 
 * * *
-
-_[1](./resources/undefined) Míněna knižní předloha našeho vydání. _Pozn. red.__
-
+[^1]: Míněna knižní předloha našeho vydání. _Pozn. red._
 </section>
