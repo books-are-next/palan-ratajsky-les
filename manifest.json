@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "palan-ratajsky-les-3875e59",
-  "revision": "3875e59",
+  "identifier": "palan-ratajsky-les-8136ceb",
+  "revision": "8136ceb",
   "readingOrder": [
     "promo.html",
     "ratajsky_les_005.html",
@@ -104,8 +104,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 01 2022 14:28:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659364108322
+    "date": "Thu Sep 29 2022 21:30:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487019578
   },
   "documents": [
     {
@@ -1904,7 +1904,7 @@
       "title": "Ediční poznámka",
       "file": "ratajsky_les_094.html",
       "words": 338,
-      "chars": 2279,
+      "chars": 2280,
       "ideas": 10,
       "role": "chapter",
       "order": 90,
@@ -1924,7 +1924,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 136,
-      "chars": 889,
+      "chars": 890,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -1944,12 +1944,12 @@
   "totals": {
     "all": {
       "words": 60927,
-      "chars": 351762,
+      "chars": 351764,
       "ideas": 1535
     },
     "chapters": {
       "words": 60786,
-      "chars": 350848,
+      "chars": 350849,
       "ideas": 1516
     }
   }
