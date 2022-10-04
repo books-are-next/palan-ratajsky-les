@@ -27,5 +27,7 @@ Poděkování za pomoc při vzniku knihy patří zejména Miloslavu Kalašovi, L
 > _Aleš Palán_
 
 * * *
+
 [^1]: Míněna knižní předloha našeho vydání. _Pozn. red._
+
 </section>
